@@ -1,4 +1,5 @@
 import re
+import json
 
 
 class Parser:
@@ -24,6 +25,7 @@ class Parser:
     def parser_table_info(self):
 
         table_info = self.file_parser()
+        table_info_json = []
         table_info_dict = {}
 
         for index, tuples in enumerate(table_info):
@@ -75,7 +77,14 @@ class Parser:
                 table_info_dict['blinds'] = blinds
                 table_info_dict['seats'] = seats
 
-        return table_info_dict
+            table_info_json.append(table_info_dict)
+
+        return table_info_json
 
 
-Parser(file_path="hastermaster/HH20231118 Aigyptios - $0.05-$0.10 - USD No Limit Hold'em.txt").parser_table_info()
+    def parse_into_json(self):
+        with open('table_info.json', 'w') as fp:
+            json_string = json.dumps(self.parser_table_info(), default=lambda o: o.__dict__, indent=2)
+            fp.write(json_string)
+
+Parser(file_path="hastermaster/HH20231118 Aigyptios - $0.05-$0.10 - USD No Limit Hold'em.txt").parse_into_json()
