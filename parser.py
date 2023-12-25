@@ -7,9 +7,10 @@ class Parser:
     def __init__(self, file_path):
         self.file_path = file_path
 
-    def file_parser(self):
         with open(self.file_path, 'r') as file:
-            pokerstars_file_content = file.read()
+            self.pokerstars_file_content = file.read()
+
+    def file_parser_table_info(self):
 
         table_info_re = re.compile(
             r"PokerStars Hand #(\d+):  (\S+) No Limit \(\$([0-9.]+)\/\$([0-9.]+) USD\) - "
@@ -18,13 +19,20 @@ class Parser:
             r"(.+?) \((\$[0-9.]+) in chips\)( is sitting out)?|"
             r"([\ws-]+): posts (small|big) blind \$(\d+\.\d{2})")
 
-        table_info: list[tuple] = table_info_re.findall(pokerstars_file_content)
+        table_info: list[tuple] = table_info_re.findall(self.pokerstars_file_content)
 
         return table_info
 
+    def file_parser_pre_flop(self):
+        pre_flop_re = re.compile(r"Dealt to (\w+) \[([2-9TJQKA][cdhs] [2-9TJQKA][cdhs])\]")
+        pre_flop = pre_flop_re.findall(self.pokerstars_file_content)
+        return pre_flop
+
+
+
     def parser_table_info(self):
 
-        table_info = self.file_parser()
+        table_info = self.file_parser_table_info()
         table_info_json = []
         table_info_dict = {}
 
