@@ -74,6 +74,7 @@ class Parser:
 
                 table_info_dict['blinds'] = blinds
                 table_info_dict['seats'] = seats
+
         return table_info_dict
 
 
