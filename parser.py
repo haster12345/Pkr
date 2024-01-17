@@ -13,6 +13,7 @@ class Parser:
     def file_parser_table_info(self):
 
         table_info_re = re.compile(
+
             r"PokerStars Hand #(\d+):  (\S+) No Limit \(\$([0-9.]+)\/\$([0-9.]+) USD\) - "
             r"(\d{4}\/\d{2}\/\d{2} \d{2}:\d{2}:\d{2}) \w+ \[\d{4}\/\d{2}\/\d{2} \d{2}:\d{2}:\d{2} ET\]\s+"
             r"Table '(\w+)' (\d+-max) Seat #(\d+) is the button|Seat (\d+): "
@@ -23,12 +24,22 @@ class Parser:
 
         return table_info
 
-    def file_parser_pre_flop(self):
+    @staticmethod
+    def hand_number(hand_text):
+        pattern = re.compile(r'PokerStars Hand #(\d+):')
+        match = pattern.search(hand_text)
+
+        if match:
+            hand_number = match.group(1)
+            return int(hand_number), True
+        else:
+            return 0, False
+
+    def hand_identifier(self):
         pre_flop_re = re.compile(r"Dealt to (\w+) \[([2-9TJQKA][cdhs] [2-9TJQKA][cdhs])\]")
-        pre_flop = pre_flop_re.findall(self.pokerstars_file_content)
-        return pre_flop
-
-
+        all_hands = pre_flop_re.findall(self.pokerstars_file_content)
+        # right now this get every hand in a file, need hand in specific hand number
+        return all_hands
 
     def parser_table_info(self):
 
@@ -89,10 +100,10 @@ class Parser:
 
         return table_info_json
 
-
     def parse_into_json(self):
         with open('table_info.json', 'w') as fp:
             json_string = json.dumps(self.parser_table_info(), default=lambda o: o.__dict__, indent=2)
             fp.write(json_string)
+
 
 Parser(file_path="hastermaster/HH20231118 Aigyptios - $0.05-$0.10 - USD No Limit Hold'em.txt").parse_into_json()
