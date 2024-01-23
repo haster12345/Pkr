@@ -12,35 +12,33 @@ class PreFlop:
             pokerstars_file_content = file.read()
         return pokerstars_file_content
 
-    def hand_numbers(self):
+    def hand_numbers(self, text):
         pattern = re.compile(r'PokerStars Hand #(\d+):')
-        match = pattern.findall(self.pokerstars_file_content)
+        match = pattern.findall(text)
         match = [int(i) for i in match]
         return match
 
-    def get_pre_flop(self):
+    def get_pre_flop(self) -> list:
         pattern = re.compile(r'HOLE CARDS([\s\S]*?)(?:FLOP|SUMMARY)')
-        match = pattern.findall(self.pokerstars_file_content)
+        pre_flops = pattern.findall(self.pokerstars_file_content)
 
-        for i in match:
-            print(i)
-
-        return match
+        return pre_flops
 
     def get_hand(self):
         
-        
+        pre_flops = self.get_pre_flop()
 
+        hands = []
 
-        hands_re = re.compile(r"Dealt to (\w+) \[([2-9TJQKA][cdhs] [2-9TJQKA][cdhs])\]")
-        hands = hands_re.findall(self.get_pre_flop())
+        for pre_flop in pre_flops:
 
+            hand_number = self.hand_numbers(pre_flop)
+            pre_flop_re = re.compile(r"Dealt to (\w+) \[([2-9TJQKA][cdhs] [2-9TJQKA][cdhs])\]")
+            hand = pre_flop_re.findall(self.pokerstars_file_content)
+            hands.append((hand, hand_number))
 
+        return hands
 
-        hands = [hand, hand_number]
-        
-
-        pass
 
     def get_position(self):
         pass
@@ -49,9 +47,12 @@ class PreFlop:
     def json_builder(self):
 
         for hand_number in self.hand_numbers():
+            
+            hand, hand_number = self.get_hand()
+
             json = {
-                'hand_number' : hand_number,
-                'hand': self.get_hand(),
+                'hand_number' : int(hand_number),
+                'hand': hand,
                 'position': self.get_position() 
             }                        
 
