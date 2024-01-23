@@ -40,10 +40,31 @@ class PreFlop:
         return hands
 
 
-    def get_position(self):
+    def get_position(self, hand_number):
+        """
+        this should query the database with the hand number and return the position
+        """
+
+        pass    
+    
+    def get_villain_position(self, hand_number):
+        """
+        this should query the database with the hand number and get the hero position
+        then we check who is in the pot, and assign then positions
+        """
+        pass
+
+    def get_action(self):
+        """
+        example output: [x c] = Check call
+        """
+        pass
+
+    def get_pot_size(self):
+        """
+        """
         pass
     
-
     def json_builder(self):
 
         for hand_number in self.hand_numbers():
@@ -53,7 +74,11 @@ class PreFlop:
             json = {
                 'hand_number' : int(hand_number),
                 'hand': hand,
-                'position': self.get_position() 
+                'position': self.get_position(),
+                'action' : self.get_action(),
+                'players_in_pot' : int(),
+                'pot_size' : float(),
+                'villain_positions' : list() 
             }                        
 
 
