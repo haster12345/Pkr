@@ -54,11 +54,17 @@ class PreFlop:
         """
         pass
 
-    def get_action(self):
+    def get_palyers_in_pot(self):
+        pass
+
+    def get_action(self, text):
         """
         example output: [x c] = Check call
         """
-        pass
+        pattern = re.compile(r'hastermaster:\s*(.*)')
+        matches = pattern.findall(text)
+        
+        return matches
 
     def get_pot_size(self):
         """
@@ -76,12 +82,12 @@ class PreFlop:
                 'hand': hand,
                 'position': self.get_position(),
                 'action' : self.get_action(),
-                'players_in_pot' : int(),
-                'pot_size' : float(),
-                'villain_positions' : list() 
+                'players_in_pot' : self.get_palyers_in_pot(),
+                'pot_size' : self.get_pot_size(),
+                'villain_positions' : self.get_villain_position()
             }                        
 
-
+        return json
 
 
 inst = PreFlop(file_path="hastermaster/HH20231118 Aigyptios - $0.05-$0.10 - USD No Limit Hold'em.txt")
