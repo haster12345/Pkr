@@ -63,17 +63,11 @@ class PreFlop:
     
     def json_builder(self):
 
-        print(len(self.get_pre_flop()))
-        print(len(self.hand_numbers()))
-
         jsons = []
 
         for i, pre_flop in enumerate(self.get_pre_flop()):
-            print(pre_flop)
             hand_number = self.hand_numbers()[i]
-            print(hand_number)
             hand = self.get_hand(pre_flop)
-
             
             json = {
                 'hand_number' : hand_number,
