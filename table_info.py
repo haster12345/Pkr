@@ -1,4 +1,5 @@
 import re
+import os
 
 class Files:
 
@@ -6,14 +7,23 @@ class Files:
         self.folder_path = folder_path
     
     def read_files(self):
-        pass
-    
-    def check_new_files(self):
-        pass
-    
-    def file_conent(self):
-        pass
-    
+
+        parsed_files = {}
+        file_content_list = []
+
+        for filename in os.listdr(self.folder_path):
+            
+            if filename in parsed_files:
+                continue
+            else:
+                with open(filename, 'r') as file:
+                    file_content = file.read()
+
+                file_content_list.append(file_content)
+                print(type(file_content))
+
+        return file_content_list
+
 
 class table_info:
 
@@ -75,8 +85,12 @@ class table_info:
                 'playr_info': self.player_info(hand_info),
                 'players_posting_blind': self.players_posting_blind(hand_info)
             }
+
+            jsons.append(json)
             print(json)
+            
             break
 
-        return
+        return jsons
+    
 
