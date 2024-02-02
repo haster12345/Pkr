@@ -25,7 +25,7 @@ class Files:
         return file_content_list
 
 
-class table_info:
+class TableInfo:
 
     def __init__(self, file_contnet):
         self.file_conent = file_contnet
@@ -94,3 +94,7 @@ class table_info:
         return jsons
     
 
+files = Files('hastermaster/')
+file_conent = files.read_files()
+
+TableInfo(file_contnet=file_conent).json_builder()
