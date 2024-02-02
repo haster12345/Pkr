@@ -35,12 +35,6 @@ class Parser:
         else:
             return 0, False
 
-    def hand_identifier(self):
-        pre_flop_re = re.compile(r"Dealt to (\w+) \[([2-9TJQKA][cdhs] [2-9TJQKA][cdhs])\]")
-        all_hands = pre_flop_re.findall(self.pokerstars_file_content)
-        # right now this get every hand in a file, need hand in specific hand number
-        return all_hands
-
     def parser_table_info(self):
 
         table_info = self.file_parser_table_info()
@@ -48,6 +42,7 @@ class Parser:
         table_info_dict = {}
 
         for index, tuples in enumerate(table_info):
+            
             if tuples[0] != '':
 
                 current_hand_number = tuples[0]

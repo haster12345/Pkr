@@ -33,7 +33,7 @@ class PreFlop:
 
     def get_position(self, hand_number):
         """
-        this should query the database with the hand number and return the position
+        this should query the database with the hand number and return position of players
         """
 
         pass    
