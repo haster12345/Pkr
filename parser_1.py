@@ -101,4 +101,4 @@ class Parser:
             fp.write(json_string)
 
 
-Parser(file_path="hastermaster/HH20231118_Aigyptios_-_0.05-0.10_-_USD_No_Limit_Holdem.txt").parse_into_json()
+# Parser(file_path="hastermaster/HH20231118_Aigyptios_-_0.05-0.10_-_USD_No_Limit_Holdem.txt").parse_into_json()

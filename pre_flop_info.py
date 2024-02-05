@@ -4,24 +4,25 @@ import re
 
 class PreFlop:
 
-    def __init__(self, file_path):
-        self.file_path = file_path
+    def __init__(self, file_content):
+        # self.file_path = file_path
+        self.file_content = file_content
 
-    @property
-    def pokerstars_file_content(self):
-        with open(self.file_path, 'r') as file:
-            pokerstars_file_content = file.read()
-        return pokerstars_file_content
+    # @property
+    # def pokerstars_file_content(self):
+    #     with open(self.file_path, 'r') as file:
+    #         pokerstars_file_content = file.read()
+    #     return pokerstars_file_content
 
     def hand_numbers(self):
         pattern = re.compile(r'PokerStars Hand #(\d+):')
-        match = pattern.findall(self.pokerstars_file_content)
+        match = pattern.findall(self.file_content)
         match = [int(i) for i in match]
         return match
 
     def get_pre_flop(self) -> list:
         pattern = re.compile(r'HOLE CARDS([\s\S]*?)(?:FLOP|SUMMARY)')
-        pre_flops = pattern.findall(self.pokerstars_file_content)
+        pre_flops = pattern.findall(self.file_content)
 
         return pre_flops
 
@@ -90,5 +91,5 @@ class PreFlop:
 
 
 
-inst = PreFlop(file_path="hastermaster/HH20231118_Aigyptios_-_0.05-0.10_-_USD_No_Limit_Holdem.txt")
-inst.parse_into_json()
+# inst = PreFlop(file_path="hastermaster/HH20231118_Aigyptios_-_0.05-0.10_-_USD_No_Limit_Holdem.txt")
+# inst.parse_into_json()

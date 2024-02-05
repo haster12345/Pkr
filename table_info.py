@@ -9,18 +9,15 @@ class Files:
     
     def read_files(self):
 
-        parsed_files = {}
         file_content_list = []
 
         for filename in os.listdir(self.folder_path):
+            
+            print(f'{self.folder_path}/{filename}')
+            with open(f'hastermaster/{filename}', 'r') as file:
+                file_content = file.read()
 
-            if filename in parsed_files:
-                continue
-            else:
-                with open(f'hastermaster/{filename}', 'r') as file:
-                    file_content = file.read()
-
-                file_content_list.append(file_content)
+            file_content_list.append(file_content)
 
         return file_content_list
 
@@ -96,7 +93,7 @@ class TableInfo:
             fp.write(json_string)
 
 
-files = Files('hastermaster/')
-file_conent_list = files.read_files()
+# files = Files('hastermaster/')
+# file_conent_list = files.read_files()
 
-TableInfo(file_contnet=file_conent_list[0]).parse_into_json()
+# TableInfo(file_contnet=file_conent_list[0]).parse_into_json()
