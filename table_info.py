@@ -92,8 +92,3 @@ class TableInfo:
             json_string = json.dumps(self.json_builder(), default=lambda o:__dict__, indent=2)
             fp.write(json_string)
 
-
-# files = Files('hastermaster/')
-# file_conent_list = files.read_files()
-
-# TableInfo(file_contnet=file_conent_list[0]).parse_into_json()

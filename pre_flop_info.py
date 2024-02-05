@@ -50,12 +50,21 @@ class PreFlop:
         pass
 
     def get_action(self, text):
-        """
-        example output: [x c] = Check call
+        """"
+        output ideas:
+        1) action : [c f r f f c f]
+            -  this doesnt provide with much info by itself, everything must be implied
+            - maybe this is better as notation is more comapct but needs functions to map actions to players
+              and values for raises and calls is needed
+        2) action: [['A', 'checks'], ['B', 'raises']]
+            - same as above but now names are added and more information about actions
+
+
         """
         pattern = re.compile(r'(\S+):\s*(.*)')
-        matches = pattern.findall(text)
-        return matches
+        action_player_list = pattern.findall(text)
+        actions = []        
+        return action_player_list
 
     def get_pot_size(self):
         """
@@ -88,8 +97,3 @@ class PreFlop:
         with open('pre_flop.json', 'w') as fp:
             json_string = json.dumps(self.json_builder(), default=lambda o:__dict__, indent=2)
             fp.write(json_string)
-
-
-
-# inst = PreFlop(file_path="hastermaster/HH20231118_Aigyptios_-_0.05-0.10_-_USD_No_Limit_Holdem.txt")
-# inst.parse_into_json()
