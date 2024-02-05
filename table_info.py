@@ -1,5 +1,6 @@
 import re
 import os
+import json
 
 class Files:
 
@@ -11,16 +12,15 @@ class Files:
         parsed_files = {}
         file_content_list = []
 
-        for filename in os.listdr(self.folder_path):
-            
+        for filename in os.listdir(self.folder_path):
+
             if filename in parsed_files:
                 continue
             else:
-                with open(filename, 'r') as file:
+                with open(f'hastermaster/{filename}', 'r') as file:
                     file_content = file.read()
 
                 file_content_list.append(file_content)
-                print(type(file_content))
 
         return file_content_list
 
@@ -28,28 +28,28 @@ class Files:
 class TableInfo:
 
     def __init__(self, file_contnet):
-        self.file_conent = file_contnet
+        self.file_content = file_contnet
 
     def hand_numbers(self):
         pattern = re.compile(r'PokerStars Hand #(\d+):')
-        match = pattern.findall(self.pokerstars_file_content)
+        match = pattern.findall(self.file_content)
         match = [int(i) for i in match]
         return match
 
     def hand_info(self):
         pattern = re.compile(r'([\s\S]*?)\*\*\* HOLE CARDS \*\*\*')
-        hand_info :list = pattern.findall(self.file_conent)
+        hand_info :list = pattern.findall(self.file_content)
 
         return hand_info
     
     def game_type(self, hand_info):
-        pattern = re.compile(r'(?<=Hand #\d+:  )(.*?)(?=\s-\s\d{4}/\d{2}/\d{2})')
+        pattern = re.compile(r'(?<=Hand #\d{12}: )(.*?)(?=\s-\s\d{4}\/\d{2}\/\d{2})')
         game_type = pattern.findall(hand_info)
-        return game_type
+        return game_type[0]
 
     def blind_sizes(self, hand_info):
         game_type = self.game_type(hand_info)
-        pattern = re.search(r'\d+\.\d+')
+        pattern = re.compile(r'\d+\.\d+')
         blind_sizes = pattern.findall(game_type)
         return blind_sizes
 
@@ -87,14 +87,16 @@ class TableInfo:
             }
 
             jsons.append(json)
-            print(json)
-            
-            break
 
         return jsons
-    
+
+    def parse_into_json(self):
+        with open('table_info.json', 'w') as fp:
+            json_string = json.dumps(self.json_builder(), default=lambda o:__dict__, indent=2)
+            fp.write(json_string)
+
 
 files = Files('hastermaster/')
-file_conent = files.read_files()
+file_conent_list = files.read_files()
 
-TableInfo(file_contnet=file_conent).json_builder()
+TableInfo(file_contnet=file_conent_list[0]).parse_into_json()
