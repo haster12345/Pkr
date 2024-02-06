@@ -58,8 +58,6 @@ class PreFlop:
               and values for raises and calls is needed
         2) action: [['A', 'checks'], ['B', 'raises']]
             - same as above but now names are added and more information about actions
-
-
         """
         pattern = re.compile(r'(\S+):\s*(.*)')
         action_player_list = pattern.findall(text)
