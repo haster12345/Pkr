@@ -4,19 +4,19 @@ from botocore.exceptions import NoCredentialsError
 # Connect to DynamoDB Local
 dynamodb = boto3.resource(
     'dynamodb',
-    endpoint_url='http://localhost:8000',  # Local DynamoDB endpoint
-    region_name='us-west-2',  # Specify any region (required by Boto3)
-    aws_access_key_id='anything',  # Dummy credentials
-    aws_secret_access_key='anything'  # Dummy credentials
+    endpoint_url='http://localhost:8000', 
+    region_name='eu-west-2', 
+    aws_access_key_id='anything',  
+    aws_secret_access_key='anything'
 )
 
-# Define table schema
-table_name = 'TestTable'
+
+table_name = 'TableInfo'
 table = dynamodb.create_table(
     TableName=table_name,
     KeySchema=[
         {
-            'AttributeName': 'ID',
+            'AttributeName': 'hand_number',
             'KeyType': 'HASH'
         }
     ],
@@ -24,12 +24,11 @@ table = dynamodb.create_table(
         {
             'AttributeName': 'ID',
             'AttributeType': 'N'
+        },
+        {
+            
         }
-    ],
-    ProvisionedThroughput={
-        'ReadCapacityUnits': 5,
-        'WriteCapacityUnits': 5
-    }
+    ]
 )
 
 # Wait until the table exists
