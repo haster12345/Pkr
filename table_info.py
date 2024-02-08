@@ -57,13 +57,29 @@ class TableInfo:
         
     def player_info(self, hand_info):
         pattern = re.compile(r'(.+?) \((\$[0-9.]+) in chips\)( is sitting out)?')
-        player_info = pattern.findall(hand_info)
-        return player_info
+        player_data = pattern.findall(hand_info)
+
+        players = {}
+
+        for player in player_data:
+            cleaned_string = player[0].strip()
+            parts = cleaned_string.split(": ")
+            player_chips = float(player[1][1:])
+            sitting_out = player[2]
+
+            players[f'{parts[0]}'] = [f'{parts[1]}', player_chips, sitting_out]
+
+        return players
+    
 
     def players_posting_blind(self, hand_info):
         pattern = re.compile(r'([\ws-]+): posts (small|big) blind \$(\d+\.\d{2})')
         players_posting_blind = pattern.findall(hand_info)
         return players_posting_blind
+    
+    def player_positions(self, hand_info):
+        button_seat_number = self.button_seat_number(hand_info)
+
     
     def json_builder(self):
         
@@ -78,8 +94,8 @@ class TableInfo:
                 'hand_number': hand_numbers[i],
                 'game_type': self.game_type(hand_info),
                 'blind_sizes': self.blind_sizes(hand_info),
-                'button_seat_number': self.button_seat_number(hand_info),
-                'playr_info': self.player_info(hand_info),
+                'button_seat_number': self.button_seat_number(hand_info)[0],
+                'player_info': self.player_info(hand_info),
                 'players_posting_blind': self.players_posting_blind(hand_info)
             }
 
