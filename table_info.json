@@ -11,34 +11,35 @@
       "3": [
         "Towinso",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.75,
-        ""
+        false
       ],
       "2": [
         "Jelieva",
         11.31,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.0,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.52,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -55,7 +56,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178775938,
@@ -69,29 +71,30 @@
       "3": [
         "Towinso",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.95,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.9,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.42,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Sid_58",
@@ -103,7 +106,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178787115,
@@ -117,34 +121,35 @@
       "2": [
         "Lergik",
         10.0,
-        " is sitting out"
+        true
       ],
       "3": [
         "Towinso",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.65,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.17,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.42,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -156,7 +161,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178799128,
@@ -170,34 +176,35 @@
       "2": [
         "Lergik",
         10.0,
-        " is sitting out"
+        true
       ],
       "3": [
         "Towinso",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.65,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.18,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.9,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.42,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -209,7 +216,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178810571,
@@ -223,34 +231,35 @@
       "2": [
         "Lergik",
         10.0,
-        " is sitting out"
+        true
       ],
       "3": [
         "Towinso",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.65,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.34,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.2,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -262,7 +271,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178819201,
@@ -276,34 +286,35 @@
       "2": [
         "Lergik",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.55,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.71,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.9,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Sid_58",
@@ -315,7 +326,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178822216,
@@ -329,34 +341,35 @@
       "2": [
         "Lergik",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.5,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.05,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.71,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.9,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -368,7 +381,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178826697,
@@ -382,29 +396,30 @@
       "1": [
         "Sid_58",
         11.5,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.61,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.05,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -416,7 +431,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178831231,
@@ -430,34 +446,35 @@
       "2": [
         "EngineerRoma",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.65,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.56,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.75,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.05,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -469,7 +486,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178835013,
@@ -483,34 +501,35 @@
       "2": [
         "EngineerRoma",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Sid_58",
         11.8,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.56,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.7,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.95,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -522,7 +541,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178847537,
@@ -536,34 +556,35 @@
       "1": [
         "VandesandeBart",
         8.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        " is sitting out"
+        true
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.16,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.7,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.41,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -575,7 +596,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178850914,
@@ -589,34 +611,35 @@
       "2": [
         "EngineerRoma",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "VandesandeBart",
         8.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.21,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.7,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.41,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -633,7 +656,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178858204,
@@ -647,34 +671,35 @@
       "2": [
         "EngineerRoma",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "VandesandeBart",
         8.15,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.16,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         10.6,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.41,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -686,7 +711,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178874921,
@@ -700,34 +726,35 @@
       "2": [
         "EngineerRoma",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "VandesandeBart",
         5.36,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.16,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         13.23,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.31,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -739,7 +766,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178888548,
@@ -753,34 +781,35 @@
       "1": [
         "VandesandeBart",
         7.1,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.16,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         13.23,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         5.62,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "VandesandeBart",
@@ -792,7 +821,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "VandesandeBart",
+        7.1,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.16,
+        false
+      ],
+      "CO": [
+        "Avskum2010",
+        13.23,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        5.62,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247178899206,
@@ -806,34 +867,35 @@
       "1": [
         "VandesandeBart",
         7.05,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.86,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         13.23,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.07,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -845,7 +907,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "VandesandeBart",
+        7.05,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        9.86,
+        false
+      ],
+      "CO": [
+        "Avskum2010",
+        13.23,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        6.07,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247178907060,
@@ -859,34 +953,35 @@
       "1": [
         "VandesandeBart",
         7.38,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.86,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         13.23,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         5.87,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -898,7 +993,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "VandesandeBart",
+        7.38,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        9.86,
+        false
+      ],
+      "CO": [
+        "Avskum2010",
+        13.23,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        5.87,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247178910633,
@@ -912,34 +1039,35 @@
       "1": [
         "VandesandeBart",
         7.38,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.76,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         13.38,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         5.87,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -951,7 +1079,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "VandesandeBart",
+        7.38,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        9.76,
+        false
+      ],
+      "CO": [
+        "Avskum2010",
+        13.38,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        5.87,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247178917507,
@@ -965,34 +1125,35 @@
       "1": [
         "VandesandeBart",
         7.53,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.71,
-        ""
+        false
       ],
       "5": [
         "Avskum2010",
         13.28,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         5.87,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -1004,7 +1165,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "VandesandeBart",
+        7.53,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        9.71,
+        false
+      ],
+      "CO": [
+        "Avskum2010",
+        13.28,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        5.87,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247178936676,
@@ -1018,29 +1211,30 @@
       "1": [
         "VandesandeBart",
         1.43,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         15.4,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         5.77,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "VandesandeBart",
@@ -1052,7 +1246,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178947053,
@@ -1066,34 +1261,35 @@
       "5": [
         "Smeta8810",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "VandesandeBart",
         1.39,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         15.4,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.37,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1105,7 +1301,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178954286,
@@ -1119,34 +1316,35 @@
       "5": [
         "Smeta8810",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "VandesandeBart",
         1.09,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         15.4,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.79,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1158,7 +1356,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178960226,
@@ -1172,34 +1371,35 @@
       "1": [
         "VandesandeBart",
         0.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         16.44,
-        ""
+        false
       ],
       "5": [
         "Smeta8810",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.79,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1211,7 +1411,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178964271,
@@ -1225,29 +1426,30 @@
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         16.39,
-        ""
+        false
       ],
       "5": [
         "Smeta8810",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.94,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Smeta8810",
@@ -1259,7 +1461,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178971781,
@@ -1273,34 +1476,35 @@
       "1": [
         "2xgomelx",
         10.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         16.39,
-        ""
+        false
       ],
       "5": [
         "Smeta8810",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.5,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1312,7 +1516,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178974477,
@@ -1326,29 +1531,30 @@
       "2": [
         "EngineerRoma",
         10.05,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         16.39,
-        ""
+        false
       ],
       "5": [
         "Smeta8810",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.45,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1360,7 +1566,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178976895,
@@ -1374,29 +1581,30 @@
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         16.39,
-        ""
+        false
       ],
       "5": [
         "Smeta8810",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.6,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1408,7 +1616,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178984801,
@@ -1422,24 +1631,25 @@
       "2": [
         "EngineerRoma",
         11.46,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.84,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.6,
-        ""
+        false
       ]
     },
+    "number_of_players": 4,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1451,7 +1661,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178992049,
@@ -1465,24 +1676,25 @@
       "2": [
         "EngineerRoma",
         11.46,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.69,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.19,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.5,
-        ""
+        false
       ]
     },
+    "number_of_players": 4,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1494,7 +1706,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247178996063,
@@ -1508,24 +1721,25 @@
       "2": [
         "EngineerRoma",
         11.36,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.69,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.34,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.45,
-        ""
+        false
       ]
     },
+    "number_of_players": 4,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1537,7 +1751,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179002462,
@@ -1551,34 +1766,35 @@
       "1": [
         "Muhlen9",
         10.0,
-        " is sitting out"
+        true
       ],
       "5": [
         "Demo071",
         10.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         11.06,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.99,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.34,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.45,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1590,7 +1806,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179007631,
@@ -1604,34 +1821,35 @@
       "1": [
         "Muhlen9",
         10.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         11.06,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.94,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.14,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.68,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1643,7 +1861,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179011212,
@@ -1657,34 +1876,35 @@
       "1": [
         "Muhlen9",
         10.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         11.06,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.94,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.09,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.9,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.83,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Demo071",
@@ -1696,7 +1916,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179013975,
@@ -1710,34 +1931,35 @@
       "1": [
         "Muhlen9",
         10.0,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.76,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.94,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.54,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.73,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1749,7 +1971,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Muhlen9",
+        10.0,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.76,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.94,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        14.54,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.73,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179025575,
@@ -1763,34 +2017,35 @@
       "1": [
         "Muhlen9",
         10.0,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.76,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.94,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.04,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.28,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Muhlen9",
@@ -1802,7 +2057,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Muhlen9",
+        10.0,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.76,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.94,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        14.04,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.28,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179028624,
@@ -1816,34 +2103,35 @@
       "1": [
         "Muhlen9",
         10.1,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.66,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.94,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.04,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.28,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1855,7 +2143,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Muhlen9",
+        10.1,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.66,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.94,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        14.04,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.28,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179036182,
@@ -1869,34 +2189,35 @@
       "1": [
         "Muhlen9",
         10.1,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.84,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.46,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.98,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1908,7 +2229,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Muhlen9",
+        10.1,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.61,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.84,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        14.46,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.98,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179040637,
@@ -1922,34 +2275,35 @@
       "1": [
         "Muhlen9",
         10.25,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.79,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.36,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.98,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1961,7 +2315,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Muhlen9",
+        10.25,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.61,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.79,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        14.36,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.98,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179045090,
@@ -1975,34 +2361,35 @@
       "1": [
         "Muhlen9",
         10.25,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.76,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.79,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         14.31,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.75,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.98,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Demo071",
@@ -2014,7 +2401,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Muhlen9",
+        10.25,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.76,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.79,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        14.31,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        9.75,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.98,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179060920,
@@ -2028,34 +2447,35 @@
       "1": [
         "Muhlen9",
         10.25,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.76,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         13.49,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.5,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.7,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.88,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2067,7 +2487,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179064989,
@@ -2081,34 +2502,35 @@
       "1": [
         "Avskum2010",
         13.23,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.66,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         13.49,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.5,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.7,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.98,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2120,7 +2542,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179070769,
@@ -2134,34 +2557,35 @@
       "1": [
         "Avskum2010",
         13.23,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         13.39,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.5,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         9.7,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.13,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -2173,7 +2597,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179083830,
@@ -2187,34 +2612,35 @@
       "1": [
         "Avskum2010",
         13.23,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         13.34,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.33,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.81,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.13,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -2226,7 +2652,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179094423,
@@ -2240,34 +2667,35 @@
       "1": [
         "Avskum2010",
         13.23,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         13.61,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.28,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.57,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.13,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Demo071",
@@ -2279,7 +2707,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179112406,
@@ -2293,34 +2722,35 @@
       "1": [
         "Avskum2010",
         13.23,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         14.36,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.28,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.52,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.36,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2332,7 +2762,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Avskum2010",
+        13.23,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.61,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        14.36,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.28,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        10.52,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.36,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179128825,
@@ -2346,34 +2808,35 @@
       "1": [
         "Avskum2010",
         12.96,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         14.36,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.28,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.81,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.31,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -2385,7 +2848,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Avskum2010",
+        12.96,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.61,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        14.36,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.28,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        10.81,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.31,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179134497,
@@ -2399,34 +2894,35 @@
       "1": [
         "Avskum2010",
         12.91,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.51,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         14.36,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.28,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.81,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.46,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2438,7 +2934,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Avskum2010",
+        12.91,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.51,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        14.36,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.28,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        10.81,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.46,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179139421,
@@ -2452,34 +2980,35 @@
       "1": [
         "Avskum2010",
         12.91,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.46,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         14.26,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.28,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.81,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.61,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -2491,7 +3020,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Avskum2010",
+        12.91,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.46,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        14.26,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.28,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        10.81,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.61,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179154128,
@@ -2505,34 +3066,35 @@
       "1": [
         "Avskum2010",
         12.91,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.46,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         14.21,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.73,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.81,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.16,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -2544,7 +3106,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Avskum2010",
+        12.91,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.46,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        14.21,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        9.73,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        10.81,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.16,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179165364,
@@ -2558,34 +3152,35 @@
       "1": [
         "Avskum2010",
         10.66,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.46,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.61,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.68,
-        ""
+        false
       ],
       "5": [
         "Demo071",
         10.71,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.16,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Demo071",
@@ -2597,7 +3192,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Avskum2010",
+        10.66,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.46,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.61,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        9.68,
+        false
+      ],
+      "CO": [
+        "Demo071",
+        10.71,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.16,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179184438,
@@ -2611,34 +3238,35 @@
       "1": [
         "Avskum2010",
         10.66,
-        " is sitting out"
+        true
       ],
       "5": [
         "Demo071",
         10.66,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.61,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.61,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.68,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.06,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2650,7 +3278,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179191842,
@@ -2664,34 +3293,35 @@
       "1": [
         "Djentx",
         10.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.56,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.51,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.68,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.21,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -2708,7 +3338,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179199261,
@@ -2722,34 +3353,35 @@
       "1": [
         "Djentx",
         10.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.56,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.91,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         7.8,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.21,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -2761,7 +3393,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179211000,
@@ -2775,34 +3408,35 @@
       "1": [
         "Djentx",
         10.0,
-        " is sitting out"
+        true
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.86,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.01,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.21,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -2814,7 +3448,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179228594,
@@ -2828,34 +3463,35 @@
       "1": [
         "Djentx",
         10.0,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.86,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.96,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.16,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2867,7 +3503,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.0,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.86,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.96,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.16,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179252972,
@@ -2881,34 +3549,35 @@
       "1": [
         "Djentx",
         11.87,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.86,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.96,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.1,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -2920,7 +3589,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.87,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.86,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.96,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        6.1,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179261080,
@@ -2934,34 +3635,35 @@
       "1": [
         "Djentx",
         11.82,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.4,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.51,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.96,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.1,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2973,7 +3675,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.82,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.4,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.51,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.96,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        6.1,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179267505,
@@ -2987,34 +3721,35 @@
       "1": [
         "Djentx",
         11.82,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.35,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.51,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         10.51,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.96,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.1,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3026,7 +3761,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.82,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.35,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.51,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        10.51,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.96,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        6.1,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179282612,
@@ -3040,34 +3807,35 @@
       "1": [
         "Djentx",
         11.82,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.35,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         9.61,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.83,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.1,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3079,7 +3847,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.82,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.35,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        9.61,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        9.83,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        6.1,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179292074,
@@ -3093,34 +3893,35 @@
       "1": [
         "Djentx",
         11.82,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.35,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.91,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.73,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         6.9,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -3132,7 +3933,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.82,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.35,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.91,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        9.73,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        6.9,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179303151,
@@ -3146,34 +3979,35 @@
       "1": [
         "Djentx",
         11.82,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.05,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.91,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.43,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.5,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -3185,7 +4019,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.82,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.05,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.91,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        9.43,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        7.5,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179308186,
@@ -3199,34 +4065,35 @@
       "1": [
         "Djentx",
         11.72,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.2,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.91,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.43,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.45,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -3238,7 +4105,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.72,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.2,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.91,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        9.43,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        7.45,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179317626,
@@ -3252,34 +4151,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.1,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.46,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.91,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.68,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.28,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -3291,7 +4191,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.1,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.46,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.91,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.68,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.28,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179325037,
@@ -3305,34 +4237,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.05,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.36,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.91,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.83,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.28,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3344,7 +4277,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.05,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.36,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.91,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.83,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.28,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179332717,
@@ -3358,34 +4323,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.37,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.31,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.61,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.83,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.28,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3397,7 +4363,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.37,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.31,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.61,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.83,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.28,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179339422,
@@ -3411,34 +4409,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.62,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.31,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.56,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.73,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.18,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -3450,7 +4449,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.62,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.31,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.56,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.73,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.18,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179346012,
@@ -3464,34 +4495,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.77,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.31,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.56,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.68,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.08,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -3503,7 +4535,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.77,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.31,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.56,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.68,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.08,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179361784,
@@ -3517,34 +4581,35 @@
       "1": [
         "Djentx",
         11.57,
-        ""
+        false
       ],
       "2": [
         "EngineerRoma",
         10.77,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.31,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.56,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.18,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.64,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -3556,7 +4621,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.57,
+        false
+      ],
+      "BB": [
+        "EngineerRoma",
+        10.77,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.31,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.56,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        9.18,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        7.64,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179369335,
@@ -3570,29 +4667,30 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.31,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.56,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.18,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.64,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3604,7 +4702,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179378735,
@@ -3618,34 +4717,35 @@
       "2": [
         "Cyprian-Jones",
         5.1,
-        " is sitting out"
+        true
       ],
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.26,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.79,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.98,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         7.64,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3657,7 +4757,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179389745,
@@ -3671,34 +4772,35 @@
       "2": [
         "Cyprian-Jones",
         5.1,
-        " is sitting out"
+        true
       ],
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.26,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.74,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.06,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.52,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -3710,7 +4812,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179399881,
@@ -3724,34 +4827,35 @@
       "2": [
         "Cyprian-Jones",
         5.1,
-        " is sitting out"
+        true
       ],
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.26,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.74,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.15,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.42,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -3763,7 +4867,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179404108,
@@ -3777,34 +4882,35 @@
       "1": [
         "Djentx",
         11.72,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.1,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.26,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.74,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.15,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.37,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -3816,7 +4922,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.72,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.1,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.26,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.74,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.15,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.37,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179413516,
@@ -3830,34 +4968,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.42,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.26,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.44,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.15,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.37,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -3869,7 +5008,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.42,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.26,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.44,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.15,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.37,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179421615,
@@ -3883,34 +5054,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.82,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.16,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.44,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         8.15,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.07,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3922,7 +5094,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.82,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.16,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.44,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        8.15,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.07,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179436050,
@@ -3936,34 +5140,35 @@
       "1": [
         "Djentx",
         11.67,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         16.11,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.24,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         9.13,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.07,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3975,7 +5180,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        11.67,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        16.11,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.24,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        9.13,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.07,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179450861,
@@ -3989,34 +5226,35 @@
       "1": [
         "Djentx",
         10.77,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         18.35,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.07,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -4028,7 +5266,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.77,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        18.35,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.07,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179457273,
@@ -4042,34 +5312,35 @@
       "1": [
         "Djentx",
         10.77,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         18.3,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.12,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4081,7 +5352,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.77,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        18.3,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.12,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179465303,
@@ -4095,34 +5398,35 @@
       "1": [
         "Djentx",
         10.67,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.0,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         18.45,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.07,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -4134,7 +5438,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.67,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.0,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        18.45,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.07,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179476430,
@@ -4148,34 +5484,35 @@
       "1": [
         "Djentx",
         10.62,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.23,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "andregers72",
         18.25,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.07,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -4187,7 +5524,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.62,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.23,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "andregers72",
+        18.25,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.07,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179487194,
@@ -4201,29 +5570,30 @@
       "1": [
         "Djentx",
         10.62,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.18,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.9,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -4235,7 +5605,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179493179,
@@ -4249,34 +5620,35 @@
       "1": [
         "Djentx",
         10.62,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.18,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.24,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.9,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -4288,7 +5660,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.62,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.18,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.24,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.0,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.9,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179497828,
@@ -4302,34 +5706,35 @@
       "1": [
         "Djentx",
         10.62,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.18,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.05,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.9,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -4341,7 +5746,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.62,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.18,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.05,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.9,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179502324,
@@ -4355,34 +5792,35 @@
       "1": [
         "Djentx",
         10.62,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.18,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.95,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4394,7 +5832,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.62,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.18,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.0,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.95,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179506382,
@@ -4408,34 +5878,35 @@
       "1": [
         "Djentx",
         10.67,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.18,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         8.9,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -4447,7 +5918,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.67,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.18,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.0,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        8.9,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179513320,
@@ -4461,34 +5964,35 @@
       "1": [
         "Djentx",
         10.62,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.08,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.05,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -4500,7 +6004,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.62,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.08,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.0,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.05,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179523091,
@@ -4514,34 +6050,35 @@
       "1": [
         "Djentx",
         10.77,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.03,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.19,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.05,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -4553,7 +6090,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.77,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.03,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.19,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.0,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.05,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179531352,
@@ -4567,34 +6136,35 @@
       "1": [
         "Djentx",
         10.92,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.03,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.09,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.05,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -4606,7 +6176,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.92,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.03,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.09,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.0,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.05,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179536171,
@@ -4620,34 +6222,35 @@
       "1": [
         "Djentx",
         10.92,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.03,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.04,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         9.9,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         9.2,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -4659,7 +6262,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.92,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.03,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.04,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        9.9,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        9.2,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179555350,
@@ -4673,34 +6308,35 @@
       "1": [
         "Djentx",
         10.92,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         4.93,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.72,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         5.31,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4712,7 +6348,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.92,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        4.93,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        11.72,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        5.31,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179563697,
@@ -4726,34 +6394,35 @@
       "1": [
         "Djentx",
         10.82,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         4.93,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.72,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         5.41,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -4765,7 +6434,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.82,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        4.93,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        11.72,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        5.41,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179577507,
@@ -4779,34 +6480,35 @@
       "1": [
         "Djentx",
         10.77,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.81,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.72,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         4.49,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -4818,7 +6520,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.77,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        5.81,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        11.72,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        4.49,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179592437,
@@ -4832,34 +6566,35 @@
       "1": [
         "Djentx",
         10.77,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         6.03,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.72,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         9.85,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         4.49,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -4871,7 +6606,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.77,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        6.03,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        11.72,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        9.85,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        4.49,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179599074,
@@ -4885,34 +6652,35 @@
       "1": [
         "Djentx",
         10.77,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         6.03,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.62,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.0,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         4.49,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -4924,7 +6692,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.77,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        6.03,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        11.62,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.0,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        4.49,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179610710,
@@ -4938,34 +6738,35 @@
       "1": [
         "Djentx",
         10.77,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         6.03,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.52,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.09,
-        ""
+        false
       ],
       "6": [
         "bonbona32",
         4.49,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -4977,7 +6778,39 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.77,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        6.03,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        10.0,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        11.52,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        10.09,
+        false
+      ],
+      "BN": [
+        "bonbona32",
+        4.49,
+        false
+      ]
+    }
   },
   {
     "hand_number": 247179614157,
@@ -4991,29 +6824,30 @@
       "1": [
         "Djentx",
         10.92,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         6.03,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.52,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.04,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Djentx",
@@ -5025,7 +6859,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179618581,
@@ -5039,29 +6874,30 @@
       "1": [
         "Djentx",
         10.87,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         6.08,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.0,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.52,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.04,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -5073,7 +6909,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179624394,
@@ -5087,29 +6924,30 @@
       "1": [
         "Djentx",
         10.87,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         5.98,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.1,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         11.52,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.04,
-        ""
+        false
       ]
     },
+    "number_of_players": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -5121,7 +6959,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179643013,
@@ -5135,34 +6974,35 @@
       "6": [
         "NickSolo96",
         10.0,
-        " is sitting out"
+        true
       ],
       "1": [
         "Djentx",
         10.87,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         8.48,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         10.05,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.82,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         10.04,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -5174,7 +7014,8 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {}
   },
   {
     "hand_number": 247179652069,
@@ -5188,34 +7029,35 @@
       "1": [
         "Djentx",
         10.87,
-        ""
+        false
       ],
       "2": [
         "Cyprian-Jones",
         7.43,
-        ""
+        false
       ],
       "3": [
         "Towinso",
         11.15,
-        ""
+        false
       ],
       "4": [
         "hastermaster",
         8.77,
-        ""
+        false
       ],
       "5": [
         "cooperjak88",
         9.94,
-        ""
+        false
       ],
       "6": [
         "NickSolo96",
         10.0,
-        ""
+        false
       ]
     },
+    "number_of_players": 6,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -5227,6 +7069,38 @@
         "big",
         "0.10"
       ]
-    ]
+    ],
+    "player_positions": {
+      "SB": [
+        "Djentx",
+        10.87,
+        false
+      ],
+      "BB": [
+        "Cyprian-Jones",
+        7.43,
+        false
+      ],
+      "LJ": [
+        "Towinso",
+        11.15,
+        false
+      ],
+      "HJ": [
+        "hastermaster",
+        8.77,
+        false
+      ],
+      "CO": [
+        "cooperjak88",
+        9.94,
+        false
+      ],
+      "BN": [
+        "NickSolo96",
+        10.0,
+        false
+      ]
+    }
   }
 ]

@@ -67,7 +67,7 @@ class TableInfo:
             player_chips = float(player[1][1:])
             sitting_out = (len(player[2]) != 0)
 
-            players[(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
+            players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
 
         return players
     
@@ -87,6 +87,12 @@ class TableInfo:
                 counter += 1
         return counter
     
+    def mapping_func(self, x):
+        if x <= 6:
+            return x
+        else:
+            return x - 6
+    
 
     def player_positions(self, player_info, button_seat_number):
         """
@@ -105,18 +111,21 @@ class TableInfo:
         button_seat_number = int(button_seat_number)
         number_of_sitouts = self.number_of_sitouts(player_info)
 
+        player_positions = {}
+
 
         if (number_of_players == 6) and (number_of_sitouts == 0):
+            print(self.mapping_func(button_seat_number))
             player_positions  = {
-                'SB': player_info[f'{button_seat_number + 1}'],
-                'BB': player_info[f'{button_seat_number + 2}'],
-                'LJ': player_info[f'{button_seat_number + 3}'],
-                'HJ': player_info[f'{button_seat_number + 4}'],
-                'CO': player_info[f'{button_seat_number + 5}'],
-                'BN': player_info[f'{button_seat_number}']
+                'SB': player_info[self.mapping_func(button_seat_number + 1)],
+                'BB': player_info[self.mapping_func(button_seat_number + 2)],
+                'LJ': player_info[self.mapping_func(button_seat_number + 3)],
+                'HJ': player_info[self.mapping_func(button_seat_number + 4)],
+                'CO': player_info[self.mapping_func(button_seat_number + 5)],
+                'BN': player_info[self.mapping_func(button_seat_number)]
             }
 
-            return player_positions
+        return player_positions
 
     
     def json_builder(self):
@@ -127,7 +136,6 @@ class TableInfo:
         hand_numbers = self.hand_numbers()
 
         for i, hand_info in enumerate(hand_infos):
-            
             player_info = self.player_info(hand_info)
             number_of_players = self.number_of_players(player_info)
 
