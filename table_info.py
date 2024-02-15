@@ -61,13 +61,36 @@ class TableInfo:
 
         players = {}
 
-        for player in player_data:
-            cleaned_string = player[0].strip()
-            parts = cleaned_string.split(": ")
-            player_chips = float(player[1][1:])
-            sitting_out = (len(player[2]) != 0)
+        # for player in player_data:
+        #     cleaned_string = player[0].strip()
+        #     parts = cleaned_string.split(": ")
+        #     player_chips = float(player[1][1:])
+        #     sitting_out = (len(player[2]) != 0)
 
-            players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
+        #     players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
+
+        for i in range(6):
+            try:
+                player = player_data[i]
+                cleaned_string = player[0].strip()
+                parts = cleaned_string.split(": ")
+                player_chips = float(player[1][1:])
+                sitting_out = (len(player[2]) != 0)
+                players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
+
+            except IndexError:
+
+                if i == 0:
+                    players[f'1'] = ['', 0, True]
+                    continue
+                
+                previous_seat = int(list(players.keys())[-1])
+                current_seat = previous_seat + 1
+
+                if current_seat == 7:
+                    current_seat = 6
+
+                players[f'{current_seat}'] = ['', 0, True]  
 
         return players
     
@@ -93,7 +116,6 @@ class TableInfo:
         else:
             return x - 6
     
-
     def player_positions(self, player_info, button_seat_number):
         """
         small_blind = button number + 1
@@ -108,26 +130,22 @@ class TableInfo:
         """ 
 
         number_of_players = self.number_of_players(player_info)
-        button_seat_number = int(button_seat_number)
         number_of_sitouts = self.number_of_sitouts(player_info)
 
         player_positions = {}
-
-
-        if (number_of_players == 6) and (number_of_sitouts == 0):
-            print(self.mapping_func(button_seat_number))
+        
+        if (number_of_sitouts == 0):
             player_positions  = {
-                'SB': player_info[self.mapping_func(button_seat_number + 1)],
-                'BB': player_info[self.mapping_func(button_seat_number + 2)],
-                'LJ': player_info[self.mapping_func(button_seat_number + 3)],
-                'HJ': player_info[self.mapping_func(button_seat_number + 4)],
-                'CO': player_info[self.mapping_func(button_seat_number + 5)],
-                'BN': player_info[self.mapping_func(button_seat_number)]
+                'SB': player_info[self.mapping_func(button_seat_number + 1)][:2],
+                'BB': player_info[self.mapping_func(button_seat_number + 2)][:2],
+                'LJ': player_info[self.mapping_func(button_seat_number + 3)][:2],
+                'HJ': player_info[self.mapping_func(button_seat_number + 4)][:2],
+                'CO': player_info[self.mapping_func(button_seat_number + 5)][:2],
+                'BN': player_info[self.mapping_func(button_seat_number)][:2]
             }
 
-        return player_positions
+        return player_positions    
 
-    
     def json_builder(self):
         
         jsons = []
@@ -138,16 +156,17 @@ class TableInfo:
         for i, hand_info in enumerate(hand_infos):
             player_info = self.player_info(hand_info)
             number_of_players = self.number_of_players(player_info)
-
+            button_seat_number = self.button_seat_number(hand_info)
+            
             json = {
                 'hand_number': hand_numbers[i],
                 'game_type': self.game_type(hand_info),
                 'blind_sizes': self.blind_sizes(hand_info),
-                'button_seat_number': self.button_seat_number(hand_info),
+                'button_seat_number': button_seat_number,
                 'player_info': player_info,
-                'number_of_players': number_of_players,
+                'number_of_sitouts': self.number_of_sitouts(player_info),
                 'players_posting_blind': self.players_posting_blind(hand_info),
-                'player_positions': self.player_positions(player_info, number_of_players)
+                'player_positions': self.player_positions(player_info, button_seat_number)
             }
 
             jsons.append(json)

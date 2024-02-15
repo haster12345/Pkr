@@ -39,7 +39,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -92,9 +92,14 @@
         "bonbona32",
         8.42,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "Sid_58",
@@ -149,7 +154,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -204,7 +209,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -259,7 +264,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -314,7 +319,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Sid_58",
@@ -369,7 +374,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -417,9 +422,14 @@
         "bonbona32",
         7.05,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -474,7 +484,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -529,7 +539,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -584,7 +594,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "Towinso",
@@ -639,7 +649,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -699,7 +709,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -754,7 +764,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -809,7 +819,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "VandesandeBart",
@@ -825,33 +835,27 @@
     "player_positions": {
       "SB": [
         "VandesandeBart",
-        7.1,
-        false
+        7.1
       ],
       "BB": [
         "EngineerRoma",
-        10.0,
-        false
+        10.0
       ],
       "LJ": [
         "Towinso",
-        10.0,
-        false
+        10.0
       ],
       "HJ": [
         "hastermaster",
-        10.16,
-        false
+        10.16
       ],
       "CO": [
         "Avskum2010",
-        13.23,
-        false
+        13.23
       ],
       "BN": [
         "bonbona32",
-        5.62,
-        false
+        5.62
       ]
     }
   },
@@ -895,7 +899,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -910,34 +914,28 @@
     ],
     "player_positions": {
       "SB": [
-        "VandesandeBart",
-        7.05,
-        false
+        "EngineerRoma",
+        10.0
       ],
       "BB": [
-        "EngineerRoma",
-        10.0,
-        false
+        "Towinso",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "hastermaster",
+        9.86
       ],
       "HJ": [
-        "hastermaster",
-        9.86,
-        false
+        "Avskum2010",
+        13.23
       ],
       "CO": [
-        "Avskum2010",
-        13.23,
-        false
+        "bonbona32",
+        6.07
       ],
       "BN": [
-        "bonbona32",
-        6.07,
-        false
+        "VandesandeBart",
+        7.05
       ]
     }
   },
@@ -981,7 +979,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -996,34 +994,28 @@
     ],
     "player_positions": {
       "SB": [
-        "VandesandeBart",
-        7.38,
-        false
+        "Towinso",
+        10.0
       ],
       "BB": [
-        "EngineerRoma",
-        10.0,
-        false
+        "hastermaster",
+        9.86
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Avskum2010",
+        13.23
       ],
       "HJ": [
-        "hastermaster",
-        9.86,
-        false
+        "bonbona32",
+        5.87
       ],
       "CO": [
-        "Avskum2010",
-        13.23,
-        false
+        "VandesandeBart",
+        7.38
       ],
       "BN": [
-        "bonbona32",
-        5.87,
-        false
+        "EngineerRoma",
+        10.0
       ]
     }
   },
@@ -1067,7 +1059,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1082,34 +1074,28 @@
     ],
     "player_positions": {
       "SB": [
-        "VandesandeBart",
-        7.38,
-        false
+        "hastermaster",
+        9.76
       ],
       "BB": [
-        "EngineerRoma",
-        10.0,
-        false
+        "Avskum2010",
+        13.38
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "bonbona32",
+        5.87
       ],
       "HJ": [
-        "hastermaster",
-        9.76,
-        false
+        "VandesandeBart",
+        7.38
       ],
       "CO": [
-        "Avskum2010",
-        13.38,
-        false
+        "EngineerRoma",
+        10.0
       ],
       "BN": [
-        "bonbona32",
-        5.87,
-        false
+        "Towinso",
+        10.0
       ]
     }
   },
@@ -1153,7 +1139,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -1168,34 +1154,28 @@
     ],
     "player_positions": {
       "SB": [
-        "VandesandeBart",
-        7.53,
-        false
+        "Avskum2010",
+        13.28
       ],
       "BB": [
-        "EngineerRoma",
-        10.0,
-        false
+        "bonbona32",
+        5.87
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "VandesandeBart",
+        7.53
       ],
       "HJ": [
-        "hastermaster",
-        9.71,
-        false
+        "EngineerRoma",
+        10.0
       ],
       "CO": [
-        "Avskum2010",
-        13.28,
-        false
+        "Towinso",
+        10.0
       ],
       "BN": [
-        "bonbona32",
-        5.87,
-        false
+        "hastermaster",
+        9.71
       ]
     }
   },
@@ -1232,9 +1212,14 @@
         "bonbona32",
         5.77,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "VandesandeBart",
@@ -1289,7 +1274,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1344,7 +1329,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1399,7 +1384,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1447,9 +1432,14 @@
         "bonbona32",
         7.94,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Smeta8810",
@@ -1504,7 +1494,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1552,9 +1542,14 @@
         "bonbona32",
         8.45,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1602,9 +1597,14 @@
         "bonbona32",
         8.6,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1647,9 +1647,14 @@
         "bonbona32",
         8.6,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 4,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1692,9 +1697,14 @@
         "bonbona32",
         8.5,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 4,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1737,9 +1747,14 @@
         "bonbona32",
         8.45,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 4,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1794,7 +1809,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1849,7 +1864,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1904,7 +1919,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Demo071",
@@ -1959,7 +1974,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1974,34 +1989,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Muhlen9",
-        10.0,
-        false
+        "bonbona32",
+        8.73
       ],
       "BB": [
-        "EngineerRoma",
-        10.76,
-        false
+        "Muhlen9",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.94,
-        false
+        "EngineerRoma",
+        10.76
       ],
       "HJ": [
-        "hastermaster",
-        14.54,
-        false
+        "Towinso",
+        10.94
       ],
       "CO": [
-        "Demo071",
-        9.85,
-        false
+        "hastermaster",
+        14.54
       ],
       "BN": [
-        "bonbona32",
-        8.73,
-        false
+        "Demo071",
+        9.85
       ]
     }
   },
@@ -2045,7 +2054,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Muhlen9",
@@ -2061,33 +2070,27 @@
     "player_positions": {
       "SB": [
         "Muhlen9",
-        10.0,
-        false
+        10.0
       ],
       "BB": [
         "EngineerRoma",
-        10.76,
-        false
+        10.76
       ],
       "LJ": [
         "Towinso",
-        10.94,
-        false
+        10.94
       ],
       "HJ": [
         "hastermaster",
-        14.04,
-        false
+        14.04
       ],
       "CO": [
         "Demo071",
-        9.85,
-        false
+        9.85
       ],
       "BN": [
         "bonbona32",
-        9.28,
-        false
+        9.28
       ]
     }
   },
@@ -2131,7 +2134,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2146,34 +2149,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Muhlen9",
-        10.1,
-        false
+        "EngineerRoma",
+        10.66
       ],
       "BB": [
-        "EngineerRoma",
-        10.66,
-        false
+        "Towinso",
+        10.94
       ],
       "LJ": [
-        "Towinso",
-        10.94,
-        false
+        "hastermaster",
+        14.04
       ],
       "HJ": [
-        "hastermaster",
-        14.04,
-        false
+        "Demo071",
+        9.85
       ],
       "CO": [
-        "Demo071",
-        9.85,
-        false
+        "bonbona32",
+        9.28
       ],
       "BN": [
-        "bonbona32",
-        9.28,
-        false
+        "Muhlen9",
+        10.1
       ]
     }
   },
@@ -2217,7 +2214,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -2232,34 +2229,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Muhlen9",
-        10.1,
-        false
+        "Towinso",
+        10.84
       ],
       "BB": [
-        "EngineerRoma",
-        10.61,
-        false
+        "hastermaster",
+        14.46
       ],
       "LJ": [
-        "Towinso",
-        10.84,
-        false
+        "Demo071",
+        9.85
       ],
       "HJ": [
-        "hastermaster",
-        14.46,
-        false
+        "bonbona32",
+        8.98
       ],
       "CO": [
-        "Demo071",
-        9.85,
-        false
+        "Muhlen9",
+        10.1
       ],
       "BN": [
-        "bonbona32",
-        8.98,
-        false
+        "EngineerRoma",
+        10.61
       ]
     }
   },
@@ -2303,7 +2294,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -2318,34 +2309,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Muhlen9",
-        10.25,
-        false
+        "hastermaster",
+        14.36
       ],
       "BB": [
-        "EngineerRoma",
-        10.61,
-        false
+        "Demo071",
+        9.85
       ],
       "LJ": [
-        "Towinso",
-        10.79,
-        false
+        "bonbona32",
+        8.98
       ],
       "HJ": [
-        "hastermaster",
-        14.36,
-        false
+        "Muhlen9",
+        10.25
       ],
       "CO": [
-        "Demo071",
-        9.85,
-        false
+        "EngineerRoma",
+        10.61
       ],
       "BN": [
-        "bonbona32",
-        8.98,
-        false
+        "Towinso",
+        10.79
       ]
     }
   },
@@ -2389,7 +2374,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Demo071",
@@ -2404,34 +2389,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Muhlen9",
-        10.25,
-        false
+        "Demo071",
+        9.75
       ],
       "BB": [
-        "EngineerRoma",
-        10.76,
-        false
+        "bonbona32",
+        8.98
       ],
       "LJ": [
-        "Towinso",
-        10.79,
-        false
+        "Muhlen9",
+        10.25
       ],
       "HJ": [
-        "hastermaster",
-        14.31,
-        false
+        "EngineerRoma",
+        10.76
       ],
       "CO": [
-        "Demo071",
-        9.75,
-        false
+        "Towinso",
+        10.79
       ],
       "BN": [
-        "bonbona32",
-        8.98,
-        false
+        "hastermaster",
+        14.31
       ]
     }
   },
@@ -2475,7 +2454,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2530,7 +2509,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2585,7 +2564,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -2640,7 +2619,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -2695,7 +2674,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Demo071",
@@ -2750,7 +2729,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2765,34 +2744,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Avskum2010",
-        13.23,
-        false
+        "bonbona32",
+        8.36
       ],
       "BB": [
-        "EngineerRoma",
-        10.61,
-        false
+        "Avskum2010",
+        13.23
       ],
       "LJ": [
-        "Towinso",
-        14.36,
-        false
+        "EngineerRoma",
+        10.61
       ],
       "HJ": [
-        "hastermaster",
-        10.28,
-        false
+        "Towinso",
+        14.36
       ],
       "CO": [
-        "Demo071",
-        10.52,
-        false
+        "hastermaster",
+        10.28
       ],
       "BN": [
-        "bonbona32",
-        8.36,
-        false
+        "Demo071",
+        10.52
       ]
     }
   },
@@ -2836,7 +2809,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -2852,33 +2825,27 @@
     "player_positions": {
       "SB": [
         "Avskum2010",
-        12.96,
-        false
+        12.96
       ],
       "BB": [
         "EngineerRoma",
-        10.61,
-        false
+        10.61
       ],
       "LJ": [
         "Towinso",
-        14.36,
-        false
+        14.36
       ],
       "HJ": [
         "hastermaster",
-        10.28,
-        false
+        10.28
       ],
       "CO": [
         "Demo071",
-        10.81,
-        false
+        10.81
       ],
       "BN": [
         "bonbona32",
-        8.31,
-        false
+        8.31
       ]
     }
   },
@@ -2922,7 +2889,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2937,34 +2904,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Avskum2010",
-        12.91,
-        false
+        "EngineerRoma",
+        10.51
       ],
       "BB": [
-        "EngineerRoma",
-        10.51,
-        false
+        "Towinso",
+        14.36
       ],
       "LJ": [
-        "Towinso",
-        14.36,
-        false
+        "hastermaster",
+        10.28
       ],
       "HJ": [
-        "hastermaster",
-        10.28,
-        false
+        "Demo071",
+        10.81
       ],
       "CO": [
-        "Demo071",
-        10.81,
-        false
+        "bonbona32",
+        8.46
       ],
       "BN": [
-        "bonbona32",
-        8.46,
-        false
+        "Avskum2010",
+        12.91
       ]
     }
   },
@@ -3008,7 +2969,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3023,34 +2984,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Avskum2010",
-        12.91,
-        false
+        "Towinso",
+        14.26
       ],
       "BB": [
-        "EngineerRoma",
-        10.46,
-        false
+        "hastermaster",
+        10.28
       ],
       "LJ": [
-        "Towinso",
-        14.26,
-        false
+        "Demo071",
+        10.81
       ],
       "HJ": [
-        "hastermaster",
-        10.28,
-        false
+        "bonbona32",
+        8.61
       ],
       "CO": [
-        "Demo071",
-        10.81,
-        false
+        "Avskum2010",
+        12.91
       ],
       "BN": [
-        "bonbona32",
-        8.61,
-        false
+        "EngineerRoma",
+        10.46
       ]
     }
   },
@@ -3094,7 +3049,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3109,34 +3064,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Avskum2010",
-        12.91,
-        false
+        "hastermaster",
+        9.73
       ],
       "BB": [
-        "EngineerRoma",
-        10.46,
-        false
+        "Demo071",
+        10.81
       ],
       "LJ": [
-        "Towinso",
-        14.21,
-        false
+        "bonbona32",
+        9.16
       ],
       "HJ": [
-        "hastermaster",
-        9.73,
-        false
+        "Avskum2010",
+        12.91
       ],
       "CO": [
-        "Demo071",
-        10.81,
-        false
+        "EngineerRoma",
+        10.46
       ],
       "BN": [
-        "bonbona32",
-        9.16,
-        false
+        "Towinso",
+        14.21
       ]
     }
   },
@@ -3180,7 +3129,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Demo071",
@@ -3195,34 +3144,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Avskum2010",
-        10.66,
-        false
+        "Demo071",
+        10.71
       ],
       "BB": [
-        "EngineerRoma",
-        10.46,
-        false
+        "bonbona32",
+        9.16
       ],
       "LJ": [
-        "Towinso",
-        16.61,
-        false
+        "Avskum2010",
+        10.66
       ],
       "HJ": [
-        "hastermaster",
-        9.68,
-        false
+        "EngineerRoma",
+        10.46
       ],
       "CO": [
-        "Demo071",
-        10.71,
-        false
+        "Towinso",
+        16.61
       ],
       "BN": [
-        "bonbona32",
-        9.16,
-        false
+        "hastermaster",
+        9.68
       ]
     }
   },
@@ -3266,7 +3209,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -3321,7 +3264,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3381,7 +3324,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3436,7 +3379,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "andregers72",
@@ -3491,7 +3434,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -3506,34 +3449,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.0,
-        false
+        "bonbona32",
+        8.16
       ],
       "BB": [
-        "EngineerRoma",
-        10.0,
-        false
+        "Djentx",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        16.46,
-        false
+        "EngineerRoma",
+        10.0
       ],
       "HJ": [
-        "hastermaster",
-        10.86,
-        false
+        "Towinso",
+        16.46
       ],
       "CO": [
-        "andregers72",
-        8.96,
-        false
+        "hastermaster",
+        10.86
       ],
       "BN": [
-        "bonbona32",
-        8.16,
-        false
+        "andregers72",
+        8.96
       ]
     }
   },
@@ -3577,7 +3514,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Djentx",
@@ -3593,33 +3530,27 @@
     "player_positions": {
       "SB": [
         "Djentx",
-        11.87,
-        false
+        11.87
       ],
       "BB": [
         "EngineerRoma",
-        10.0,
-        false
+        10.0
       ],
       "LJ": [
         "Towinso",
-        16.46,
-        false
+        16.46
       ],
       "HJ": [
         "hastermaster",
-        10.86,
-        false
+        10.86
       ],
       "CO": [
         "andregers72",
-        8.96,
-        false
+        8.96
       ],
       "BN": [
         "bonbona32",
-        6.1,
-        false
+        6.1
       ]
     }
   },
@@ -3663,7 +3594,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -3678,34 +3609,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.82,
-        false
+        "EngineerRoma",
+        10.4
       ],
       "BB": [
-        "EngineerRoma",
-        10.4,
-        false
+        "Towinso",
+        16.46
       ],
       "LJ": [
-        "Towinso",
-        16.46,
-        false
+        "hastermaster",
+        10.51
       ],
       "HJ": [
-        "hastermaster",
-        10.51,
-        false
+        "andregers72",
+        8.96
       ],
       "CO": [
-        "andregers72",
-        8.96,
-        false
+        "bonbona32",
+        6.1
       ],
       "BN": [
-        "bonbona32",
-        6.1,
-        false
+        "Djentx",
+        11.82
       ]
     }
   },
@@ -3749,7 +3674,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3764,34 +3689,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.82,
-        false
+        "Towinso",
+        16.51
       ],
       "BB": [
-        "EngineerRoma",
-        10.35,
-        false
+        "hastermaster",
+        10.51
       ],
       "LJ": [
-        "Towinso",
-        16.51,
-        false
+        "andregers72",
+        8.96
       ],
       "HJ": [
-        "hastermaster",
-        10.51,
-        false
+        "bonbona32",
+        6.1
       ],
       "CO": [
-        "andregers72",
-        8.96,
-        false
+        "Djentx",
+        11.82
       ],
       "BN": [
-        "bonbona32",
-        6.1,
-        false
+        "EngineerRoma",
+        10.35
       ]
     }
   },
@@ -3835,7 +3754,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3850,34 +3769,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.82,
-        false
+        "hastermaster",
+        9.61
       ],
       "BB": [
-        "EngineerRoma",
-        10.35,
-        false
+        "andregers72",
+        9.83
       ],
       "LJ": [
-        "Towinso",
-        16.46,
-        false
+        "bonbona32",
+        6.1
       ],
       "HJ": [
-        "hastermaster",
-        9.61,
-        false
+        "Djentx",
+        11.82
       ],
       "CO": [
-        "andregers72",
-        9.83,
-        false
+        "EngineerRoma",
+        10.35
       ],
       "BN": [
-        "bonbona32",
-        6.1,
-        false
+        "Towinso",
+        16.46
       ]
     }
   },
@@ -3921,7 +3834,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "andregers72",
@@ -3936,34 +3849,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.82,
-        false
+        "andregers72",
+        9.73
       ],
       "BB": [
-        "EngineerRoma",
-        10.35,
-        false
+        "bonbona32",
+        6.9
       ],
       "LJ": [
-        "Towinso",
-        16.46,
-        false
+        "Djentx",
+        11.82
       ],
       "HJ": [
-        "hastermaster",
-        8.91,
-        false
+        "EngineerRoma",
+        10.35
       ],
       "CO": [
-        "andregers72",
-        9.73,
-        false
+        "Towinso",
+        16.46
       ],
       "BN": [
-        "bonbona32",
-        6.9,
-        false
+        "hastermaster",
+        8.91
       ]
     }
   },
@@ -4007,7 +3914,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4022,34 +3929,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.82,
-        false
+        "bonbona32",
+        7.5
       ],
       "BB": [
-        "EngineerRoma",
-        10.05,
-        false
+        "Djentx",
+        11.82
       ],
       "LJ": [
-        "Towinso",
-        16.46,
-        false
+        "EngineerRoma",
+        10.05
       ],
       "HJ": [
-        "hastermaster",
-        8.91,
-        false
+        "Towinso",
+        16.46
       ],
       "CO": [
-        "andregers72",
-        9.43,
-        false
+        "hastermaster",
+        8.91
       ],
       "BN": [
-        "bonbona32",
-        7.5,
-        false
+        "andregers72",
+        9.43
       ]
     }
   },
@@ -4093,7 +3994,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Djentx",
@@ -4109,33 +4010,27 @@
     "player_positions": {
       "SB": [
         "Djentx",
-        11.72,
-        false
+        11.72
       ],
       "BB": [
         "EngineerRoma",
-        10.2,
-        false
+        10.2
       ],
       "LJ": [
         "Towinso",
-        16.46,
-        false
+        16.46
       ],
       "HJ": [
         "hastermaster",
-        8.91,
-        false
+        8.91
       ],
       "CO": [
         "andregers72",
-        9.43,
-        false
+        9.43
       ],
       "BN": [
         "bonbona32",
-        7.45,
-        false
+        7.45
       ]
     }
   },
@@ -4179,7 +4074,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -4194,34 +4089,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "EngineerRoma",
+        10.1
       ],
       "BB": [
-        "EngineerRoma",
-        10.1,
-        false
+        "Towinso",
+        16.46
       ],
       "LJ": [
-        "Towinso",
-        16.46,
-        false
+        "hastermaster",
+        8.91
       ],
       "HJ": [
-        "hastermaster",
-        8.91,
-        false
+        "andregers72",
+        8.68
       ],
       "CO": [
-        "andregers72",
-        8.68,
-        false
+        "bonbona32",
+        8.28
       ],
       "BN": [
-        "bonbona32",
-        8.28,
-        false
+        "Djentx",
+        11.67
       ]
     }
   },
@@ -4265,7 +4154,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -4280,34 +4169,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "Towinso",
+        16.36
       ],
       "BB": [
-        "EngineerRoma",
-        10.05,
-        false
+        "hastermaster",
+        8.91
       ],
       "LJ": [
-        "Towinso",
-        16.36,
-        false
+        "andregers72",
+        8.83
       ],
       "HJ": [
-        "hastermaster",
-        8.91,
-        false
+        "bonbona32",
+        8.28
       ],
       "CO": [
-        "andregers72",
-        8.83,
-        false
+        "Djentx",
+        11.67
       ],
       "BN": [
-        "bonbona32",
-        8.28,
-        false
+        "EngineerRoma",
+        10.05
       ]
     }
   },
@@ -4351,7 +4234,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -4366,34 +4249,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "hastermaster",
+        8.61
       ],
       "BB": [
-        "EngineerRoma",
-        10.37,
-        false
+        "andregers72",
+        8.83
       ],
       "LJ": [
-        "Towinso",
-        16.31,
-        false
+        "bonbona32",
+        8.28
       ],
       "HJ": [
-        "hastermaster",
-        8.61,
-        false
+        "Djentx",
+        11.67
       ],
       "CO": [
-        "andregers72",
-        8.83,
-        false
+        "EngineerRoma",
+        10.37
       ],
       "BN": [
-        "bonbona32",
-        8.28,
-        false
+        "Towinso",
+        16.31
       ]
     }
   },
@@ -4437,7 +4314,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "andregers72",
@@ -4452,34 +4329,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "andregers72",
+        8.73
       ],
       "BB": [
-        "EngineerRoma",
-        10.62,
-        false
+        "bonbona32",
+        8.18
       ],
       "LJ": [
-        "Towinso",
-        16.31,
-        false
+        "Djentx",
+        11.67
       ],
       "HJ": [
-        "hastermaster",
-        8.56,
-        false
+        "EngineerRoma",
+        10.62
       ],
       "CO": [
-        "andregers72",
-        8.73,
-        false
+        "Towinso",
+        16.31
       ],
       "BN": [
-        "bonbona32",
-        8.18,
-        false
+        "hastermaster",
+        8.56
       ]
     }
   },
@@ -4523,7 +4394,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4538,34 +4409,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "bonbona32",
+        8.08
       ],
       "BB": [
-        "EngineerRoma",
-        10.77,
-        false
+        "Djentx",
+        11.67
       ],
       "LJ": [
-        "Towinso",
-        16.31,
-        false
+        "EngineerRoma",
+        10.77
       ],
       "HJ": [
-        "hastermaster",
-        8.56,
-        false
+        "Towinso",
+        16.31
       ],
       "CO": [
-        "andregers72",
-        8.68,
-        false
+        "hastermaster",
+        8.56
       ],
       "BN": [
-        "bonbona32",
-        8.08,
-        false
+        "andregers72",
+        8.68
       ]
     }
   },
@@ -4609,7 +4474,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Djentx",
@@ -4625,33 +4490,27 @@
     "player_positions": {
       "SB": [
         "Djentx",
-        11.57,
-        false
+        11.57
       ],
       "BB": [
         "EngineerRoma",
-        10.77,
-        false
+        10.77
       ],
       "LJ": [
         "Towinso",
-        16.31,
-        false
+        16.31
       ],
       "HJ": [
         "hastermaster",
-        8.56,
-        false
+        8.56
       ],
       "CO": [
         "andregers72",
-        9.18,
-        false
+        9.18
       ],
       "BN": [
         "bonbona32",
-        7.64,
-        false
+        7.64
       ]
     }
   },
@@ -4688,9 +4547,14 @@
         "bonbona32",
         7.64,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -4745,7 +4609,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -4800,7 +4664,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "andregers72",
@@ -4855,7 +4719,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4910,7 +4774,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Djentx",
@@ -4926,33 +4790,27 @@
     "player_positions": {
       "SB": [
         "Djentx",
-        11.72,
-        false
+        11.72
       ],
       "BB": [
         "Cyprian-Jones",
-        5.1,
-        false
+        5.1
       ],
       "LJ": [
         "Towinso",
-        16.26,
-        false
+        16.26
       ],
       "HJ": [
         "hastermaster",
-        8.74,
-        false
+        8.74
       ],
       "CO": [
         "andregers72",
-        8.15,
-        false
+        8.15
       ],
       "BN": [
         "bonbona32",
-        8.37,
-        false
+        8.37
       ]
     }
   },
@@ -4996,7 +4854,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -5011,34 +4869,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "Cyprian-Jones",
+        5.42
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.42,
-        false
+        "Towinso",
+        16.26
       ],
       "LJ": [
-        "Towinso",
-        16.26,
-        false
+        "hastermaster",
+        8.44
       ],
       "HJ": [
-        "hastermaster",
-        8.44,
-        false
+        "andregers72",
+        8.15
       ],
       "CO": [
-        "andregers72",
-        8.15,
-        false
+        "bonbona32",
+        8.37
       ],
       "BN": [
-        "bonbona32",
-        8.37,
-        false
+        "Djentx",
+        11.67
       ]
     }
   },
@@ -5082,7 +4934,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -5097,34 +4949,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "Towinso",
+        16.16
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.82,
-        false
+        "hastermaster",
+        8.44
       ],
       "LJ": [
-        "Towinso",
-        16.16,
-        false
+        "andregers72",
+        8.15
       ],
       "HJ": [
-        "hastermaster",
-        8.44,
-        false
+        "bonbona32",
+        8.07
       ],
       "CO": [
-        "andregers72",
-        8.15,
-        false
+        "Djentx",
+        11.67
       ],
       "BN": [
-        "bonbona32",
-        8.07,
-        false
+        "Cyprian-Jones",
+        5.82
       ]
     }
   },
@@ -5168,7 +5014,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -5183,34 +5029,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        11.67,
-        false
+        "hastermaster",
+        8.24
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.0,
-        false
+        "andregers72",
+        9.13
       ],
       "LJ": [
-        "Towinso",
-        16.11,
-        false
+        "bonbona32",
+        8.07
       ],
       "HJ": [
-        "hastermaster",
-        8.24,
-        false
+        "Djentx",
+        11.67
       ],
       "CO": [
-        "andregers72",
-        9.13,
-        false
+        "Cyprian-Jones",
+        5.0
       ],
       "BN": [
-        "bonbona32",
-        8.07,
-        false
+        "Towinso",
+        16.11
       ]
     }
   },
@@ -5254,7 +5094,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "andregers72",
@@ -5269,34 +5109,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.77,
-        false
+        "andregers72",
+        18.35
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.0,
-        false
+        "bonbona32",
+        8.07
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Djentx",
+        10.77
       ],
       "HJ": [
-        "hastermaster",
-        8.19,
-        false
+        "Cyprian-Jones",
+        5.0
       ],
       "CO": [
-        "andregers72",
-        18.35,
-        false
+        "Towinso",
+        10.0
       ],
       "BN": [
-        "bonbona32",
-        8.07,
-        false
+        "hastermaster",
+        8.19
       ]
     }
   },
@@ -5340,7 +5174,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -5355,34 +5189,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.77,
-        false
+        "bonbona32",
+        8.12
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.0,
-        false
+        "Djentx",
+        10.77
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Cyprian-Jones",
+        5.0
       ],
       "HJ": [
-        "hastermaster",
-        8.19,
-        false
+        "Towinso",
+        10.0
       ],
       "CO": [
-        "andregers72",
-        18.3,
-        false
+        "hastermaster",
+        8.19
       ],
       "BN": [
-        "bonbona32",
-        8.12,
-        false
+        "andregers72",
+        18.3
       ]
     }
   },
@@ -5426,7 +5254,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Djentx",
@@ -5442,33 +5270,27 @@
     "player_positions": {
       "SB": [
         "Djentx",
-        10.67,
-        false
+        10.67
       ],
       "BB": [
         "Cyprian-Jones",
-        5.0,
-        false
+        5.0
       ],
       "LJ": [
         "Towinso",
-        10.0,
-        false
+        10.0
       ],
       "HJ": [
         "hastermaster",
-        8.19,
-        false
+        8.19
       ],
       "CO": [
         "andregers72",
-        18.45,
-        false
+        18.45
       ],
       "BN": [
         "bonbona32",
-        8.07,
-        false
+        8.07
       ]
     }
   },
@@ -5512,7 +5334,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -5527,34 +5349,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.62,
-        false
+        "Cyprian-Jones",
+        5.23
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.23,
-        false
+        "Towinso",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "hastermaster",
+        8.19
       ],
       "HJ": [
-        "hastermaster",
-        8.19,
-        false
+        "andregers72",
+        18.25
       ],
       "CO": [
-        "andregers72",
-        18.25,
-        false
+        "bonbona32",
+        8.07
       ],
       "BN": [
-        "bonbona32",
-        8.07,
-        false
+        "Djentx",
+        10.62
       ]
     }
   },
@@ -5591,9 +5407,14 @@
         "bonbona32",
         8.9,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -5648,7 +5469,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -5663,34 +5484,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.62,
-        false
+        "hastermaster",
+        8.24
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.18,
-        false
+        "cooperjak88",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "bonbona32",
+        8.9
       ],
       "HJ": [
-        "hastermaster",
-        8.24,
-        false
+        "Djentx",
+        10.62
       ],
       "CO": [
-        "cooperjak88",
-        10.0,
-        false
+        "Cyprian-Jones",
+        5.18
       ],
       "BN": [
-        "bonbona32",
-        8.9,
-        false
+        "Towinso",
+        10.0
       ]
     }
   },
@@ -5734,7 +5549,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -5749,34 +5564,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.62,
-        false
+        "cooperjak88",
+        10.05
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.18,
-        false
+        "bonbona32",
+        8.9
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Djentx",
+        10.62
       ],
       "HJ": [
-        "hastermaster",
-        8.19,
-        false
+        "Cyprian-Jones",
+        5.18
       ],
       "CO": [
-        "cooperjak88",
-        10.05,
-        false
+        "Towinso",
+        10.0
       ],
       "BN": [
-        "bonbona32",
-        8.9,
-        false
+        "hastermaster",
+        8.19
       ]
     }
   },
@@ -5820,7 +5629,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -5835,34 +5644,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.62,
-        false
+        "bonbona32",
+        8.95
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.18,
-        false
+        "Djentx",
+        10.62
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Cyprian-Jones",
+        5.18
       ],
       "HJ": [
-        "hastermaster",
-        8.19,
-        false
+        "Towinso",
+        10.0
       ],
       "CO": [
-        "cooperjak88",
-        10.0,
-        false
+        "hastermaster",
+        8.19
       ],
       "BN": [
-        "bonbona32",
-        8.95,
-        false
+        "cooperjak88",
+        10.0
       ]
     }
   },
@@ -5906,7 +5709,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Djentx",
@@ -5922,33 +5725,27 @@
     "player_positions": {
       "SB": [
         "Djentx",
-        10.67,
-        false
+        10.67
       ],
       "BB": [
         "Cyprian-Jones",
-        5.18,
-        false
+        5.18
       ],
       "LJ": [
         "Towinso",
-        10.0,
-        false
+        10.0
       ],
       "HJ": [
         "hastermaster",
-        8.19,
-        false
+        8.19
       ],
       "CO": [
         "cooperjak88",
-        10.0,
-        false
+        10.0
       ],
       "BN": [
         "bonbona32",
-        8.9,
-        false
+        8.9
       ]
     }
   },
@@ -5992,7 +5789,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -6007,34 +5804,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.62,
-        false
+        "Cyprian-Jones",
+        5.08
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.08,
-        false
+        "Towinso",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "hastermaster",
+        8.19
       ],
       "HJ": [
-        "hastermaster",
-        8.19,
-        false
+        "cooperjak88",
+        10.0
       ],
       "CO": [
-        "cooperjak88",
-        10.0,
-        false
+        "bonbona32",
+        9.05
       ],
       "BN": [
-        "bonbona32",
-        9.05,
-        false
+        "Djentx",
+        10.62
       ]
     }
   },
@@ -6078,7 +5869,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -6093,34 +5884,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.77,
-        false
+        "Towinso",
+        10.0
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.03,
-        false
+        "hastermaster",
+        8.19
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "cooperjak88",
+        10.0
       ],
       "HJ": [
-        "hastermaster",
-        8.19,
-        false
+        "bonbona32",
+        9.05
       ],
       "CO": [
-        "cooperjak88",
-        10.0,
-        false
+        "Djentx",
+        10.77
       ],
       "BN": [
-        "bonbona32",
-        9.05,
-        false
+        "Cyprian-Jones",
+        5.03
       ]
     }
   },
@@ -6164,7 +5949,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -6179,34 +5964,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.92,
-        false
+        "hastermaster",
+        8.09
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.03,
-        false
+        "cooperjak88",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "bonbona32",
+        9.05
       ],
       "HJ": [
-        "hastermaster",
-        8.09,
-        false
+        "Djentx",
+        10.92
       ],
       "CO": [
-        "cooperjak88",
-        10.0,
-        false
+        "Cyprian-Jones",
+        5.03
       ],
       "BN": [
-        "bonbona32",
-        9.05,
-        false
+        "Towinso",
+        10.0
       ]
     }
   },
@@ -6250,7 +6029,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -6265,34 +6044,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.92,
-        false
+        "cooperjak88",
+        9.9
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.03,
-        false
+        "bonbona32",
+        9.2
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Djentx",
+        10.92
       ],
       "HJ": [
-        "hastermaster",
-        8.04,
-        false
+        "Cyprian-Jones",
+        5.03
       ],
       "CO": [
-        "cooperjak88",
-        9.9,
-        false
+        "Towinso",
+        10.0
       ],
       "BN": [
-        "bonbona32",
-        9.2,
-        false
+        "hastermaster",
+        8.04
       ]
     }
   },
@@ -6336,7 +6109,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -6351,34 +6124,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.92,
-        false
+        "bonbona32",
+        5.31
       ],
       "BB": [
-        "Cyprian-Jones",
-        4.93,
-        false
+        "Djentx",
+        10.92
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Cyprian-Jones",
+        4.93
       ],
       "HJ": [
-        "hastermaster",
-        11.72,
-        false
+        "Towinso",
+        10.0
       ],
       "CO": [
-        "cooperjak88",
-        9.85,
-        false
+        "hastermaster",
+        11.72
       ],
       "BN": [
-        "bonbona32",
-        5.31,
-        false
+        "cooperjak88",
+        9.85
       ]
     }
   },
@@ -6422,7 +6189,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Djentx",
@@ -6438,33 +6205,27 @@
     "player_positions": {
       "SB": [
         "Djentx",
-        10.82,
-        false
+        10.82
       ],
       "BB": [
         "Cyprian-Jones",
-        4.93,
-        false
+        4.93
       ],
       "LJ": [
         "Towinso",
-        10.0,
-        false
+        10.0
       ],
       "HJ": [
         "hastermaster",
-        11.72,
-        false
+        11.72
       ],
       "CO": [
         "cooperjak88",
-        9.85,
-        false
+        9.85
       ],
       "BN": [
         "bonbona32",
-        5.41,
-        false
+        5.41
       ]
     }
   },
@@ -6508,7 +6269,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -6523,34 +6284,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.77,
-        false
+        "Cyprian-Jones",
+        5.81
       ],
       "BB": [
-        "Cyprian-Jones",
-        5.81,
-        false
+        "Towinso",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "hastermaster",
+        11.72
       ],
       "HJ": [
-        "hastermaster",
-        11.72,
-        false
+        "cooperjak88",
+        9.85
       ],
       "CO": [
-        "cooperjak88",
-        9.85,
-        false
+        "bonbona32",
+        4.49
       ],
       "BN": [
-        "bonbona32",
-        4.49,
-        false
+        "Djentx",
+        10.77
       ]
     }
   },
@@ -6594,7 +6349,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "Towinso",
@@ -6609,34 +6364,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.77,
-        false
+        "Towinso",
+        10.0
       ],
       "BB": [
-        "Cyprian-Jones",
-        6.03,
-        false
+        "hastermaster",
+        11.72
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "cooperjak88",
+        9.85
       ],
       "HJ": [
-        "hastermaster",
-        11.72,
-        false
+        "bonbona32",
+        4.49
       ],
       "CO": [
-        "cooperjak88",
-        9.85,
-        false
+        "Djentx",
+        10.77
       ],
       "BN": [
-        "bonbona32",
-        4.49,
-        false
+        "Cyprian-Jones",
+        6.03
       ]
     }
   },
@@ -6680,7 +6429,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -6695,34 +6444,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.77,
-        false
+        "hastermaster",
+        11.62
       ],
       "BB": [
-        "Cyprian-Jones",
-        6.03,
-        false
+        "cooperjak88",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "bonbona32",
+        4.49
       ],
       "HJ": [
-        "hastermaster",
-        11.62,
-        false
+        "Djentx",
+        10.77
       ],
       "CO": [
-        "cooperjak88",
-        10.0,
-        false
+        "Cyprian-Jones",
+        6.03
       ],
       "BN": [
-        "bonbona32",
-        4.49,
-        false
+        "Towinso",
+        10.0
       ]
     }
   },
@@ -6766,7 +6509,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -6781,34 +6524,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.77,
-        false
+        "cooperjak88",
+        10.09
       ],
       "BB": [
-        "Cyprian-Jones",
-        6.03,
-        false
+        "bonbona32",
+        4.49
       ],
       "LJ": [
-        "Towinso",
-        10.0,
-        false
+        "Djentx",
+        10.77
       ],
       "HJ": [
-        "hastermaster",
-        11.52,
-        false
+        "Cyprian-Jones",
+        6.03
       ],
       "CO": [
-        "cooperjak88",
-        10.09,
-        false
+        "Towinso",
+        10.0
       ],
       "BN": [
-        "bonbona32",
-        4.49,
-        false
+        "hastermaster",
+        11.52
       ]
     }
   },
@@ -6845,9 +6582,14 @@
         "cooperjak88",
         10.04,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Djentx",
@@ -6895,9 +6637,14 @@
         "cooperjak88",
         10.04,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -6945,9 +6692,14 @@
         "cooperjak88",
         10.04,
         false
+      ],
+      "6": [
+        "",
+        0,
+        true
       ]
     },
-    "number_of_players": 5,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "Towinso",
@@ -7002,7 +6754,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 1,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -7057,7 +6809,7 @@
         false
       ]
     },
-    "number_of_players": 6,
+    "number_of_sitouts": 0,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -7072,34 +6824,28 @@
     ],
     "player_positions": {
       "SB": [
-        "Djentx",
-        10.87,
-        false
+        "cooperjak88",
+        9.94
       ],
       "BB": [
-        "Cyprian-Jones",
-        7.43,
-        false
+        "NickSolo96",
+        10.0
       ],
       "LJ": [
-        "Towinso",
-        11.15,
-        false
+        "Djentx",
+        10.87
       ],
       "HJ": [
-        "hastermaster",
-        8.77,
-        false
+        "Cyprian-Jones",
+        7.43
       ],
       "CO": [
-        "cooperjak88",
-        9.94,
-        false
+        "Towinso",
+        11.15
       ],
       "BN": [
-        "NickSolo96",
-        10.0,
-        false
+        "hastermaster",
+        8.77
       ]
     }
   }
