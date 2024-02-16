@@ -56,41 +56,26 @@ class TableInfo:
         return int(button_seat_number[0])
         
     def player_info(self, hand_info):
+        """
+        player_data example : [ ('Seat 3: NickSolo69', '$10', 'is sitting out'), ...]
+        """
+
         pattern = re.compile(r'(.+?) \((\$[0-9.]+) in chips\)( is sitting out)?')
         player_data = pattern.findall(hand_info)
 
         players = {}
 
-        # for player in player_data:
-        #     cleaned_string = player[0].strip()
-        #     parts = cleaned_string.split(": ")
-        #     player_chips = float(player[1][1:])
-        #     sitting_out = (len(player[2]) != 0)
+        for player in player_data:
+            cleaned_string = player[0].strip()
+            parts = cleaned_string.split(": ")
+            player_chips = float(player[1][1:])
+            sitting_out = (len(player[2]) != 0)
 
-        #     players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
+            players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
 
-        for i in range(6):
-            try:
-                player = player_data[i]
-                cleaned_string = player[0].strip()
-                parts = cleaned_string.split(": ")
-                player_chips = float(player[1][1:])
-                sitting_out = (len(player[2]) != 0)
-                players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
-
-            except IndexError:
-
-                if i == 0:
-                    players[f'1'] = ['', 0, True]
-                    continue
-                
-                previous_seat = int(list(players.keys())[-1])
-                current_seat = previous_seat + 1
-
-                if current_seat == 7:
-                    current_seat = 6
-
-                players[f'{current_seat}'] = ['', 0, True]  
+        for i in range(1, 6 + 1):
+            if i not in players.keys():
+                players[i]  = ['', 0, True]
 
         return players
     
@@ -155,7 +140,6 @@ class TableInfo:
 
         for i, hand_info in enumerate(hand_infos):
             player_info = self.player_info(hand_info)
-            number_of_players = self.number_of_players(player_info)
             button_seat_number = self.button_seat_number(hand_info)
             
             json = {

@@ -93,7 +93,7 @@
         8.42,
         false
       ],
-      "6": [
+      "2": [
         "",
         0,
         true
@@ -423,7 +423,7 @@
         7.05,
         false
       ],
-      "6": [
+      "2": [
         "",
         0,
         true
@@ -1213,7 +1213,7 @@
         5.77,
         false
       ],
-      "6": [
+      "5": [
         "",
         0,
         true
@@ -1433,7 +1433,7 @@
         7.94,
         false
       ],
-      "6": [
+      "1": [
         "",
         0,
         true
@@ -1543,7 +1543,7 @@
         8.45,
         false
       ],
-      "6": [
+      "1": [
         "",
         0,
         true
@@ -1598,7 +1598,7 @@
         8.6,
         false
       ],
-      "6": [
+      "1": [
         "",
         0,
         true
@@ -1648,13 +1648,18 @@
         8.6,
         false
       ],
-      "6": [
+      "1": [
+        "",
+        0,
+        true
+      ],
+      "5": [
         "",
         0,
         true
       ]
     },
-    "number_of_sitouts": 1,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1698,13 +1703,18 @@
         8.5,
         false
       ],
-      "6": [
+      "1": [
+        "",
+        0,
+        true
+      ],
+      "5": [
         "",
         0,
         true
       ]
     },
-    "number_of_sitouts": 1,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1748,13 +1758,18 @@
         8.45,
         false
       ],
-      "6": [
+      "1": [
+        "",
+        0,
+        true
+      ],
+      "5": [
         "",
         0,
         true
       ]
     },
-    "number_of_sitouts": 1,
+    "number_of_sitouts": 2,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -4548,7 +4563,7 @@
         7.64,
         false
       ],
-      "6": [
+      "2": [
         "",
         0,
         true
@@ -5408,7 +5423,7 @@
         8.9,
         false
       ],
-      "6": [
+      "5": [
         "",
         0,
         true
