@@ -123,22 +123,17 @@ class TableInfo:
         else:
             return x - 6
         
-    def position_finder(self, player_info, previous_position, previous_seat):
+    def position_finder(self, player_info, previous_seat):
         """
         params:
         - player_postion: int, from 1, 6
         - button_seat_number: int, from 1, 6
         - players_in_blinds: dict, {small: 'player1', big: 'player2'}
 
-        methodology:
-        - given a position, check if the next position is a sit out
-
-
         returns: 
-        position (str)
+        position 
 
-        takes a player and gives a position
-        need a way to reliably find player postions, despite the number of sitouts 
+        given the last position, finds the next player who has not seated out
         """
         counter = 1
         next_position_seat = self.mapping_func(previous_seat + counter)
@@ -153,13 +148,6 @@ class TableInfo:
 
         return next_position_seat
 
-        # counter = 1
-        # position_sit_out: bool = player_info[f'{player_position}'][2]
-        # while position_sit_out:
-        #         counter += 1
-                
-        # return  
-
 
     def next_posistion(position):
         positions = ['BN', 'SB', 'BB', 'LJ', 'HJ', 'CO']
@@ -173,56 +161,16 @@ class TableInfo:
 
     
     def player_positions(self, player_info, bn_seat, blinds):
-        """
-        small_blind = button number + 1
-        big_blind = small blind + 1
-        ...
-
-        only need to check if each player is sitting out
-
-        [1 2 3 4 5 6] -> [2 3 4 5 6]
-        - if player 1 is sitting out: player_info['1'][2] == True
-
-        """ 
-
-        number_of_players = self.number_of_players(player_info)
-        number_of_sitouts = self.number_of_sitouts(player_info)
 
         sb_seat, bb_seat = self.blind_positions(players_posting_blind= blinds, player_info= player_info)
 
         player_positions = {}
-        
-        # if (number_of_sitouts == 0):
-        #     player_positions  = {
-        #         'SB': player_info[self.mapping_func(button_seat_number + 1)][:2],
-        #         'BB': player_info[self.mapping_func(button_seat_number + 2)][:2],
-        #         'LJ': player_info[self.mapping_func(button_seat_number + 3)][:2],
-        #         'HJ': player_info[self.mapping_func(button_seat_number + 4)][:2],
-        #         'CO': player_info[self.mapping_func(button_seat_number + 5)][:2],
-        #         'BN': player_info[self.mapping_func(button_seat_number)][:2]
-        #     }
 
-        # player_positions  = {
-        #         'SB': blinds[0][0],
-        #         'BB': blinds[1][0],
-        #         'LJ': player_info[self.mapping_func(button_seat_number + 3)][:2],
-        #         'HJ': player_info[self.mapping_func(button_seat_number + 4)][:2],
-        #         'CO': player_info[self.mapping_func(button_seat_number + 5)][:2],
-        #         'BN': player_info[button_seat_number][:2]
-        #     }
 
-        lj_seat =  self.position_finder(player_info, 'BB', bb_seat)
-        hj_seat =  self.position_finder(player_info, 'LJ', lj_seat)
-        co_seat =  self.position_finder(player_info, 'HJ', hj_seat)
+        lj_seat =  self.position_finder(player_info, bb_seat)
+        hj_seat =  self.position_finder(player_info, lj_seat)
+        co_seat =  self.position_finder(player_info, hj_seat)
 
-        # player_positions  = {
-        #         'SB': player_info[sb_seat][:2],
-        #         'BB': player_info[bb_seat][:2],
-        #         'LJ': player_info[lj_seat][:2],
-        #         'HJ': player_info[hj_seat][:2],
-        #         'CO': player_info[co_seat][:2], 
-        #         'BN': player_info[button_seat_number][:2]
-        #     }
         player_positions  = {
             'SB': player_info.get(sb_seat, ['', 0, True])[:2],
             'BB': player_info.get(bb_seat, ['', 0, True])[:2],
