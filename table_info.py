@@ -58,6 +58,11 @@ class TableInfo:
     def player_info(self, hand_info):
         """
         player_data example : [ ('Seat 3: NickSolo69', '$10', 'is sitting out'), ...]
+
+        returns:{
+        1 : ['player', palyer_chips, sit_out_bool],
+        ...
+        }
         """
 
         pattern = re.compile(r'(.+?) \((\$[0-9.]+) in chips\)( is sitting out)?')
@@ -84,6 +89,23 @@ class TableInfo:
         players_posting_blind = pattern.findall(hand_info)
         return players_posting_blind
     
+    def blind_positions(self, players_posting_blind, player_info):
+        sb_player, bb_player = players_posting_blind[0][0], players_posting_blind[1][0]
+        
+        sb_seat = 0
+        bb_seat = 0
+
+        for seat, values in player_info.items():
+            if sb_player in values:
+                sb_seat = seat
+        
+        for seat, values in player_info.items():
+            if bb_player in values:
+                bb_seat = seat
+
+        return sb_seat, bb_seat
+
+    
     def number_of_players(self, player_info):
             return len(player_info)
     
@@ -100,8 +122,57 @@ class TableInfo:
             return x
         else:
             return x - 6
+        
+    def position_finder(self, player_info, previous_position, previous_seat):
+        """
+        params:
+        - player_postion: int, from 1, 6
+        - button_seat_number: int, from 1, 6
+        - players_in_blinds: dict, {small: 'player1', big: 'player2'}
+
+        methodology:
+        - given a position, check if the next position is a sit out
+
+
+        returns: 
+        position (str)
+
+        takes a player and gives a position
+        need a way to reliably find player postions, despite the number of sitouts 
+        """
+        counter = 1
+        next_position_seat = self.mapping_func(previous_seat + counter)
+        next_position_sit_out: bool = player_info[next_position_seat][2]
+
+
+        while next_position_sit_out:
+            counter += 1
+            next_position_seat = self.mapping_func(previous_seat + counter)
+            player_data = player_info[next_position_seat]
+            next_position_sit_out =  player_data[2]
+
+        return next_position_seat
+
+        # counter = 1
+        # position_sit_out: bool = player_info[f'{player_position}'][2]
+        # while position_sit_out:
+        #         counter += 1
+                
+        # return  
+
+
+    def next_posistion(position):
+        positions = ['BN', 'SB', 'BB', 'LJ', 'HJ', 'CO']
+        for i in range(len(positions)):
+            if positions[i] == position:
+                try:
+                    return positions[i + 1]
+                except IndexError:
+                    return 'BN'
+
+
     
-    def player_positions(self, player_info, button_seat_number):
+    def player_positions(self, player_info, bn_seat, blinds):
         """
         small_blind = button number + 1
         big_blind = small blind + 1
@@ -117,16 +188,48 @@ class TableInfo:
         number_of_players = self.number_of_players(player_info)
         number_of_sitouts = self.number_of_sitouts(player_info)
 
+        sb_seat, bb_seat = self.blind_positions(players_posting_blind= blinds, player_info= player_info)
+
         player_positions = {}
         
-        if (number_of_sitouts == 0):
-            player_positions  = {
-                'SB': player_info[self.mapping_func(button_seat_number + 1)][:2],
-                'BB': player_info[self.mapping_func(button_seat_number + 2)][:2],
-                'LJ': player_info[self.mapping_func(button_seat_number + 3)][:2],
-                'HJ': player_info[self.mapping_func(button_seat_number + 4)][:2],
-                'CO': player_info[self.mapping_func(button_seat_number + 5)][:2],
-                'BN': player_info[self.mapping_func(button_seat_number)][:2]
+        # if (number_of_sitouts == 0):
+        #     player_positions  = {
+        #         'SB': player_info[self.mapping_func(button_seat_number + 1)][:2],
+        #         'BB': player_info[self.mapping_func(button_seat_number + 2)][:2],
+        #         'LJ': player_info[self.mapping_func(button_seat_number + 3)][:2],
+        #         'HJ': player_info[self.mapping_func(button_seat_number + 4)][:2],
+        #         'CO': player_info[self.mapping_func(button_seat_number + 5)][:2],
+        #         'BN': player_info[self.mapping_func(button_seat_number)][:2]
+        #     }
+
+        # player_positions  = {
+        #         'SB': blinds[0][0],
+        #         'BB': blinds[1][0],
+        #         'LJ': player_info[self.mapping_func(button_seat_number + 3)][:2],
+        #         'HJ': player_info[self.mapping_func(button_seat_number + 4)][:2],
+        #         'CO': player_info[self.mapping_func(button_seat_number + 5)][:2],
+        #         'BN': player_info[button_seat_number][:2]
+        #     }
+
+        lj_seat =  self.position_finder(player_info, 'BB', bb_seat)
+        hj_seat =  self.position_finder(player_info, 'LJ', lj_seat)
+        co_seat =  self.position_finder(player_info, 'HJ', hj_seat)
+
+        # player_positions  = {
+        #         'SB': player_info[sb_seat][:2],
+        #         'BB': player_info[bb_seat][:2],
+        #         'LJ': player_info[lj_seat][:2],
+        #         'HJ': player_info[hj_seat][:2],
+        #         'CO': player_info[co_seat][:2], 
+        #         'BN': player_info[button_seat_number][:2]
+        #     }
+        player_positions  = {
+            'SB': player_info.get(sb_seat, ['', 0, True])[:2],
+            'BB': player_info.get(bb_seat, ['', 0, True])[:2],
+            'LJ': player_info.get(lj_seat, ['', 0, True])[:2],
+            'HJ': player_info.get(hj_seat, ['', 0, True])[:2],
+            'CO': player_info.get(co_seat, ['', 0, True])[:2],
+            'BN': player_info.get(bn_seat, ['', 0, True])[:2],
             }
 
         return player_positions    
@@ -141,6 +244,7 @@ class TableInfo:
         for i, hand_info in enumerate(hand_infos):
             player_info = self.player_info(hand_info)
             button_seat_number = self.button_seat_number(hand_info)
+            blinds = self.players_posting_blind(hand_info)
             
             json = {
                 'hand_number': hand_numbers[i],
@@ -148,9 +252,9 @@ class TableInfo:
                 'blind_sizes': self.blind_sizes(hand_info),
                 'button_seat_number': button_seat_number,
                 'player_info': player_info,
-                'number_of_sitouts': self.number_of_sitouts(player_info),
-                'players_posting_blind': self.players_posting_blind(hand_info),
-                'player_positions': self.player_positions(player_info, button_seat_number)
+                'number_of_players_in_hand':  6 - self.number_of_sitouts(player_info),
+                'players_posting_blind': blinds,
+                'player_positions': self.player_positions(player_info, button_seat_number,blinds)
             }
 
             jsons.append(json)
