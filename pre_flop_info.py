@@ -75,7 +75,7 @@ class PreFlop:
         for i, pre_flop in enumerate(self.pre_flops()):
             hand_number = self.hand_numbers()[i]
             hand = self.hand_dealt(pre_flop)
-            blinds = 
+            blinds = self.blinds
             
             json = {
                 'hand_number' : hand_number,
