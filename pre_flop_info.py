@@ -55,6 +55,10 @@ class PreFlop:
         action_player_list = pattern.findall(pre_flop)
         return action_player_list
 
+    def blinds(self):
+        pass
+
+
     def get_pot_size(self, blinds):
         """
         -keep track of blinds, bets, raises, calls
@@ -62,17 +66,16 @@ class PreFlop:
 
         """
         pot = blinds
-
-
         pass
     
     def json_builder(self):
 
         jsons = []
 
-        for i, pre_flop in enumerate(self.pre_flop()):
+        for i, pre_flop in enumerate(self.pre_flops()):
             hand_number = self.hand_numbers()[i]
             hand = self.hand_dealt(pre_flop)
+            blinds = 
             
             json = {
                 'hand_number' : hand_number,
@@ -80,7 +83,7 @@ class PreFlop:
                 'position': self.get_position(hand_number),
                 'action' : self.action(pre_flop),
                 'players_in_pot' : self.get_palyers_in_pot(),
-                'pot_size' : self.get_pot_size(),
+                'pot_size' : self.get_pot_size(blinds),
                 'villain_positions' : self.get_villain_position(hand_number)
             }                        
 
