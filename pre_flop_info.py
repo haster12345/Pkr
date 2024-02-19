@@ -7,15 +7,15 @@ class PreFlop:
     def __init__(self, file_content):
         self.file_content = file_content
 
-    def hand_numbers(self):
+    def hand_numbers(self, hand_content):
         pattern = re.compile(r'PokerStars Hand #(\d+):')
-        match = pattern.findall(self.file_content)
+        match = pattern.findall(hand_content)
         match = [int(i) for i in match]
         return match
 
-    def pre_flops(self) -> list:
+    def pre_flops(self, hand_content) -> list:
         pattern = re.compile(r'HOLE CARDS([\s\S]*?)(?:FLOP|SUMMARY)')
-        pre_flops = pattern.findall(self.file_content)
+        pre_flops = pattern.findall(hand_content)
 
         return pre_flops
 
@@ -26,14 +26,12 @@ class PreFlop:
 
     def get_position(self, hand_number):
         """
-        this should query the database with the hand number and return position of players
         """
 
         pass    
     
     def get_villain_position(self, hand_number):
         """
-        this should query the database with the hand number and get the hero position
         then we check who is in the pot, and assign then positions
         """
         pass
@@ -72,8 +70,10 @@ class PreFlop:
 
         jsons = []
 
-        for i, pre_flop in enumerate(self.pre_flops()):
-            hand_number = self.hand_numbers()[i]
+        # for i, pre_flop in enumerate(self.pre_flops()):
+        for hand in self.file_content:
+            pre_flop = self.pre_flops(hand_content=hand)
+            hand_number = self.hand_numbers(hand_content=hand)[0]
             hand = self.hand_dealt(pre_flop)
             blinds = self.blinds
             

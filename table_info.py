@@ -27,15 +27,15 @@ class TableInfo:
     def __init__(self, file_contnet):
         self.file_content = file_contnet
 
-    def hand_numbers(self):
+    def hand_numbers(self, hand_content):
         pattern = re.compile(r'PokerStars Hand #(\d+):')
-        match = pattern.findall(self.file_content)
+        match = pattern.findall(hand_content)
         match = [int(i) for i in match]
         return match
 
-    def hand_info(self):
+    def hand_info(self, hand_content):
         pattern = re.compile(r'([\s\S]*?)\*\*\* HOLE CARDS \*\*\*')
-        hand_info :list = pattern.findall(self.file_content)
+        hand_info :list = pattern.findall(hand_content)
 
         return hand_info
     
@@ -186,16 +186,17 @@ class TableInfo:
         
         jsons = []
 
-        hand_infos = self.hand_info()
-        hand_numbers = self.hand_numbers()
+        for hand in self.file_content:
 
-        for i, hand_info in enumerate(hand_infos):
+            hand_info = self.hand_info(hand_content=hand)
+            hand_numbers = self.hand_numbers(hand_content=hand)
+        # for i, hand_info in enumerate(hand_infos):
             player_info = self.player_info(hand_info)
             button_seat_number = self.button_seat_number(hand_info)
             blinds = self.players_posting_blind(hand_info)
             
             json = {
-                'hand_number': hand_numbers[i],
+                'hand_number': hand_numbers[0],
                 'game_type': self.game_type(hand_info),
                 'blind_sizes': self.blind_sizes(hand_info),
                 'button_seat_number': button_seat_number,
