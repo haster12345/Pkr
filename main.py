@@ -18,6 +18,7 @@ def main_1(folder_path):
 def main(folder_path):
     for filename in os.listdir(folder_path):
         hands = FileContent(folder_name=folder_path,file_name=filename).hands()
+        # print(hands)
         TableInfo(hands).parse_into_json()
         PreFlop(hands).parse_into_json()
 

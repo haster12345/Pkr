@@ -12,6 +12,9 @@ class FileContent:
             return file.read()
 
     def hands(self):
-        pattern = re.compile(r'PokerStars Hand #\d+:[\s\S]*?(?=\n\n\nPokerStars Hand #|\Z|\n*$)')
-        hands = [pattern.findall(file_content) for file_content in self.read_file()]
+        pattern = re.compile(r'PokerStars Hand #\d+:[\s\S]*?(?=\n\n\nPokerStars Hand #|\n*$)')
+        hands_batched = self.read_file()
+        hands = pattern.findall(hands_batched)
+        print(hands[0])
+        # hands = [pattern.findall(file_content) for file_content in self.read_file()]
         return hands

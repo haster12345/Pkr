@@ -72,7 +72,7 @@ class PreFlop:
 
         # for i, pre_flop in enumerate(self.pre_flops()):
         for hand in self.file_content:
-            pre_flop = self.pre_flops(hand_content=hand)
+            pre_flop = self.pre_flops(hand_content=hand)[0]
             hand_number = self.hand_numbers(hand_content=hand)[0]
             hand = self.hand_dealt(pre_flop)
             blinds = self.blinds
