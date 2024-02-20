@@ -190,7 +190,6 @@ class TableInfo:
 
             hand_info = self.hand_info(hand_content=hand)[0]
             hand_numbers = self.hand_numbers(hand_content=hand)
-        # for i, hand_info in enumerate(hand_infos):
             player_info = self.player_info(hand_info)
             button_seat_number = self.button_seat_number(hand_info)
             blinds = self.players_posting_blind(hand_info)
