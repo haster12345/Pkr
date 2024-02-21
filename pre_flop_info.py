@@ -2,9 +2,10 @@ import json
 import re
 
 
-class PreFlop:
+class PreFlop():
 
-    def __init__(self, file_content):
+    def __init__(self, file_content, table_info):
+        self.table_info = table_info
         self.file_content = file_content
 
     def hand_numbers(self, hand_content):
