@@ -2,25 +2,6 @@ import re
 import os
 import json
 
-class Files:
-
-    def __init__(self, folder_path):
-        self.folder_path = folder_path
-    
-    def read_files(self):
-
-        file_content_list = []
-
-        for filename in os.listdir(self.folder_path):
-            
-            print(f'{self.folder_path}/{filename}')
-            with open(f'hastermaster/{filename}', 'r') as file:
-                file_content = file.read()
-
-            file_content_list.append(file_content)
-
-        return file_content_list
-
 
 class TableInfo:
 
