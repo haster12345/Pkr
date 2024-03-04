@@ -2,7 +2,7 @@ import json
 import re
 
 
-class PreFlop():
+class PreFlop:
 
     def __init__(self, file_content, table_info):
         self.table_info = table_info
@@ -29,8 +29,8 @@ class PreFlop():
         """
         """
 
-        pass    
-    
+        pass
+
     def get_villain_position(self, hand_number):
         """
         then we check who is in the pot, and assign then positions
@@ -57,7 +57,6 @@ class PreFlop():
     def blinds(self):
         pass
 
-
     def get_pot_size(self, blinds):
         """
         -keep track of blinds, bets, raises, calls
@@ -66,9 +65,8 @@ class PreFlop():
         """
         pot = blinds
         pass
-    
-    def json_builder(self):
 
+    def json_builder(self):
         jsons = []
 
         # for i, pre_flop in enumerate(self.pre_flops()):
@@ -77,16 +75,16 @@ class PreFlop():
             hand_number = self.hand_numbers(hand_content=hand)[0]
             hand = self.hand_dealt(pre_flop)
             blinds = self.blinds
-            
+
             json = {
-                'hand_number' : hand_number,
+                'hand_number': hand_number,
                 'hand': hand,
                 'position': self.get_position(hand_number),
-                'action' : self.action(pre_flop),
-                'players_in_pot' : self.get_palyers_in_pot(),
-                'pot_size' : self.get_pot_size(blinds),
-                'villain_positions' : self.get_villain_position(hand_number)
-            }                        
+                'action': self.action(pre_flop),
+                'players_in_pot': self.get_palyers_in_pot(),
+                'pot_size': self.get_pot_size(blinds),
+                'villain_positions': self.get_villain_position(hand_number)
+            }
 
             jsons.append(json)
 
@@ -94,5 +92,5 @@ class PreFlop():
 
     def parse_into_json(self):
         with open('pre_flop.json', 'w') as fp:
-            json_string = json.dumps(self.json_builder(), default=lambda o:__dict__, indent=2)
+            json_string = json.dumps(self.json_builder(), default=lambda o: __dict__, indent=2)
             fp.write(json_string)
