@@ -1,18 +1,11 @@
 import re
-import os
 import json
 
 
 class TableInfo:
 
-    def __init__(self, file_content):
-        self.file_content = file_content
-
-    def outer_function(self):
-        def inner_function():
-            return
-
-        return
+    def __init__(self, hand_text):
+        self.hand_text = hand_text
 
     def hand_numbers(self, hand_content):
         pattern = re.compile(r'PokerStars Hand #(\d+):')
@@ -24,7 +17,7 @@ class TableInfo:
         pattern = re.compile(r'([\s\S]*?)\*\*\* HOLE CARDS \*\*\*')
         hand_info: list = pattern.findall(hand_content)
 
-        return hand_info
+        return hand_info[0]
 
     def game_type(self, hand_info):
         pattern = re.compile(r'(?<=Hand #\d{12}: )(.*?)(?=\s-\s\d{4}\/\d{2}\/\d{2})')
@@ -103,7 +96,8 @@ class TableInfo:
                 counter += 1
         return counter
 
-    def mapping_func(self, x):
+    @staticmethod
+    def mapping_func(x):
         if x <= 6:
             return x
         else:
@@ -133,7 +127,7 @@ class TableInfo:
 
         return next_position_seat
 
-    def next_posistion(position):
+    def next_posistion(self, position):
         positions = ['BN', 'SB', 'BB', 'LJ', 'HJ', 'CO']
         for i in range(len(positions)):
             if positions[i] == position:
@@ -158,33 +152,28 @@ class TableInfo:
             'BN': player_info.get(bn_seat, ['', 0, True])[:2],
         }
 
-        return player_positions
+        return player_positions 
 
-    def json_builder(self):
+    def table_info(self):
 
-        jsons = []
+        hand_info = self.hand_info(hand_content=self.hand_text)
+        hand_numbers = self.hand_numbers(hand_content=self.hand_text)
+        player_info = self.player_info(hand_info)
+        button_seat_number = self.button_seat_number(hand_info)
+        blinds = self.players_posting_blind(hand_info)
 
-        for hand in self.file_content:
-            hand_info = self.hand_info(hand_content=hand)[0]
-            hand_numbers = self.hand_numbers(hand_content=hand)
-            player_info = self.player_info(hand_info)
-            button_seat_number = self.button_seat_number(hand_info)
-            blinds = self.players_posting_blind(hand_info)
+        table_info = {
+            'hand_number': hand_numbers[0],
+            'game_type': self.game_type(hand_info),
+            'blind_sizes': self.blind_sizes(hand_info),
+            'button_seat_number': button_seat_number,
+            'player_info': player_info,
+            'number_of_players_in_table': 6 - self.number_of_sitouts(player_info),
+            'players_posting_blind': blinds,
+            'player_positions': self.player_positions(player_info, button_seat_number, blinds)
+        }
 
-            json = {
-                'hand_number': hand_numbers[0],
-                'game_type': self.game_type(hand_info),
-                'blind_sizes': self.blind_sizes(hand_info),
-                'button_seat_number': button_seat_number,
-                'player_info': player_info,
-                'number_of_players_in_hand': 6 - self.number_of_sitouts(player_info),
-                'players_posting_blind': blinds,
-                'player_positions': self.player_positions(player_info, button_seat_number, blinds)
-            }
-
-            jsons.append(json)
-
-        return jsons
+        return table_info
 
     def parse_into_json(self):
         with open('table_info.json', 'w') as fp:
