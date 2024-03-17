@@ -1,6 +1,5 @@
 import json
 import re
-from json_wrapper import json_wrapper_pre_flop
 
 class PreFlop:
 
@@ -145,9 +144,7 @@ class PreFlop:
         pot += round(sum(player_money.values()), 2)
 
         return pot
-    
 
-    @json_wrapper_pre_flop
     def pre_flop_info(self):
         pre_flop = self.pre_flops(hand_content=self.hand_text)
         hand_number = self.hand_numbers(hand_content=self.hand_text)
@@ -169,7 +166,3 @@ class PreFlop:
 
         return pre_flop_info
 
-    def parse_into_json(self):
-        with open('pre_flop.json', 'w') as fp:
-            json_string = json.dumps(self.json_builder(), default=lambda o: __dict__, indent=2)
-            fp.write(json_string)

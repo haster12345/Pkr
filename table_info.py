@@ -174,7 +174,3 @@ class TableInfo:
 
         return table_info
 
-    def parse_into_json(self):
-        with open('table_info.json', 'w') as fp:
-            json_string = json.dumps(self.json_builder(), default=lambda o: __dict__, indent=2)
-            fp.write(json_string)
