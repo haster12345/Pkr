@@ -2,12 +2,10 @@
   {
     "hand_number": 247178770233,
     "hand": [
-      [
-        "hastermaster",
-        "Jh 3c"
-      ]
+      "hastermaster",
+      "Jh 3c"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Jelieva",
@@ -42,19 +40,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Sid_58": "BB"
+    },
+    "pot_size": 0.6,
+    "villain_positions": []
   },
   {
     "hand_number": 247178775938,
     "hand": [
-      [
-        "hastermaster",
-        "Ac 2d"
-      ]
+      "hastermaster",
+      "Ac 2d"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Avskum2010",
@@ -77,19 +75,22 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Sid_58": "CO",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.6,
+    "villain_positions": [
+      "BB vs CO"
+    ]
   },
   {
     "hand_number": 247178787115,
     "hand": [
-      [
-        "hastermaster",
-        "Tc Ah"
-      ]
+      "hastermaster",
+      "Tc Ah"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -112,19 +113,22 @@
         "calls $0.69"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "CO",
+      "Avskum2010": "BB"
+    },
+    "pot_size": 1.98,
+    "villain_positions": [
+      "SB vs BB"
+    ]
   },
   {
     "hand_number": 247178799128,
     "hand": [
-      [
-        "hastermaster",
-        "Qd As"
-      ]
+      "hastermaster",
+      "Qd As"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Sid_58",
@@ -143,19 +147,22 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BN",
+      "bonbona32": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": [
+      "HJ vs BB"
+    ]
   },
   {
     "hand_number": 247178810571,
     "hand": [
-      [
-        "hastermaster",
-        "Ah 9d"
-      ]
+      "hastermaster",
+      "Ah 9d"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -174,19 +181,22 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "LJ",
+      "bonbona32": "CO"
+    },
+    "pot_size": 0.7,
+    "villain_positions": [
+      "LJ vs CO"
+    ]
   },
   {
     "hand_number": 247178819201,
     "hand": [
-      [
-        "hastermaster",
-        "4h 5d"
-      ]
+      "hastermaster",
+      "4h 5d"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -209,19 +219,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247178822216,
     "hand": [
-      [
-        "hastermaster",
-        "5c 8h"
-      ]
+      "hastermaster",
+      "5c 8h"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Avskum2010",
@@ -248,19 +258,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "HJ"
+    },
+    "pot_size": 0.5,
+    "villain_positions": []
   },
   {
     "hand_number": 247178826697,
     "hand": [
-      [
-        "hastermaster",
-        "2s 2c"
-      ]
+      "hastermaster",
+      "2s 2c"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -287,19 +297,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Sid_58": "HJ"
+    },
+    "pot_size": 0.37,
+    "villain_positions": []
   },
   {
     "hand_number": 247178831231,
     "hand": [
-      [
-        "hastermaster",
-        "6c Th"
-      ]
+      "hastermaster",
+      "6c Th"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "Sid_58",
@@ -326,19 +336,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Sid_58": "LJ"
+    },
+    "pot_size": 0.37,
+    "villain_positions": []
   },
   {
     "hand_number": 247178835013,
     "hand": [
-      [
-        "hastermaster",
-        "Qc Jd"
-      ]
+      "hastermaster",
+      "Qc Jd"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -361,19 +371,22 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "HJ",
+      "bonbona32": "SB"
+    },
+    "pot_size": 0.7,
+    "villain_positions": [
+      "HJ vs SB"
+    ]
   },
   {
     "hand_number": 247178847537,
     "hand": [
-      [
-        "hastermaster",
-        "Qc 2h"
-      ]
+      "hastermaster",
+      "Qc 2h"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Avskum2010",
@@ -392,19 +405,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247178850914,
     "hand": [
-      [
-        "hastermaster",
-        "5h Jd"
-      ]
+      "hastermaster",
+      "5h Jd"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -427,19 +440,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "VandesandeBart": "HJ"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247178858204,
     "hand": [
-      [
-        "hastermaster",
-        "8h Qs"
-      ]
+      "hastermaster",
+      "8h Qs"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "VandesandeBart",
@@ -466,19 +479,20 @@
         "calls $0.45"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "VandesandeBart": "LJ",
+      "Avskum2010": "SB"
+    },
+    "pot_size": 1.2,
+    "villain_positions": []
   },
   {
     "hand_number": 247178874921,
     "hand": [
-      [
-        "hastermaster",
-        "7c 3c"
-      ]
+      "hastermaster",
+      "7c 3c"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -501,19 +515,21 @@
         "calls $0.11"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "LJ",
+      "bonbona32": "SB",
+      "VandesandeBart": "BB"
+    },
+    "pot_size": 0.63,
+    "villain_positions": []
   },
   {
     "hand_number": 247178888548,
     "hand": [
-      [
-        "hastermaster",
-        "5s As"
-      ]
+      "hastermaster",
+      "5s As"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -548,19 +564,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN"
+    },
+    "pot_size": 1.5,
+    "villain_positions": []
   },
   {
     "hand_number": 247178899206,
     "hand": [
-      [
-        "hastermaster",
-        "7s Kh"
-      ]
+      "hastermaster",
+      "7s Kh"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -587,19 +603,20 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "CO",
+      "VandesandeBart": "BN"
+    },
+    "pot_size": 0.55,
+    "villain_positions": []
   },
   {
     "hand_number": 247178907060,
     "hand": [
-      [
-        "hastermaster",
-        "Js 5d"
-      ]
+      "hastermaster",
+      "Js 5d"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Avskum2010",
@@ -630,19 +647,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Avskum2010": "LJ"
+    },
+    "pot_size": 0.35,
+    "villain_positions": []
   },
   {
     "hand_number": 247178910633,
     "hand": [
-      [
-        "hastermaster",
-        "2s 7s"
-      ]
+      "hastermaster",
+      "2s 7s"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -669,19 +686,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "VandesandeBart": "HJ"
+    },
+    "pot_size": 0.35,
+    "villain_positions": []
   },
   {
     "hand_number": 247178917507,
     "hand": [
-      [
-        "hastermaster",
-        "9c 7c"
-      ]
+      "hastermaster",
+      "9c 7c"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "VandesandeBart",
@@ -712,19 +729,22 @@
         "calls $0.55"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "VandesandeBart": "LJ",
+      "hastermaster": "BN"
+    },
+    "pot_size": 1.65,
+    "villain_positions": [
+      "BN vs LJ"
+    ]
   },
   {
     "hand_number": 247178936676,
     "hand": [
-      [
-        "hastermaster",
-        "Kd 5d"
-      ]
+      "hastermaster",
+      "Kd 5d"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -755,19 +775,20 @@
         "calls $1.22"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN",
+      "VandesandeBart": "SB"
+    },
+    "pot_size": 3.17,
+    "villain_positions": []
   },
   {
     "hand_number": 247178947053,
     "hand": [
-      [
-        "hastermaster",
-        "2c Jd"
-      ]
+      "hastermaster",
+      "2c Jd"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -790,19 +811,20 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "HJ",
+      "VandesandeBart": "BN"
+    },
+    "pot_size": 0.75,
+    "villain_positions": []
   },
   {
     "hand_number": 247178954286,
     "hand": [
-      [
-        "hastermaster",
-        "Ts Th"
-      ]
+      "hastermaster",
+      "Ts Th"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "bonbona32",
@@ -833,19 +855,22 @@
         "calls $0.14"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "VandesandeBart": "HJ",
+      "hastermaster": "BB"
+    },
+    "pot_size": 2.23,
+    "villain_positions": [
+      "BB vs HJ"
+    ]
   },
   {
     "hand_number": 247178960226,
     "hand": [
-      [
-        "hastermaster",
-        "3c 8c"
-      ]
+      "hastermaster",
+      "3c 8c"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -872,19 +897,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "LJ"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247178964271,
     "hand": [
-      [
-        "hastermaster",
-        "6s 2d"
-      ]
+      "hastermaster",
+      "6s 2d"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -907,19 +932,21 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "LJ",
+      "Smeta8810": "SB",
+      "bonbona32": "BB"
+    },
+    "pot_size": 0.9,
+    "villain_positions": []
   },
   {
     "hand_number": 247178971781,
     "hand": [
-      [
-        "hastermaster",
-        "Js 9c"
-      ]
+      "hastermaster",
+      "Js 9c"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -942,19 +969,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247178974477,
     "hand": [
-      [
-        "hastermaster",
-        "3s 7c"
-      ]
+      "hastermaster",
+      "3s 7c"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -981,19 +1008,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN"
+    },
+    "pot_size": 0.35,
+    "villain_positions": []
   },
   {
     "hand_number": 247178976895,
     "hand": [
-      [
-        "hastermaster",
-        "9d 9s"
-      ]
+      "hastermaster",
+      "9d 9s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Smeta8810",
@@ -1020,19 +1047,22 @@
         "calls $0.65"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "BN",
+      "hastermaster": "BB"
+    },
+    "pot_size": 1.95,
+    "villain_positions": [
+      "BB vs BN"
+    ]
   },
   {
     "hand_number": 247178984801,
     "hand": [
-      [
-        "hastermaster",
-        "8h 9h"
-      ]
+      "hastermaster",
+      "8h 9h"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "EngineerRoma",
@@ -1051,19 +1081,22 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "BN",
+      "hastermaster": "CO"
+    },
+    "pot_size": 0.58,
+    "villain_positions": [
+      "SB vs BN"
+    ]
   },
   {
     "hand_number": 247178992049,
     "hand": [
-      [
-        "hastermaster",
-        "Qh 8h"
-      ]
+      "hastermaster",
+      "Qh 8h"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -1086,19 +1119,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BN"
+    },
+    "pot_size": 0.5,
+    "villain_positions": []
   },
   {
     "hand_number": 247178996063,
     "hand": [
-      [
-        "hastermaster",
-        "4s 3h"
-      ]
+      "hastermaster",
+      "4s 3h"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -1125,19 +1158,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "BB"
+    },
+    "pot_size": 1.2,
+    "villain_positions": []
   },
   {
     "hand_number": 247179002462,
     "hand": [
-      [
-        "hastermaster",
-        "2s Ad"
-      ]
+      "hastermaster",
+      "2s Ad"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "bonbona32",
@@ -1156,19 +1189,22 @@
         "calls $0.10"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "LJ",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.45,
+    "villain_positions": [
+      "BB vs LJ"
+    ]
   },
   {
     "hand_number": 247179007631,
     "hand": [
-      [
-        "hastermaster",
-        "Ah 7s"
-      ]
+      "hastermaster",
+      "Ah 7s"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -1195,19 +1231,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "LJ"
+    },
+    "pot_size": 0.5,
+    "villain_positions": []
   },
   {
     "hand_number": 247179011212,
     "hand": [
-      [
-        "hastermaster",
-        "As Td"
-      ]
+      "hastermaster",
+      "As Td"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -1238,19 +1274,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BN"
+    },
+    "pot_size": 1.5,
+    "villain_positions": []
   },
   {
     "hand_number": 247179013975,
     "hand": [
-      [
-        "hastermaster",
-        "Qd Ad"
-      ]
+      "hastermaster",
+      "Qd Ad"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -1277,19 +1313,22 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "CO",
+      "bonbona32": "SB"
+    },
+    "pot_size": 0.7,
+    "villain_positions": [
+      "CO vs SB"
+    ]
   },
   {
     "hand_number": 247179025575,
     "hand": [
-      [
-        "hastermaster",
-        "2s 8h"
-      ]
+      "hastermaster",
+      "2s 8h"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -1320,19 +1359,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Muhlen9": "SB"
+    },
+    "pot_size": 0.4,
+    "villain_positions": []
   },
   {
     "hand_number": 247179028624,
     "hand": [
-      [
-        "hastermaster",
-        "Td Kc"
-      ]
+      "hastermaster",
+      "Td Kc"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -1359,19 +1398,22 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "LJ",
+      "bonbona32": "CO"
+    },
+    "pot_size": 0.75,
+    "villain_positions": [
+      "LJ vs CO"
+    ]
   },
   {
     "hand_number": 247179036182,
     "hand": [
-      [
-        "hastermaster",
-        "Qc 3d"
-      ]
+      "hastermaster",
+      "Qc 3d"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Demo071",
@@ -1402,19 +1444,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Muhlen9": "CO"
+    },
+    "pot_size": 0.4,
+    "villain_positions": []
   },
   {
     "hand_number": 247179040637,
     "hand": [
-      [
-        "hastermaster",
-        "Qc 2h"
-      ]
+      "hastermaster",
+      "Qc 2h"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -1445,19 +1487,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "CO"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179045090,
     "hand": [
-      [
-        "hastermaster",
-        "As 9c"
-      ]
+      "hastermaster",
+      "As 9c"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Muhlen9",
@@ -1488,19 +1530,22 @@
         "calls $0.59"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "CO",
+      "hastermaster": "BN"
+    },
+    "pot_size": 1.77,
+    "villain_positions": [
+      "BN vs CO"
+    ]
   },
   {
     "hand_number": 247179060920,
     "hand": [
-      [
-        "hastermaster",
-        "6s 5c"
-      ]
+      "hastermaster",
+      "6s 5c"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -1527,19 +1572,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "SB"
+    },
+    "pot_size": 0.4,
+    "villain_positions": []
   },
   {
     "hand_number": 247179064989,
     "hand": [
-      [
-        "hastermaster",
-        "9c Kh"
-      ]
+      "hastermaster",
+      "9c Kh"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -1566,19 +1611,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179070769,
     "hand": [
-      [
-        "hastermaster",
-        "Jd 8s"
-      ]
+      "hastermaster",
+      "Jd 8s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Demo071",
@@ -1601,19 +1646,22 @@
         "calls $0.17"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Demo071": "LJ",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.59,
+    "villain_positions": [
+      "BB vs LJ"
+    ]
   },
   {
     "hand_number": 247179083830,
     "hand": [
-      [
-        "hastermaster",
-        "Kh 3h"
-      ]
+      "hastermaster",
+      "Kh 3h"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -1636,19 +1684,20 @@
         "calls $0.14"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "BN",
+      "Demo071": "BB"
+    },
+    "pot_size": 0.53,
+    "villain_positions": []
   },
   {
     "hand_number": 247179094423,
     "hand": [
-      [
-        "hastermaster",
-        "5h 8h"
-      ]
+      "hastermaster",
+      "5h 8h"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -1671,19 +1720,20 @@
         "calls $0.12"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "HJ",
+      "bonbona32": "BB"
+    },
+    "pot_size": 0.49,
+    "villain_positions": []
   },
   {
     "hand_number": 247179112406,
     "hand": [
-      [
-        "hastermaster",
-        "Ah 3d"
-      ]
+      "hastermaster",
+      "Ah 3d"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -1710,19 +1760,20 @@
         "calls $0.17"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Demo071": "BN",
+      "Avskum2010": "BB"
+    },
+    "pot_size": 0.59,
+    "villain_positions": []
   },
   {
     "hand_number": 247179128825,
     "hand": [
-      [
-        "hastermaster",
-        "7c 8s"
-      ]
+      "hastermaster",
+      "7c 8s"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -1753,19 +1804,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179134497,
     "hand": [
-      [
-        "hastermaster",
-        "9s Td"
-      ]
+      "hastermaster",
+      "9s Td"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -1796,19 +1847,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "CO"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179139421,
     "hand": [
-      [
-        "hastermaster",
-        "4s Ad"
-      ]
+      "hastermaster",
+      "4s Ad"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "Demo071",
@@ -1839,19 +1890,22 @@
         "calls $0.25"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "HJ",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.75,
+    "villain_positions": [
+      "BB vs HJ"
+    ]
   },
   {
     "hand_number": 247179154128,
     "hand": [
-      [
-        "hastermaster",
-        "6d 5c"
-      ]
+      "hastermaster",
+      "6d 5c"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -1894,19 +1948,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "BN"
+    },
+    "pot_size": 16.61,
+    "villain_positions": []
   },
   {
     "hand_number": 247179165364,
     "hand": [
-      [
-        "hastermaster",
-        "4s 6c"
-      ]
+      "hastermaster",
+      "4s 6c"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Avskum2010",
@@ -1937,19 +1991,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "HJ"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179184438,
     "hand": [
-      [
-        "hastermaster",
-        "Tc 8d"
-      ]
+      "hastermaster",
+      "Tc 8d"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -1972,19 +2026,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN"
+    },
+    "pot_size": 0.5,
+    "villain_positions": []
   },
   {
     "hand_number": 247179191842,
     "hand": [
-      [
-        "hastermaster",
-        "Qh 5h"
-      ]
+      "hastermaster",
+      "Qh 5h"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "andregers72",
@@ -2007,19 +2061,22 @@
         "calls $0.10"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "LJ",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.45,
+    "villain_positions": [
+      "BB vs LJ"
+    ]
   },
   {
     "hand_number": 247179199261,
     "hand": [
-      [
-        "hastermaster",
-        "Qd 2d"
-      ]
+      "hastermaster",
+      "Qd 2d"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -2042,19 +2099,20 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "HJ",
+      "andregers72": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": []
   },
   {
     "hand_number": 247179211000,
     "hand": [
-      [
-        "hastermaster",
-        "8c Tc"
-      ]
+      "hastermaster",
+      "8c Tc"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -2077,19 +2135,22 @@
         "calls $0.25"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BN",
+      "bonbona32": "BB"
+    },
+    "pot_size": 0.75,
+    "villain_positions": [
+      "CO vs BB"
+    ]
   },
   {
     "hand_number": 247179228594,
     "hand": [
-      [
-        "hastermaster",
-        "8s Jh"
-      ]
+      "hastermaster",
+      "8s Jh"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -2116,19 +2177,20 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "SB",
+      "Djentx": "BB"
+    },
+    "pot_size": 0.6,
+    "villain_positions": []
   },
   {
     "hand_number": 247179252972,
     "hand": [
-      [
-        "hastermaster",
-        "Ks 9d"
-      ]
+      "hastermaster",
+      "Ks 9d"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -2163,19 +2225,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "BB"
+    },
+    "pot_size": 1.7,
+    "villain_positions": []
   },
   {
     "hand_number": 247179261080,
     "hand": [
-      [
-        "hastermaster",
-        "Tc 7d"
-      ]
+      "hastermaster",
+      "Tc 7d"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -2202,19 +2264,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179267505,
     "hand": [
-      [
-        "hastermaster",
-        "Ks 3s"
-      ]
+      "hastermaster",
+      "Ks 3s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "andregers72",
@@ -2241,19 +2303,22 @@
         "calls $0.10"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "LJ",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.45,
+    "villain_positions": [
+      "BB vs LJ"
+    ]
   },
   {
     "hand_number": 247179282612,
     "hand": [
-      [
-        "hastermaster",
-        "7h 7c"
-      ]
+      "hastermaster",
+      "7h 7c"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -2292,19 +2357,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "LJ"
+    },
+    "pot_size": 6.7,
+    "villain_positions": []
   },
   {
     "hand_number": 247179292074,
     "hand": [
-      [
-        "hastermaster",
-        "2c Ac"
-      ]
+      "hastermaster",
+      "2c Ac"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Djentx",
@@ -2343,19 +2408,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BB"
+    },
+    "pot_size": 1.8,
+    "villain_positions": []
   },
   {
     "hand_number": 247179303151,
     "hand": [
-      [
-        "hastermaster",
-        "Kh 5h"
-      ]
+      "hastermaster",
+      "Kh 5h"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -2386,19 +2451,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "LJ"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179308186,
     "hand": [
-      [
-        "hastermaster",
-        "9s 2s"
-      ]
+      "hastermaster",
+      "9s 2s"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -2429,19 +2494,20 @@
         "calls $0.55"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "CO",
+      "bonbona32": "BN"
+    },
+    "pot_size": 1.65,
+    "villain_positions": []
   },
   {
     "hand_number": 247179317626,
     "hand": [
-      [
-        "hastermaster",
-        "9h 7c"
-      ]
+      "hastermaster",
+      "9h 7c"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -2468,19 +2534,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "HJ"
+    },
+    "pot_size": 0.35,
+    "villain_positions": []
   },
   {
     "hand_number": 247179325037,
     "hand": [
-      [
-        "hastermaster",
-        "Kd 5s"
-      ]
+      "hastermaster",
+      "Kd 5s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "andregers72",
@@ -2507,19 +2573,22 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "BN",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": [
+      "BB vs BN"
+    ]
   },
   {
     "hand_number": 247179332717,
     "hand": [
-      [
-        "hastermaster",
-        "4s 4d"
-      ]
+      "hastermaster",
+      "4s 4d"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -2554,19 +2623,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "CO"
+    },
+    "pot_size": 0.75,
+    "villain_positions": []
   },
   {
     "hand_number": 247179339422,
     "hand": [
-      [
-        "hastermaster",
-        "Jd 2h"
-      ]
+      "hastermaster",
+      "Jd 2h"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Djentx",
@@ -2597,19 +2666,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "EngineerRoma": "HJ"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179346012,
     "hand": [
-      [
-        "hastermaster",
-        "9c Ts"
-      ]
+      "hastermaster",
+      "9c Ts"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "EngineerRoma",
@@ -2636,19 +2705,20 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "BN",
+      "bonbona32": "SB"
+    },
+    "pot_size": 0.5,
+    "villain_positions": []
   },
   {
     "hand_number": 247179361784,
     "hand": [
-      [
-        "hastermaster",
-        "6s Td"
-      ]
+      "hastermaster",
+      "6s Td"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -2675,19 +2745,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Djentx": "SB"
+    },
+    "pot_size": 0.4,
+    "villain_positions": []
   },
   {
     "hand_number": 247179369335,
     "hand": [
-      [
-        "hastermaster",
-        "Ac 9s"
-      ]
+      "hastermaster",
+      "Ac 9s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "andregers72",
@@ -2710,19 +2780,22 @@
         "calls $0.10"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "LJ",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.45,
+    "villain_positions": [
+      "BB vs LJ"
+    ]
   },
   {
     "hand_number": 247179378735,
     "hand": [
-      [
-        "hastermaster",
-        "Td Js"
-      ]
+      "hastermaster",
+      "Td Js"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -2745,19 +2818,20 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "LJ",
+      "andregers72": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": []
   },
   {
     "hand_number": 247179389745,
     "hand": [
-      [
-        "hastermaster",
-        "6c 9s"
-      ]
+      "hastermaster",
+      "6c 9s"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "Djentx",
@@ -2780,19 +2854,20 @@
         "checks "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "SB",
+      "bonbona32": "BB"
+    },
+    "pot_size": 0.2,
+    "villain_positions": []
   },
   {
     "hand_number": 247179399881,
     "hand": [
-      [
-        "hastermaster",
-        "7h Jd"
-      ]
+      "hastermaster",
+      "7h Jd"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -2811,19 +2886,17 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {},
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179404108,
     "hand": [
-      [
-        "hastermaster",
-        "Qd Kh"
-      ]
+      "hastermaster",
+      "Qd Kh"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -2850,19 +2923,22 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "HJ",
+      "Cyprian-Jones": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": [
+      "HJ vs BB"
+    ]
   },
   {
     "hand_number": 247179413516,
     "hand": [
-      [
-        "hastermaster",
-        "3d 5s"
-      ]
+      "hastermaster",
+      "3d 5s"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -2897,19 +2973,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Cyprian-Jones": "SB"
+    },
+    "pot_size": 1.2,
+    "villain_positions": []
   },
   {
     "hand_number": 247179421615,
     "hand": [
-      [
-        "hastermaster",
-        "Ts 6s"
-      ]
+      "hastermaster",
+      "Ts 6s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "andregers72",
@@ -2936,19 +3012,24 @@
         "calls $0.10"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "LJ",
+      "Cyprian-Jones": "BN",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": [
+      "BB vs LJ",
+      "BB vs BN"
+    ]
   },
   {
     "hand_number": 247179436050,
     "hand": [
-      [
-        "hastermaster",
-        "Td 4d"
-      ]
+      "hastermaster",
+      "Td 4d"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -2979,19 +3060,21 @@
         "calls $0.60"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Djentx": "HJ",
+      "Towinso": "BN",
+      "andregers72": "BB"
+    },
+    "pot_size": 2.75,
+    "villain_positions": []
   },
   {
     "hand_number": 247179450861,
     "hand": [
-      [
-        "hastermaster",
-        "9c 8s"
-      ]
+      "hastermaster",
+      "9c 8s"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Djentx",
@@ -3018,19 +3101,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179457273,
     "hand": [
-      [
-        "hastermaster",
-        "2c 2s"
-      ]
+      "hastermaster",
+      "2c 2s"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "Cyprian-Jones",
@@ -3057,19 +3140,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "BN"
+    },
+    "pot_size": 0.35,
+    "villain_positions": []
   },
   {
     "hand_number": 247179465303,
     "hand": [
-      [
-        "hastermaster",
-        "9c 7c"
-      ]
+      "hastermaster",
+      "9c 7c"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -3096,19 +3179,20 @@
         "calls $0.10"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "CO",
+      "Cyprian-Jones": "BB"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179476430,
     "hand": [
-      [
-        "hastermaster",
-        "8d Ks"
-      ]
+      "hastermaster",
+      "8d Ks"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -3139,19 +3223,20 @@
         "calls $0.55"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "andregers72": "HJ",
+      "bonbona32": "CO"
+    },
+    "pot_size": 1.65,
+    "villain_positions": []
   },
   {
     "hand_number": 247179487194,
     "hand": [
-      [
-        "hastermaster",
-        "8h 7d"
-      ]
+      "hastermaster",
+      "8h 7d"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "bonbona32",
@@ -3174,19 +3259,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179493179,
     "hand": [
-      [
-        "hastermaster",
-        "4c Td"
-      ]
+      "hastermaster",
+      "4c Td"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -3213,19 +3298,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "cooperjak88": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179497828,
     "hand": [
-      [
-        "hastermaster",
-        "7s Qh"
-      ]
+      "hastermaster",
+      "7s Qh"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Djentx",
@@ -3252,19 +3337,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179502324,
     "hand": [
-      [
-        "hastermaster",
-        "Ts 6s"
-      ]
+      "hastermaster",
+      "Ts 6s"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "Cyprian-Jones",
@@ -3287,19 +3372,17 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {},
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179506382,
     "hand": [
-      [
-        "hastermaster",
-        "9c Ks"
-      ]
+      "hastermaster",
+      "9c Ks"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -3330,19 +3413,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179513320,
     "hand": [
-      [
-        "hastermaster",
-        "4d 9d"
-      ]
+      "hastermaster",
+      "4d 9d"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -3369,19 +3452,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Djentx": "BN"
+    },
+    "pot_size": 0.4,
+    "villain_positions": []
   },
   {
     "hand_number": 247179523091,
     "hand": [
-      [
-        "hastermaster",
-        "6d 8s"
-      ]
+      "hastermaster",
+      "6d 8s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "cooperjak88",
@@ -3408,19 +3491,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Djentx": "CO"
+    },
+    "pot_size": 0.4,
+    "villain_positions": []
   },
   {
     "hand_number": 247179531352,
     "hand": [
-      [
-        "hastermaster",
-        "6c 3h"
-      ]
+      "hastermaster",
+      "6c 3h"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -3451,19 +3534,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "LJ"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179536171,
     "hand": [
-      [
-        "hastermaster",
-        "Js Qd"
-      ]
+      "hastermaster",
+      "Js Qd"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Djentx",
@@ -3494,19 +3577,22 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BN",
+      "bonbona32": "BB"
+    },
+    "pot_size": 1.05,
+    "villain_positions": [
+      "BN vs BB"
+    ]
   },
   {
     "hand_number": 247179555350,
     "hand": [
-      [
-        "hastermaster",
-        "As 5d"
-      ]
+      "hastermaster",
+      "As 5d"
     ],
-    "position": null,
+    "hero_position": "CO",
     "action": [
       [
         "Cyprian-Jones",
@@ -3537,19 +3623,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "SB"
+    },
+    "pot_size": 0.4,
+    "villain_positions": []
   },
   {
     "hand_number": 247179563697,
     "hand": [
-      [
-        "hastermaster",
-        "Jc 4h"
-      ]
+      "hastermaster",
+      "Jc 4h"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -3576,19 +3662,20 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "bonbona32": "BN",
+      "Cyprian-Jones": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": []
   },
   {
     "hand_number": 247179577507,
     "hand": [
-      [
-        "hastermaster",
-        "2c 9d"
-      ]
+      "hastermaster",
+      "2c 9d"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -3615,19 +3702,20 @@
         "checks "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Cyprian-Jones": "SB",
+      "Towinso": "BB"
+    },
+    "pot_size": 0.2,
+    "villain_positions": []
   },
   {
     "hand_number": 247179592437,
     "hand": [
-      [
-        "hastermaster",
-        "5d 7s"
-      ]
+      "hastermaster",
+      "5d 7s"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "cooperjak88",
@@ -3658,19 +3746,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "cooperjak88": "LJ"
+    },
+    "pot_size": 0.35,
+    "villain_positions": []
   },
   {
     "hand_number": 247179599074,
     "hand": [
-      [
-        "hastermaster",
-        "Kh Jd"
-      ]
+      "hastermaster",
+      "Kh Jd"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "bonbona32",
@@ -3697,19 +3785,22 @@
         "checks "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "SB",
+      "cooperjak88": "BB"
+    },
+    "pot_size": 0.2,
+    "villain_positions": [
+      "SB vs BB"
+    ]
   },
   {
     "hand_number": 247179610710,
     "hand": [
-      [
-        "hastermaster",
-        "7s 8d"
-      ]
+      "hastermaster",
+      "7s 8d"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Djentx",
@@ -3736,19 +3827,19 @@
         "folds "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Djentx": "LJ"
+    },
+    "pot_size": 0.45,
+    "villain_positions": []
   },
   {
     "hand_number": 247179614157,
     "hand": [
-      [
-        "hastermaster",
-        "9d 2s"
-      ]
+      "hastermaster",
+      "9d 2s"
     ],
-    "position": null,
+    "hero_position": "HJ",
     "action": [
       [
         "Towinso",
@@ -3771,19 +3862,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Cyprian-Jones": "BB"
+    },
+    "pot_size": 0.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179618581,
     "hand": [
-      [
-        "hastermaster",
-        "2c 9s"
-      ]
+      "hastermaster",
+      "2c 9s"
     ],
-    "position": null,
+    "hero_position": "LJ",
     "action": [
       [
         "hastermaster",
@@ -3814,19 +3905,19 @@
         "doesn't show hand "
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Towinso": "BB"
+    },
+    "pot_size": 0.6,
+    "villain_positions": []
   },
   {
     "hand_number": 247179624394,
     "hand": [
-      [
-        "hastermaster",
-        "Ah 5h"
-      ]
+      "hastermaster",
+      "Ah 5h"
     ],
-    "position": null,
+    "hero_position": "BB",
     "action": [
       [
         "cooperjak88",
@@ -3849,19 +3940,22 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Cyprian-Jones": "BN",
+      "hastermaster": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": [
+      "BB vs BN"
+    ]
   },
   {
     "hand_number": 247179643013,
     "hand": [
-      [
-        "hastermaster",
-        "Kd 7d"
-      ]
+      "hastermaster",
+      "Kd 7d"
     ],
-    "position": null,
+    "hero_position": "SB",
     "action": [
       [
         "Djentx",
@@ -3888,19 +3982,20 @@
         "calls $0.40"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "Cyprian-Jones": "HJ",
+      "Towinso": "BN"
+    },
+    "pot_size": 1.15,
+    "villain_positions": []
   },
   {
     "hand_number": 247179652069,
     "hand": [
-      [
-        "hastermaster",
-        "7c Jh"
-      ]
+      "hastermaster",
+      "7c Jh"
     ],
-    "position": null,
+    "hero_position": "BN",
     "action": [
       [
         "Djentx",
@@ -3927,8 +4022,13 @@
         "calls $0.20"
       ]
     ],
-    "players_in_pot": null,
-    "pot_size": null,
-    "villain_positions": null
+    "players_in_pot": {
+      "hastermaster": "BN",
+      "NickSolo96": "BB"
+    },
+    "pot_size": 0.65,
+    "villain_positions": [
+      "BN vs BB"
+    ]
   }
 ]

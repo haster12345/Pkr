@@ -1,7 +1,6 @@
 import re
 import json
 
-
 class TableInfo:
 
     def __init__(self, hand_text):

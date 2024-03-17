@@ -39,7 +39,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -124,7 +124,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "Sid_58",
@@ -204,7 +204,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -284,7 +284,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -364,7 +364,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -444,7 +444,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Sid_58",
@@ -524,7 +524,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -604,7 +604,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -684,7 +684,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -764,7 +764,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -844,7 +844,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "Towinso",
@@ -924,7 +924,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1009,7 +1009,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -1089,7 +1089,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -1169,7 +1169,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "VandesandeBart",
@@ -1249,7 +1249,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1329,7 +1329,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1409,7 +1409,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1489,7 +1489,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -1569,7 +1569,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "VandesandeBart",
@@ -1649,7 +1649,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -1729,7 +1729,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -1809,7 +1809,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -1889,7 +1889,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Smeta8810",
@@ -1969,7 +1969,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2049,7 +2049,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2129,7 +2129,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -2209,7 +2209,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -2289,7 +2289,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2369,7 +2369,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2449,7 +2449,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "Towinso",
@@ -2529,7 +2529,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -2609,7 +2609,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Demo071",
@@ -2689,7 +2689,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -2769,7 +2769,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Muhlen9",
@@ -2849,7 +2849,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -2929,7 +2929,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3009,7 +3009,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3089,7 +3089,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Demo071",
@@ -3169,7 +3169,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -3249,7 +3249,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -3329,7 +3329,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3409,7 +3409,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3489,7 +3489,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Demo071",
@@ -3569,7 +3569,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -3649,7 +3649,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Avskum2010",
@@ -3729,7 +3729,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -3809,7 +3809,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -3889,7 +3889,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -3969,7 +3969,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Demo071",
@@ -4049,7 +4049,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 4,
+    "number_of_players_in_table": 4,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -4129,7 +4129,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -4214,7 +4214,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -4294,7 +4294,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "andregers72",
@@ -4374,7 +4374,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4454,7 +4454,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -4534,7 +4534,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -4614,7 +4614,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -4694,7 +4694,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -4774,7 +4774,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -4854,7 +4854,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -4934,7 +4934,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -5014,7 +5014,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "EngineerRoma",
@@ -5094,7 +5094,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -5174,7 +5174,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -5254,7 +5254,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -5334,7 +5334,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -5414,7 +5414,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -5494,7 +5494,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -5574,7 +5574,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -5654,7 +5654,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "andregers72",
@@ -5734,7 +5734,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -5814,7 +5814,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -5894,7 +5894,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -5974,7 +5974,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -6054,7 +6054,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -6134,7 +6134,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "andregers72",
@@ -6214,7 +6214,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -6294,7 +6294,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -6374,7 +6374,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -6454,7 +6454,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -6534,7 +6534,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -6614,7 +6614,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -6694,7 +6694,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -6774,7 +6774,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -6854,7 +6854,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -6934,7 +6934,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -7014,7 +7014,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -7094,7 +7094,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -7174,7 +7174,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "bonbona32",
@@ -7254,7 +7254,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Djentx",
@@ -7334,7 +7334,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -7414,7 +7414,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "Towinso",
@@ -7494,7 +7494,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -7574,7 +7574,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "cooperjak88",
@@ -7654,7 +7654,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Djentx",
@@ -7734,7 +7734,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Cyprian-Jones",
@@ -7814,7 +7814,7 @@
         true
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "Towinso",
@@ -7894,7 +7894,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 5,
+    "number_of_players_in_table": 5,
     "players_posting_blind": [
       [
         "hastermaster",
@@ -7974,7 +7974,7 @@
         false
       ]
     },
-    "number_of_players_in_hand": 6,
+    "number_of_players_in_table": 6,
     "players_posting_blind": [
       [
         "cooperjak88",

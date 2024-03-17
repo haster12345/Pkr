@@ -1,6 +1,6 @@
 import json
 import re
-
+from json_wrapper import json_wrapper_pre_flop
 
 class PreFlop:
 
@@ -141,18 +141,17 @@ class PreFlop:
                     player_money[player] = amount + player_amount
             else:
                 player_money[player] = amount
-        
-        print(player_money)
+
         pot += round(sum(player_money.values()), 2)
-        print(pot)
 
         return pot
+    
 
+    @json_wrapper_pre_flop
     def pre_flop_info(self):
         pre_flop = self.pre_flops(hand_content=self.hand_text)
         hand_number = self.hand_numbers(hand_content=self.hand_text)
         hand = self.hand_dealt(pre_flop)
-        blinds = self.blinds()
         action = self.action(pre_flop)
         hero_position = self.hero_position()
         players_in_pot = self.get_players_in_pot(action)
