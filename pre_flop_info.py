@@ -23,7 +23,7 @@ class PreFlop:
     def hand_dealt(self, pre_flop):
         pre_flop_re = re.compile(r"Dealt to (\w+) \[([2-9TJQKA][cdhs] [2-9TJQKA][cdhs])\]")
         hand = pre_flop_re.findall(pre_flop)
-        return hand
+        return hand[0]
     
     @staticmethod
     def hero_name():
@@ -115,19 +115,17 @@ class PreFlop:
 
         return action, amount
 
-    def pot_size(self, blinds, actions):
+    def pot_size(self, actions):
         """
         -keep track of blinds, bets, raises, calls
-        iterate through actions, 
         """
-        pot = blinds
+        pot = 0
         player_money = dict()
 
         for player_posting_blind in self.table_info['players_posting_blind']:
             player = player_posting_blind[0]
             amount = float(player_posting_blind[2])
             player_money[player] = amount
-
 
         for action_line in actions:
             player = action_line[0]
@@ -144,7 +142,9 @@ class PreFlop:
             else:
                 player_money[player] = amount
         
+        print(player_money)
         pot += round(sum(player_money.values()), 2)
+        print(pot)
 
         return pot
 
@@ -163,7 +163,7 @@ class PreFlop:
             'hero_position': self.hero_position(),
             'action': self.action(pre_flop),
             'players_in_pot': players_in_pot, 
-            'pot_size': self.pot_size(blinds, action),
+            'pot_size': self.pot_size(action),
             'villain_positions': self.villain_position(hero_position, players_in_pot),
             'hero_position' : self.hero_position()
         }
