@@ -38,18 +38,24 @@ class PreFlop:
 
         return hero_position
 
-    def villain_position(self, hero_position, players_in_pot):
+    def villain_position(self, hero_position, players_in_pot, pot_classification):
         """
         example output current [ "LJ vs HJ", "LJ vs BN"]
         example output target [ "LJ call vs HJ 3-Bet", "LJ rfi vs BN call"]
         """
         villain_positions = []
+        pot_type, aggro_player = pot_classification
+        aggro_player_position = self.player_positions()[aggro_player]
 
         if self.hero_name() in players_in_pot:
             for player, position in players_in_pot.items():
-
                 if player != self.hero_name():
-                    villain_positions.append(f'{hero_position} vs {position}')
+                    if aggro_player == self.hero_name():
+                        villain_positions.append(f'{hero_position} {pot_type} vs {position} call')
+                    elif position == aggro_player_position:
+                        villain_positions.append(f'{hero_position} call vs {position} {pot_type}')
+                    else:
+                        villain_positions.append(f'{hero_position} vs {position}')
 
         return villain_positions
 
@@ -58,23 +64,27 @@ class PreFlop:
         this one is a bit complicated.
         given the action find if the pot was a 3-bet, call , rasie, 4-bet, ...
         
-        go through action, count number of bets 
+        go through action, count number of bets, see which player bet what. 
 
         """
         count_number_of_bets = 1
+        player_initiating_action = self.table_info['player_positions']['BB'][0]
         number_of_bets_to_name = {
             1 : 'limp',
-            2 : 'raise first in',
+            2 : 'RFI',
             3 : '3-bet',
             4 : '4-bet',
             5 : '5-bet'
         }
-        print(actions, count_number_of_bets)
         for action_line in actions:
             action = self.action_identifier(action_line[1])[0]
+            player = action_line[0]
             if action not in ("checks", "folds", "doesn't", "calls"):
                 count_number_of_bets += 1
-        return number_of_bets_to_name[count_number_of_bets]
+                player_initiating_action = player
+        pot_type = number_of_bets_to_name[count_number_of_bets]
+        
+        return pot_type, player_initiating_action
 
     def player_positions(self):
         player_positions = {player[0]: position for (position, player) in self.table_info['player_positions'].items()}
@@ -175,6 +185,7 @@ class PreFlop:
         action = self.action(pre_flop)
         hero_position = self.hero_position()
         players_in_pot = self.get_players_in_pot(action)
+        pot_classification = self.pot_classification(action)
 
         pre_flop_info = {
             'hand_number': hand_number[0],
@@ -183,10 +194,9 @@ class PreFlop:
             'action': self.action(pre_flop),
             'players_in_pot': players_in_pot, 
             'pot_size': self.pot_size(action),
-            'villain_positions': self.villain_position(hero_position, players_in_pot),
+            'villain_positions': self.villain_position(hero_position, players_in_pot, pot_classification),
             'hero_position' : self.hero_position(),
-            'pot_classification' : self.pot_classification(action)
+            'pot_classification' : pot_classification 
         }
 
         return pre_flop_info
-
