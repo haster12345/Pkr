@@ -44,7 +44,8 @@
       "Sid_58": "BB"
     },
     "pot_size": 0.6,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178775938,
@@ -82,7 +83,8 @@
     "pot_size": 0.6,
     "villain_positions": [
       "BB vs CO"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178787115,
@@ -120,7 +122,8 @@
     "pot_size": 1.98,
     "villain_positions": [
       "SB vs BB"
-    ]
+    ],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247178799128,
@@ -154,7 +157,8 @@
     "pot_size": 0.65,
     "villain_positions": [
       "HJ vs BB"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178810571,
@@ -188,7 +192,8 @@
     "pot_size": 0.7,
     "villain_positions": [
       "LJ vs CO"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178819201,
@@ -223,7 +228,8 @@
       "Towinso": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247178822216,
@@ -262,7 +268,8 @@
       "bonbona32": "HJ"
     },
     "pot_size": 0.5,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178826697,
@@ -301,7 +308,8 @@
       "Sid_58": "HJ"
     },
     "pot_size": 0.37,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178831231,
@@ -340,7 +348,8 @@
       "Sid_58": "LJ"
     },
     "pot_size": 0.37,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178835013,
@@ -378,7 +387,8 @@
     "pot_size": 0.7,
     "villain_positions": [
       "HJ vs SB"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178847537,
@@ -409,7 +419,8 @@
       "hastermaster": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247178850914,
@@ -444,7 +455,8 @@
       "VandesandeBart": "HJ"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178858204,
@@ -484,7 +496,8 @@
       "Avskum2010": "SB"
     },
     "pot_size": 1.2,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178874921,
@@ -521,7 +534,8 @@
       "VandesandeBart": "BB"
     },
     "pot_size": 0.63,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178888548,
@@ -568,7 +582,8 @@
       "bonbona32": "BN"
     },
     "pot_size": 1.5,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247178899206,
@@ -608,7 +623,8 @@
       "VandesandeBart": "BN"
     },
     "pot_size": 0.55,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178907060,
@@ -651,7 +667,8 @@
       "Avskum2010": "LJ"
     },
     "pot_size": 0.35,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178910633,
@@ -690,7 +707,8 @@
       "VandesandeBart": "HJ"
     },
     "pot_size": 0.35,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178917507,
@@ -736,7 +754,8 @@
     "pot_size": 1.65,
     "villain_positions": [
       "BN vs LJ"
-    ]
+    ],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247178936676,
@@ -780,7 +799,8 @@
       "VandesandeBart": "SB"
     },
     "pot_size": 3.17,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247178947053,
@@ -816,7 +836,8 @@
       "VandesandeBart": "BN"
     },
     "pot_size": 0.75,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178954286,
@@ -862,7 +883,8 @@
     "pot_size": 2.23,
     "villain_positions": [
       "BB vs HJ"
-    ]
+    ],
+    "pot_classification": "4-bet"
   },
   {
     "hand_number": 247178960226,
@@ -901,7 +923,8 @@
       "bonbona32": "LJ"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178964271,
@@ -938,7 +961,8 @@
       "bonbona32": "BB"
     },
     "pot_size": 0.9,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178971781,
@@ -973,7 +997,8 @@
       "EngineerRoma": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247178974477,
@@ -1012,7 +1037,8 @@
       "bonbona32": "BN"
     },
     "pot_size": 0.35,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178976895,
@@ -1054,7 +1080,8 @@
     "pot_size": 1.95,
     "villain_positions": [
       "BB vs BN"
-    ]
+    ],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247178984801,
@@ -1088,7 +1115,8 @@
     "pot_size": 0.58,
     "villain_positions": [
       "SB vs BN"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178992049,
@@ -1123,7 +1151,8 @@
       "hastermaster": "BN"
     },
     "pot_size": 0.5,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247178996063,
@@ -1162,7 +1191,8 @@
       "Towinso": "BB"
     },
     "pot_size": 1.2,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179002462,
@@ -1196,7 +1226,8 @@
     "pot_size": 0.45,
     "villain_positions": [
       "BB vs LJ"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179007631,
@@ -1235,7 +1266,8 @@
       "bonbona32": "LJ"
     },
     "pot_size": 0.5,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179011212,
@@ -1278,7 +1310,8 @@
       "hastermaster": "BN"
     },
     "pot_size": 1.5,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179013975,
@@ -1320,7 +1353,8 @@
     "pot_size": 0.7,
     "villain_positions": [
       "CO vs SB"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179025575,
@@ -1363,7 +1397,8 @@
       "Muhlen9": "SB"
     },
     "pot_size": 0.4,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179028624,
@@ -1405,7 +1440,8 @@
     "pot_size": 0.75,
     "villain_positions": [
       "LJ vs CO"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179036182,
@@ -1448,7 +1484,8 @@
       "Muhlen9": "CO"
     },
     "pot_size": 0.4,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179040637,
@@ -1491,7 +1528,8 @@
       "EngineerRoma": "CO"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179045090,
@@ -1537,7 +1575,8 @@
     "pot_size": 1.77,
     "villain_positions": [
       "BN vs CO"
-    ]
+    ],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179060920,
@@ -1576,7 +1615,8 @@
       "bonbona32": "SB"
     },
     "pot_size": 0.4,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179064989,
@@ -1615,7 +1655,8 @@
       "bonbona32": "BN"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179070769,
@@ -1653,7 +1694,8 @@
     "pot_size": 0.59,
     "villain_positions": [
       "BB vs LJ"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179083830,
@@ -1689,7 +1731,8 @@
       "Demo071": "BB"
     },
     "pot_size": 0.53,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179094423,
@@ -1725,7 +1768,8 @@
       "bonbona32": "BB"
     },
     "pot_size": 0.49,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179112406,
@@ -1765,7 +1809,8 @@
       "Avskum2010": "BB"
     },
     "pot_size": 0.59,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179128825,
@@ -1808,7 +1853,8 @@
       "bonbona32": "BN"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179134497,
@@ -1851,7 +1897,8 @@
       "bonbona32": "CO"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179139421,
@@ -1897,7 +1944,8 @@
     "pot_size": 0.75,
     "villain_positions": [
       "BB vs HJ"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179154128,
@@ -1952,7 +2000,8 @@
       "Towinso": "BN"
     },
     "pot_size": 16.61,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "5-bet"
   },
   {
     "hand_number": 247179165364,
@@ -1995,7 +2044,8 @@
       "EngineerRoma": "HJ"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179184438,
@@ -2030,7 +2080,8 @@
       "bonbona32": "BN"
     },
     "pot_size": 0.5,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179191842,
@@ -2068,7 +2119,8 @@
     "pot_size": 0.45,
     "villain_positions": [
       "BB vs LJ"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179199261,
@@ -2104,7 +2156,8 @@
       "andregers72": "BB"
     },
     "pot_size": 0.65,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179211000,
@@ -2142,7 +2195,8 @@
     "pot_size": 0.75,
     "villain_positions": [
       "CO vs BB"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179228594,
@@ -2182,7 +2236,8 @@
       "Djentx": "BB"
     },
     "pot_size": 0.6,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179252972,
@@ -2229,7 +2284,8 @@
       "EngineerRoma": "BB"
     },
     "pot_size": 1.7,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179261080,
@@ -2268,7 +2324,8 @@
       "Towinso": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179267505,
@@ -2310,7 +2367,8 @@
     "pot_size": 0.45,
     "villain_positions": [
       "BB vs LJ"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179282612,
@@ -2361,7 +2419,8 @@
       "bonbona32": "LJ"
     },
     "pot_size": 6.7,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "4-bet"
   },
   {
     "hand_number": 247179292074,
@@ -2412,7 +2471,8 @@
       "bonbona32": "BB"
     },
     "pot_size": 1.8,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179303151,
@@ -2455,7 +2515,8 @@
       "EngineerRoma": "LJ"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179308186,
@@ -2499,7 +2560,8 @@
       "bonbona32": "BN"
     },
     "pot_size": 1.65,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179317626,
@@ -2538,7 +2600,8 @@
       "andregers72": "HJ"
     },
     "pot_size": 0.35,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179325037,
@@ -2580,7 +2643,8 @@
     "pot_size": 0.65,
     "villain_positions": [
       "BB vs BN"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179332717,
@@ -2627,7 +2691,8 @@
       "EngineerRoma": "CO"
     },
     "pot_size": 0.75,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179339422,
@@ -2670,7 +2735,8 @@
       "EngineerRoma": "HJ"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179346012,
@@ -2710,7 +2776,8 @@
       "bonbona32": "SB"
     },
     "pot_size": 0.5,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179361784,
@@ -2749,7 +2816,8 @@
       "Djentx": "SB"
     },
     "pot_size": 0.4,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179369335,
@@ -2787,7 +2855,8 @@
     "pot_size": 0.45,
     "villain_positions": [
       "BB vs LJ"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179378735,
@@ -2823,7 +2892,8 @@
       "andregers72": "BB"
     },
     "pot_size": 0.65,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179389745,
@@ -2859,7 +2929,8 @@
       "bonbona32": "BB"
     },
     "pot_size": 0.2,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179399881,
@@ -2888,7 +2959,8 @@
     ],
     "players_in_pot": {},
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179404108,
@@ -2930,7 +3002,8 @@
     "pot_size": 0.65,
     "villain_positions": [
       "HJ vs BB"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179413516,
@@ -2977,7 +3050,8 @@
       "Cyprian-Jones": "SB"
     },
     "pot_size": 1.2,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179421615,
@@ -3021,7 +3095,8 @@
     "villain_positions": [
       "BB vs LJ",
       "BB vs BN"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179436050,
@@ -3066,7 +3141,8 @@
       "andregers72": "BB"
     },
     "pot_size": 2.75,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179450861,
@@ -3105,7 +3181,8 @@
       "bonbona32": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179457273,
@@ -3144,7 +3221,8 @@
       "andregers72": "BN"
     },
     "pot_size": 0.35,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179465303,
@@ -3184,7 +3262,8 @@
       "Cyprian-Jones": "BB"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179476430,
@@ -3228,7 +3307,8 @@
       "bonbona32": "CO"
     },
     "pot_size": 1.65,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "3-bet"
   },
   {
     "hand_number": 247179487194,
@@ -3263,7 +3343,8 @@
       "hastermaster": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179493179,
@@ -3302,7 +3383,8 @@
       "cooperjak88": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179497828,
@@ -3341,7 +3423,8 @@
       "bonbona32": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179502324,
@@ -3374,7 +3457,8 @@
     ],
     "players_in_pot": {},
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179506382,
@@ -3417,7 +3501,8 @@
       "bonbona32": "BN"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179513320,
@@ -3456,7 +3541,8 @@
       "Djentx": "BN"
     },
     "pot_size": 0.4,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179523091,
@@ -3495,7 +3581,8 @@
       "Djentx": "CO"
     },
     "pot_size": 0.4,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179531352,
@@ -3538,7 +3625,8 @@
       "bonbona32": "LJ"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179536171,
@@ -3584,7 +3672,8 @@
     "pot_size": 1.05,
     "villain_positions": [
       "BN vs BB"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179555350,
@@ -3627,7 +3716,8 @@
       "bonbona32": "SB"
     },
     "pot_size": 0.4,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179563697,
@@ -3667,7 +3757,8 @@
       "Cyprian-Jones": "BB"
     },
     "pot_size": 0.65,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179577507,
@@ -3707,7 +3798,8 @@
       "Towinso": "BB"
     },
     "pot_size": 0.2,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179592437,
@@ -3750,7 +3842,8 @@
       "cooperjak88": "LJ"
     },
     "pot_size": 0.35,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179599074,
@@ -3792,7 +3885,8 @@
     "pot_size": 0.2,
     "villain_positions": [
       "SB vs BB"
-    ]
+    ],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179610710,
@@ -3831,7 +3925,8 @@
       "Djentx": "LJ"
     },
     "pot_size": 0.45,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179614157,
@@ -3866,7 +3961,8 @@
       "Cyprian-Jones": "BB"
     },
     "pot_size": 0.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "limp"
   },
   {
     "hand_number": 247179618581,
@@ -3909,7 +4005,8 @@
       "Towinso": "BB"
     },
     "pot_size": 0.6,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179624394,
@@ -3947,7 +4044,8 @@
     "pot_size": 0.65,
     "villain_positions": [
       "BB vs BN"
-    ]
+    ],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179643013,
@@ -3987,7 +4085,8 @@
       "Towinso": "BN"
     },
     "pot_size": 1.15,
-    "villain_positions": []
+    "villain_positions": [],
+    "pot_classification": "raise first in"
   },
   {
     "hand_number": 247179652069,
@@ -4029,6 +4128,7 @@
     "pot_size": 0.65,
     "villain_positions": [
       "BN vs BB"
-    ]
+    ],
+    "pot_classification": "raise first in"
   }
 ]

@@ -1,4 +1,3 @@
-import json
 import re
 
 class PreFlop:
@@ -41,7 +40,8 @@ class PreFlop:
 
     def villain_position(self, hero_position, players_in_pot):
         """
-        example output [ "LJ vs HJ", "LJ vs BN"]
+        example output current [ "LJ vs HJ", "LJ vs BN"]
+        example output target [ "LJ call vs HJ 3-Bet", "LJ rfi vs BN call"]
         """
         villain_positions = []
 
@@ -52,6 +52,29 @@ class PreFlop:
                     villain_positions.append(f'{hero_position} vs {position}')
 
         return villain_positions
+
+    def pot_classification(self, actions):
+        """
+        this one is a bit complicated.
+        given the action find if the pot was a 3-bet, call , rasie, 4-bet, ...
+        
+        go through action, count number of bets 
+
+        """
+        count_number_of_bets = 1
+        number_of_bets_to_name = {
+            1 : 'limp',
+            2 : 'raise first in',
+            3 : '3-bet',
+            4 : '4-bet',
+            5 : '5-bet'
+        }
+        print(actions, count_number_of_bets)
+        for action_line in actions:
+            action = self.action_identifier(action_line[1])[0]
+            if action not in ("checks", "folds", "doesn't", "calls"):
+                count_number_of_bets += 1
+        return number_of_bets_to_name[count_number_of_bets]
 
     def player_positions(self):
         player_positions = {player[0]: position for (position, player) in self.table_info['player_positions'].items()}
@@ -161,7 +184,8 @@ class PreFlop:
             'players_in_pot': players_in_pot, 
             'pot_size': self.pot_size(action),
             'villain_positions': self.villain_position(hero_position, players_in_pot),
-            'hero_position' : self.hero_position()
+            'hero_position' : self.hero_position(),
+            'pot_classification' : self.pot_classification(action)
         }
 
         return pre_flop_info
