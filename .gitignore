@@ -8,3 +8,6 @@ __pycache__/table_info.cpython-311.pyc
 __pycache__/
 __pycache__/pre_flop_info.cpython-311.pyc
 __pycache__/table_info.cpython-311.pyc
+bin/
+lib/
+pyvenv.cfg
