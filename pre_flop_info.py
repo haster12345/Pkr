@@ -189,7 +189,7 @@ class PreFlop:
 
         pre_flop_info = {
             'hand_number': hand_number[0],
-            'hand': hand,
+            'hand': hand[1],
             'hero_position': self.hero_position(),
             'action': self.action(pre_flop),
             'players_in_pot': players_in_pot, 
