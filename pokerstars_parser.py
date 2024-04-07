@@ -12,15 +12,17 @@ class PokerStarsParser:
 
     def parse(self):
         json_table, json_pre = [], []
+        item_list = []
         for hand in self.hands:
             table_info  = TableInfo(hand).table_info()
             pre_flop = PreFlop(hand, table_info).pre_flop_info()
             json_table.append(table_info)
             json_pre.append(pre_flop)
-        return json_table, json_pre
-    
+            item_list.append(table_info | pre_flop)
+        return json_table, json_pre, item_list
+
     def parse_into_json(self):
-        table_info, pre_flop = self.parse()
+        table_info, pre_flop, _ = self.parse()
 
         with open('pre_flop.json', 'w') as fp:
             json_string = json.dumps(pre_flop, default=lambda o: __dict__, indent=2)
@@ -31,3 +33,4 @@ class PokerStarsParser:
             fp.write(json_string)
         
         return 
+
