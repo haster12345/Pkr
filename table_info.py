@@ -163,6 +163,7 @@ class TableInfo:
 
         table_info = {
             'hand_number': hand_numbers[0],
+            'hand': '',
             'game_type': self.game_type(hand_info),
             'blind_sizes': self.blind_sizes(hand_info),
             'button_seat_number': button_seat_number,

@@ -20,7 +20,7 @@ def create_hand_info_table():
     """
     table = dynamodb.create_table(
 
-            AttributeDefinitions=[
+        AttributeDefinitions=[
             { 
                 'AttributeName': 'hand_number',
                 'AttributeType': 'N'
@@ -30,8 +30,8 @@ def create_hand_info_table():
                 'AttributeType': 'S'
             }
             ],
-            TableName='hand_info',
-            KeySchema=[
+        TableName='hand_info',
+        KeySchema=[
             {
                     'AttributeName': 'hand_number',
                     'KeyType': 'HASH' 
@@ -40,13 +40,13 @@ def create_hand_info_table():
                     'AttributeName': 'hand',
                     'KeyType': 'RANGE' 
             }
-            ],    
-            ProvisionedThroughput={
-            'ReadCapacityUnits': 123,
-            'WriteCapacityUnits': 123
-        }
+            ],
+        BillingMode='PAY_PER_REQUEST'
     )
 
     table.wait_until_exists()
 
     return
+
+if __name__ == '__main__':
+    create_hand_info_table()
