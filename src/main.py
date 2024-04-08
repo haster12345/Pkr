@@ -13,4 +13,4 @@ def main(folder_path):
     return populate_table_all_files(folder_path)
 
 if __name__ == '__main__':
-    main('~./Programmes/Pkr/hastermaster/')
+    main('hastermaster/')
