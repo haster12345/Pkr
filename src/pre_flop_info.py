@@ -1,4 +1,5 @@
 import re
+from decimal import Decimal
 
 class PreFlop:
 
@@ -127,7 +128,7 @@ class PreFlop:
         """
         sb_size, bb_size = self.table_info['blind_sizes']
         players_posting_bb = len(self.table_info['players_posting_blind'])
-        blinds_posted = float(sb_size) + players_posting_bb * float(bb_size)
+        blinds_posted = Decimal(sb_size) + players_posting_bb * Decimal(bb_size)
 
         return blinds_posted
 
@@ -140,10 +141,10 @@ class PreFlop:
         amount = 0
 
         if split_str[-1] == 'all-in':
-            amount = float(split_str[3][1:])
+            amount = Decimal(split_str[3][1:])
 
         elif action not in ("checks", "folds", "doesn't"):
-            amount = float(split_str[-1][1:])
+            amount = Decimal(split_str[-1][1:])
 
         return action, amount
 
@@ -156,7 +157,7 @@ class PreFlop:
 
         for player_posting_blind in self.table_info['players_posting_blind']:
             player = player_posting_blind[0]
-            amount = float(player_posting_blind[2])
+            amount = Decimal(player_posting_blind[2])
             player_money[player] = amount
 
         for action_line in actions:

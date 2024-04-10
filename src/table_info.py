@@ -1,5 +1,5 @@
 import re
-import json
+from decimal import Decimal
 
 class TableInfo:
 
@@ -52,7 +52,7 @@ class TableInfo:
         for player in player_data:
             cleaned_string = player[0].strip()
             parts = cleaned_string.split(": ")
-            player_chips = float(player[1][1:])
+            player_chips = Decimal(player[1][1:])
             sitting_out = (len(player[2]) != 0)
 
             players[int(f'{parts[0]}'[-1])] = [f'{parts[1]}', player_chips, sitting_out]
@@ -66,7 +66,8 @@ class TableInfo:
     def players_posting_blind(self, hand_info):
         pattern = re.compile(r'([\ws-]+): posts (small|big) blind \$(\d+\.\d{2})')
         players_posting_blind = pattern.findall(hand_info)
-        return players_posting_blind
+        blinds = [(i, j, Decimal(k)) for (i, j, k) in players_posting_blind]
+        return blinds
 
     def blind_positions(self, players_posting_blind, player_info):
         sb_player, bb_player = players_posting_blind[0][0], players_posting_blind[1][0]
@@ -160,6 +161,7 @@ class TableInfo:
         player_info = self.player_info(hand_info)
         button_seat_number = self.button_seat_number(hand_info)
         blinds = self.players_posting_blind(hand_info)
+        player_info_str_keys = {str(i): k for i, k in player_info.items()}
 
         table_info = {
             'hand_number': hand_numbers[0],
@@ -167,7 +169,7 @@ class TableInfo:
             'game_type': self.game_type(hand_info),
             'blind_sizes': self.blind_sizes(hand_info),
             'button_seat_number': button_seat_number,
-            'player_info': player_info,
+            'player_info': player_info_str_keys,
             'number_of_players_in_table': 6 - self.number_of_sitouts(player_info),
             'players_posting_blind': blinds,
             'player_positions': self.player_positions(player_info, button_seat_number, blinds)

@@ -22,7 +22,10 @@ def populate_table(item_list):
     table = dynamodb.Table('hand_info')
     with table.batch_writer() as batch:
         for item in item_list:
-            print(item)
-            batch.put_item(Item=item)
+            try:
+                batch.put_item(Item=item)
+            except TypeError as e:
+                print(e)
+                return
     return
 
