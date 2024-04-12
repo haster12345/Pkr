@@ -1,0 +1,3577 @@
+﻿PokerStars Hand #247178770233:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:43:58 WET [2023/11/18 10:43:58 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 3: Towinso ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.75 in chips) 
+Seat 2: Jelieva ($11.31 in chips) 
+Seat 4: hastermaster ($10 in chips) 
+Seat 5: Avskum2010 ($10 in chips) 
+Seat 6: bonbona32 ($8.52 in chips) 
+bonbona32: posts small blind $0.05
+Sid_58: posts big blind $0.10
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Jh 3c]
+Jelieva: folds 
+hastermaster: checks 
+Avskum2010: folds 
+bonbona32: calls $0.05
+Sid_58: raises $0.30 to $0.40
+hastermaster: folds 
+Jelieva leaves the table
+bonbona32: folds 
+Uncalled bet ($0.30) returned to Sid_58
+Sid_58 collected $0.30 from pot
+Sid_58: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0 
+Seat 3: Towinso
+Seat 1: Sid_58 (big blind) collected ($0.30)
+Seat 2: Jelieva folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Avskum2010 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247178775938:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:44:19 WET [2023/11/18 10:44:19 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 3: Towinso ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.95 in chips) 
+Seat 4: hastermaster ($9.90 in chips) 
+Seat 5: Avskum2010 ($10 in chips) 
+Seat 6: bonbona32 ($8.42 in chips) 
+Sid_58: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ac 2d]
+Avskum2010: folds 
+bonbona32: folds 
+Lergik joins the table at seat #2 
+Sid_58: calls $0.05
+hastermaster: raises $0.20 to $0.30
+Sid_58: calls $0.20
+*** FLOP *** [8s 6s Ad]
+Sid_58: checks 
+hastermaster: bets $0.20
+Sid_58: folds 
+Uncalled bet ($0.20) returned to hastermaster
+hastermaster collected $0.57 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [8s 6s Ad]
+Seat 3: Towinso
+Seat 1: Sid_58 (small blind) folded on the Flop
+Seat 4: hastermaster (big blind) collected ($0.57)
+Seat 5: Avskum2010 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178787115:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:44:59 WET [2023/11/18 10:44:59 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 2: Lergik ($10 in chips) is sitting out
+Seat 3: Towinso ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.65 in chips) 
+Seat 4: hastermaster ($10.17 in chips) 
+Seat 5: Avskum2010 ($10 in chips) 
+Seat 6: bonbona32 ($8.42 in chips) 
+hastermaster: posts small blind $0.05
+Avskum2010: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Tc Ah]
+bonbona32: folds 
+Sid_58: folds 
+hastermaster: raises $0.20 to $0.30
+Avskum2010: raises $0.69 to $0.99
+hastermaster: calls $0.69
+*** FLOP *** [5s Js Kd]
+hastermaster: checks 
+Avskum2010: bets $1.41
+hastermaster: folds 
+Uncalled bet ($1.41) returned to Avskum2010
+Avskum2010 collected $1.89 from pot
+Avskum2010: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.98 | Rake $0.09 
+Board [5s Js Kd]
+Seat 2: Lergik
+Seat 3: Towinso
+Seat 1: Sid_58 (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded on the Flop
+Seat 5: Avskum2010 (big blind) collected ($1.89)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178799128:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:45:43 WET [2023/11/18 10:45:43 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 2: Lergik ($10 in chips) is sitting out
+Seat 3: Towinso ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.65 in chips) 
+Seat 4: hastermaster ($9.18 in chips) 
+Seat 5: Avskum2010 ($10.90 in chips) 
+Seat 6: bonbona32 ($8.42 in chips) 
+Avskum2010: posts small blind $0.05
+bonbona32: posts big blind $0.10
+Lergik: sits out 
+Towinso: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Qd As]
+Sid_58: folds 
+hastermaster: raises $0.20 to $0.30
+Avskum2010: folds 
+bonbona32: calls $0.20
+*** FLOP *** [Qs 5c 3c]
+bonbona32: checks 
+hastermaster: checks 
+*** TURN *** [Qs 5c 3c] [Jd]
+bonbona32: bets $0.31
+hastermaster: calls $0.31
+*** RIVER *** [Qs 5c 3c Jd] [2c]
+bonbona32: bets $0.61
+hastermaster: calls $0.61
+*** SHOW DOWN ***
+bonbona32: shows [Qc Kd] (a pair of Queens)
+hastermaster: shows [Qd As] (a pair of Queens - Ace kicker)
+hastermaster collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.11 
+Board [Qs 5c 3c Jd 2c]
+Seat 2: Lergik
+Seat 3: Towinso
+Seat 1: Sid_58 folded before Flop (didn't bet)
+Seat 4: hastermaster (button) showed [Qd As] and won ($2.38) with a pair of Queens
+Seat 5: Avskum2010 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) showed [Qc Kd] and lost with a pair of Queens
+
+
+
+PokerStars Hand #247178810571:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:46:24 WET [2023/11/18 10:46:24 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 2: Lergik ($10 in chips) is sitting out
+Seat 3: Towinso ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.65 in chips) 
+Seat 4: hastermaster ($10.34 in chips) 
+Seat 5: Avskum2010 ($10.85 in chips) 
+Seat 6: bonbona32 ($7.20 in chips) 
+bonbona32: posts small blind $0.05
+Sid_58: posts big blind $0.10
+Lergik: sits out 
+Towinso: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Ah 9d]
+hastermaster: raises $0.20 to $0.30
+Avskum2010: folds 
+bonbona32: calls $0.25
+Sid_58: folds 
+*** FLOP *** [Ac 2c 5s]
+bonbona32: checks 
+hastermaster: bets $0.20
+bonbona32: folds 
+Uncalled bet ($0.20) returned to hastermaster
+hastermaster collected $0.67 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [Ac 2c 5s]
+Seat 2: Lergik
+Seat 3: Towinso
+Seat 1: Sid_58 (big blind) folded before Flop
+Seat 4: hastermaster collected ($0.67)
+Seat 5: Avskum2010 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247178819201:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:46:55 WET [2023/11/18 10:46:55 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 2: Lergik ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.55 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.71 in chips) 
+Seat 5: Avskum2010 ($10.85 in chips) 
+Seat 6: bonbona32 ($6.90 in chips) 
+Sid_58: posts small blind $0.05
+Lergik: is sitting out 
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [4h 5d]
+hastermaster: folds 
+Avskum2010: folds 
+bonbona32: folds 
+Sid_58: folds 
+Uncalled bet ($0.05) returned to Towinso
+Towinso collected $0.10 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Lergik
+Seat 1: Sid_58 (small blind) folded before Flop
+Seat 3: Towinso (big blind) collected ($0.10)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Avskum2010 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178822216:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:47:06 WET [2023/11/18 10:47:06 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 2: Lergik ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.50 in chips) 
+Seat 3: Towinso ($10.05 in chips) 
+Seat 4: hastermaster ($10.71 in chips) 
+Seat 5: Avskum2010 ($10.85 in chips) 
+Seat 6: bonbona32 ($6.90 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [5c 8h]
+Lergik leaves the table
+Avskum2010: folds 
+bonbona32: raises $0.25 to $0.35
+Sid_58: folds 
+Towinso: folds 
+hastermaster: folds 
+Uncalled bet ($0.25) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Lergik
+Seat 1: Sid_58 (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded before Flop
+Seat 5: Avskum2010 folded before Flop (didn't bet)
+Seat 6: bonbona32 collected ($0.25)
+
+
+
+PokerStars Hand #247178826697:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:47:22 WET [2023/11/18 10:47:22 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Sid_58 ($11.50 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.61 in chips) 
+Seat 5: Avskum2010 ($10.85 in chips) 
+Seat 6: bonbona32 ($7.05 in chips) 
+hastermaster: posts small blind $0.05
+Avskum2010: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [2s 2c]
+bonbona32: folds 
+Sid_58: raises $0.12 to $0.22
+Towinso: folds 
+hastermaster: folds 
+EngineerRoma joins the table at seat #2 
+Avskum2010: folds 
+Uncalled bet ($0.12) returned to Sid_58
+Sid_58 collected $0.25 from pot
+Sid_58: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Sid_58 collected ($0.25)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Avskum2010 (big blind) folded before Flop
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178831231:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:47:39 WET [2023/11/18 10:47:39 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 2: EngineerRoma ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.65 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.56 in chips) 
+Seat 5: Avskum2010 ($10.75 in chips) 
+Seat 6: bonbona32 ($7.05 in chips) 
+Avskum2010: posts small blind $0.05
+bonbona32: posts big blind $0.10
+EngineerRoma: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [6c Th]
+Sid_58: raises $0.12 to $0.22
+Towinso: folds 
+hastermaster: folds 
+Avskum2010: folds 
+bonbona32: folds 
+Uncalled bet ($0.12) returned to Sid_58
+Sid_58 collected $0.25 from pot
+Sid_58: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EngineerRoma
+Seat 1: Sid_58 collected ($0.25)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: Avskum2010 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247178835013:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:47:53 WET [2023/11/18 10:47:53 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 2: EngineerRoma ($10 in chips) is sitting out
+Seat 1: Sid_58 ($11.80 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.56 in chips) 
+Seat 5: Avskum2010 ($10.70 in chips) 
+Seat 6: bonbona32 ($6.95 in chips) 
+bonbona32: posts small blind $0.05
+Sid_58: posts big blind $0.10
+EngineerRoma: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Qc Jd]
+Towinso: folds 
+hastermaster: raises $0.20 to $0.30
+Avskum2010: folds 
+bonbona32: calls $0.25
+Sid_58: folds 
+*** FLOP *** [7d 4d 9s]
+Sid_58 leaves the table
+bonbona32: bets $0.10
+VandesandeBart joins the table at seat #1 
+hastermaster: calls $0.10
+*** TURN *** [7d 4d 9s] [3h]
+bonbona32: bets $0.86
+hastermaster: folds 
+Uncalled bet ($0.86) returned to bonbona32
+bonbona32 collected $0.86 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [7d 4d 9s 3h]
+Seat 2: EngineerRoma
+Seat 1: Sid_58 (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded on the Turn
+Seat 5: Avskum2010 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) collected ($0.86)
+
+
+
+PokerStars Hand #247178847537:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:48:39 WET [2023/11/18 10:48:39 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: VandesandeBart ($8 in chips) is sitting out
+Seat 2: EngineerRoma ($10 in chips) is sitting out
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.16 in chips) 
+Seat 5: Avskum2010 ($10.70 in chips) 
+Seat 6: bonbona32 ($7.41 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Qc 2h]
+Avskum2010: folds 
+bonbona32: folds 
+Towinso: folds 
+Uncalled bet ($0.05) returned to hastermaster
+hastermaster collected $0.10 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: VandesandeBart
+Seat 2: EngineerRoma
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) collected ($0.10)
+Seat 5: Avskum2010 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178850914:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:48:51 WET [2023/11/18 10:48:51 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 2: EngineerRoma ($10 in chips) is sitting out
+Seat 1: VandesandeBart ($8 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.21 in chips) 
+Seat 5: Avskum2010 ($10.70 in chips) 
+Seat 6: bonbona32 ($7.41 in chips) 
+hastermaster: posts small blind $0.05
+Avskum2010: posts big blind $0.10
+VandesandeBart: posts big blind $0.10
+EngineerRoma: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [5h Jd]
+bonbona32: folds 
+VandesandeBart: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+Avskum2010: folds 
+Uncalled bet ($0.20) returned to VandesandeBart
+VandesandeBart collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EngineerRoma
+Seat 1: VandesandeBart collected ($0.25)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Avskum2010 (big blind) folded before Flop
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178858204:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:49:17 WET [2023/11/18 10:49:17 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 2: EngineerRoma ($10 in chips) is sitting out
+Seat 1: VandesandeBart ($8.15 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.16 in chips) 
+Seat 5: Avskum2010 ($10.60 in chips) 
+Seat 6: bonbona32 ($7.41 in chips) 
+Avskum2010: posts small blind $0.05
+bonbona32: posts big blind $0.10
+EngineerRoma: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [8h Qs]
+VandesandeBart: calls $0.10
+Towinso: folds 
+hastermaster: folds 
+Avskum2010: raises $0.45 to $0.55
+bonbona32: folds 
+VandesandeBart: calls $0.45
+*** FLOP *** [9c 7c Kc]
+Avskum2010: bets $0.38
+VandesandeBart: raises $0.48 to $0.86
+Avskum2010: raises $1.38 to $2.24
+VandesandeBart: calls $1.38
+*** TURN *** [9c 7c Kc] [4s]
+Avskum2010: bets $7.81 and is all-in
+VandesandeBart: folds 
+Uncalled bet ($7.81) returned to Avskum2010
+Avskum2010 collected $5.42 from pot
+Avskum2010: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.68 | Rake $0.26 
+Board [9c 7c Kc 4s]
+Seat 2: EngineerRoma
+Seat 1: VandesandeBart folded on the Turn
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: Avskum2010 (small blind) collected ($5.42)
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247178874921:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:50:19 WET [2023/11/18 10:50:19 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 2: EngineerRoma ($10 in chips) is sitting out
+Seat 1: VandesandeBart ($5.36 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.16 in chips) 
+Seat 5: Avskum2010 ($13.23 in chips) 
+Seat 6: bonbona32 ($7.31 in chips) 
+bonbona32: posts small blind $0.05
+VandesandeBart: posts big blind $0.10
+EngineerRoma: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [7c 3c]
+Towinso: raises $0.11 to $0.21
+hastermaster: folds 
+Avskum2010: folds 
+bonbona32: calls $0.16
+VandesandeBart: calls $0.11
+*** FLOP *** [2c Td 8c]
+bonbona32: bets $0.30
+VandesandeBart: calls $0.30
+Towinso: folds 
+*** TURN *** [2c Td 8c] [9d]
+bonbona32: bets $0.59
+VandesandeBart: raises $0.59 to $1.18
+bonbona32: calls $0.59
+*** RIVER *** [2c Td 8c 9d] [4c]
+bonbona32: checks 
+VandesandeBart: bets $3.67 and is all-in
+bonbona32: folds 
+Uncalled bet ($3.67) returned to VandesandeBart
+VandesandeBart collected $3.43 from pot
+*** SUMMARY ***
+Total pot $3.59 | Rake $0.16 
+Board [2c Td 8c 9d 4c]
+Seat 2: EngineerRoma
+Seat 1: VandesandeBart (big blind) collected ($3.43)
+Seat 3: Towinso folded on the Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Avskum2010 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) folded on the River
+
+
+
+PokerStars Hand #247178888548:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:51:09 WET [2023/11/18 10:51:09 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: VandesandeBart ($7.10 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($10.16 in chips) 
+Seat 5: Avskum2010 ($13.23 in chips) 
+Seat 6: bonbona32 ($5.62 in chips) 
+VandesandeBart: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [5s As]
+Towinso: folds 
+hastermaster: raises $0.20 to $0.30
+Avskum2010: folds 
+bonbona32: raises $0.75 to $1.05
+VandesandeBart: folds 
+EngineerRoma: folds 
+hastermaster: folds 
+Uncalled bet ($0.75) returned to bonbona32
+bonbona32 collected $0.75 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: VandesandeBart (small blind) folded before Flop
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop
+Seat 5: Avskum2010 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) collected ($0.75)
+
+
+
+PokerStars Hand #247178899206:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:51:48 WET [2023/11/18 10:51:48 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: VandesandeBart ($7.05 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($9.86 in chips) 
+Seat 5: Avskum2010 ($13.23 in chips) 
+Seat 6: bonbona32 ($6.07 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [7s Kh]
+hastermaster: folds 
+Avskum2010: folds 
+bonbona32: raises $0.10 to $0.20
+VandesandeBart: calls $0.20
+EngineerRoma: folds 
+Towinso: folds 
+*** FLOP *** [6s 3s Js]
+bonbona32: checks 
+VandesandeBart: bets $0.30
+bonbona32: folds 
+Uncalled bet ($0.30) returned to VandesandeBart
+VandesandeBart collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6s 3s Js]
+Seat 1: VandesandeBart (button) collected ($0.53)
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Avskum2010 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded on the Flop
+
+
+
+PokerStars Hand #247178907060:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:52:17 WET [2023/11/18 10:52:17 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: VandesandeBart ($7.38 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($9.86 in chips) 
+Seat 5: Avskum2010 ($13.23 in chips) 
+Seat 6: bonbona32 ($5.87 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Js 5d]
+Avskum2010: raises $0.10 to $0.20
+bonbona32: folds 
+VandesandeBart: folds 
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+Uncalled bet ($0.10) returned to Avskum2010
+Avskum2010 collected $0.25 from pot
+Avskum2010: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VandesandeBart folded before Flop (didn't bet)
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded before Flop
+Seat 5: Avskum2010 collected ($0.25)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178910633:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:52:30 WET [2023/11/18 10:52:30 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: VandesandeBart ($7.38 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($9.76 in chips) 
+Seat 5: Avskum2010 ($13.38 in chips) 
+Seat 6: bonbona32 ($5.87 in chips) 
+hastermaster: posts small blind $0.05
+Avskum2010: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [2s 7s]
+bonbona32: folds 
+VandesandeBart: raises $0.10 to $0.20
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+Avskum2010: folds 
+Uncalled bet ($0.10) returned to VandesandeBart
+VandesandeBart collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VandesandeBart collected ($0.25)
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Avskum2010 (big blind) folded before Flop
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178917507:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:52:56 WET [2023/11/18 10:52:56 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: VandesandeBart ($7.53 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($9.71 in chips) 
+Seat 5: Avskum2010 ($13.28 in chips) 
+Seat 6: bonbona32 ($5.87 in chips) 
+Avskum2010: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9c 7c]
+VandesandeBart: raises $0.10 to $0.20
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: raises $0.55 to $0.75
+Avskum2010: folds 
+bonbona32: folds 
+VandesandeBart: calls $0.55
+*** FLOP *** [Kc 6c Ks]
+Avskum2010 leaves the table
+VandesandeBart: bets $0.79
+hastermaster: calls $0.79
+*** TURN *** [Kc 6c Ks] [3d]
+VandesandeBart: bets $1.54
+hastermaster: calls $1.54
+*** RIVER *** [Kc 6c Ks 3d] [2c]
+VandesandeBart: bets $3.02
+hastermaster: calls $3.02
+*** SHOW DOWN ***
+VandesandeBart: shows [7h Qh] (a pair of Kings)
+hastermaster: shows [9c 7c] (a flush, King high)
+hastermaster collected $11.79 from pot
+*** SUMMARY ***
+Total pot $12.35 | Rake $0.56 
+Board [Kc 6c Ks 3d 2c]
+Seat 1: VandesandeBart showed [7h Qh] and lost with a pair of Kings
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) showed [9c 7c] and won ($11.79) with a flush, King high
+Seat 5: Avskum2010 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247178936676:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:54:07 WET [2023/11/18 10:54:07 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: VandesandeBart ($1.43 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($15.40 in chips) 
+Seat 6: bonbona32 ($5.77 in chips) 
+VandesandeBart: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Kd 5d]
+Towinso: raises $0.11 to $0.21
+hastermaster: folds 
+bonbona32: calls $0.21
+Smeta8810 joins the table at seat #5 
+VandesandeBart: raises $1.22 to $1.43 and is all-in
+EngineerRoma: folds 
+Towinso: folds 
+bonbona32: calls $1.22
+*** FLOP *** [3h 3c Qs]
+*** TURN *** [3h 3c Qs] [7d]
+*** RIVER *** [3h 3c Qs 7d] [As]
+*** SHOW DOWN ***
+VandesandeBart: shows [Qc 9c] (two pair, Queens and Threes)
+bonbona32: shows [5s Ah] (two pair, Aces and Threes)
+bonbona32 collected $3.03 from pot
+VandesandeBart cashed out the hand for $1.39 | Cash Out Fee $0.01
+*** SUMMARY ***
+Total pot $3.17 | Rake $0.14 
+Board [3h 3c Qs 7d As]
+Seat 1: VandesandeBart (small blind) showed [Qc 9c] and lost with two pair, Queens and Threes (cashed out).
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) showed [5s Ah] and won ($3.03) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #247178947053:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:54:45 WET [2023/11/18 10:54:45 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 5: Smeta8810 ($10 in chips) is sitting out
+Seat 1: VandesandeBart ($1.39 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($15.40 in chips) 
+Seat 6: bonbona32 ($7.37 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+Smeta8810: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [2c Jd]
+hastermaster: folds 
+bonbona32: raises $0.20 to $0.30
+VandesandeBart: calls $0.30
+EngineerRoma: folds 
+Towinso: folds 
+*** FLOP *** [8d Qs 2h]
+bonbona32: bets $0.72
+VandesandeBart: folds 
+Uncalled bet ($0.72) returned to bonbona32
+bonbona32 collected $0.72 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [8d Qs 2h]
+Seat 5: Smeta8810
+Seat 1: VandesandeBart (button) folded on the Flop
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 6: bonbona32 collected ($0.72)
+
+
+
+PokerStars Hand #247178954286:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:55:15 WET [2023/11/18 10:55:15 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 5: Smeta8810 ($10 in chips) is sitting out
+Seat 1: VandesandeBart ($1.09 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($15.40 in chips) 
+Seat 6: bonbona32 ($7.79 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+Smeta8810: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Ts Th]
+bonbona32: folds 
+VandesandeBart: raises $0.20 to $0.30
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: raises $0.65 to $0.95
+VandesandeBart: raises $0.14 to $1.09 and is all-in
+hastermaster: calls $0.14
+*** FLOP *** [Jd 6s Kc]
+*** TURN *** [Jd 6s Kc] [Td]
+*** RIVER *** [Jd 6s Kc Td] [Tc]
+*** SHOW DOWN ***
+hastermaster: shows [Ts Th] (four of a kind, Tens)
+VandesandeBart: shows [Kh 9h] (two pair, Kings and Tens)
+hastermaster collected $2.13 from pot
+*** SUMMARY ***
+Total pot $2.23 | Rake $0.10 
+Board [Jd 6s Kc Td Tc]
+Seat 5: Smeta8810
+Seat 1: VandesandeBart showed [Kh 9h] and lost with two pair, Kings and Tens
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) showed [Ts Th] and won ($2.13) with four of a kind, Tens
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178960226:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:55:44 WET [2023/11/18 10:55:44 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: VandesandeBart ($0 in chips) is sitting out
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($16.44 in chips) 
+Seat 5: Smeta8810 ($10 in chips) 
+Seat 6: bonbona32 ($7.79 in chips) 
+hastermaster: posts small blind $0.05
+Smeta8810: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [3c 8c]
+bonbona32: raises $0.20 to $0.30
+VandesandeBart leaves the table
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+Smeta8810: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: VandesandeBart
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Smeta8810 (big blind) folded before Flop
+Seat 6: bonbona32 collected ($0.25)
+
+
+
+PokerStars Hand #247178964271:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:56:05 WET [2023/11/18 10:56:05 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($16.39 in chips) 
+Seat 5: Smeta8810 ($10 in chips) 
+Seat 6: bonbona32 ($7.94 in chips) 
+Smeta8810: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [6s 2d]
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+Smeta8810: calls $0.25
+bonbona32: calls $0.20
+*** FLOP *** [5h Kc Jc]
+Smeta8810: checks 
+bonbona32: bets $0.86
+EngineerRoma: folds 
+2xgomelx joins the table at seat #1 
+Smeta8810: folds 
+Uncalled bet ($0.86) returned to bonbona32
+bonbona32 collected $0.86 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [5h Kc Jc]
+Seat 2: EngineerRoma folded on the Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: Smeta8810 (small blind) folded on the Flop
+Seat 6: bonbona32 (big blind) collected ($0.86)
+
+
+
+PokerStars Hand #247178971781:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:56:42 WET [2023/11/18 10:56:42 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: 2xgomelx ($10 in chips) is sitting out
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($16.39 in chips) 
+Seat 5: Smeta8810 ($10 in chips) 
+Seat 6: bonbona32 ($8.50 in chips) 
+bonbona32: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Js 9c]
+2xgomelx leaves the table
+Towinso: folds 
+hastermaster: folds 
+Smeta8810: folds 
+bonbona32: folds 
+Uncalled bet ($0.05) returned to EngineerRoma
+EngineerRoma collected $0.10 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: 2xgomelx
+Seat 2: EngineerRoma (big blind) collected ($0.10)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Smeta8810 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247178974477:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:56:55 WET [2023/11/18 10:56:55 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 2: EngineerRoma ($10.05 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($16.39 in chips) 
+Seat 5: Smeta8810 ($10 in chips) 
+Seat 6: bonbona32 ($8.45 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [3s 7c]
+hastermaster: folds 
+Smeta8810: folds 
+bonbona32: raises $0.10 to $0.20
+EngineerRoma: folds 
+Towinso: folds 
+Uncalled bet ($0.10) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Smeta8810 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) collected ($0.25)
+
+
+
+PokerStars Hand #247178976895:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:57:08 WET [2023/11/18 10:57:08 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($16.39 in chips) 
+Seat 5: Smeta8810 ($10 in chips) 
+Seat 6: bonbona32 ($8.60 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9d 9s]
+Smeta8810: folds 
+bonbona32: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+Smeta8810 leaves the table
+hastermaster: raises $0.65 to $0.95
+EngineerRoma: calls $0.65
+*** FLOP *** [8s 5d Ah]
+hastermaster: bets $0.60
+EngineerRoma: calls $0.60
+*** TURN *** [8s 5d Ah] [8c]
+hastermaster: checks 
+EngineerRoma: bets $2.26
+hastermaster: folds 
+Uncalled bet ($2.26) returned to EngineerRoma
+EngineerRoma collected $3.01 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.15 | Rake $0.14 
+Board [8s 5d Ah 8c]
+Seat 2: EngineerRoma (button) collected ($3.01)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded on the Turn
+Seat 5: Smeta8810 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247178984801:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:57:46 WET [2023/11/18 10:57:46 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 2: EngineerRoma ($11.46 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($14.84 in chips) 
+Seat 6: bonbona32 ($8.60 in chips) 
+hastermaster: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [8h 9h]
+EngineerRoma: folds 
+Towinso: raises $0.14 to $0.24
+hastermaster: calls $0.19
+bonbona32: folds 
+*** FLOP *** [Js Qh 9c]
+hastermaster: checks 
+Towinso: checks 
+*** TURN *** [Js Qh 9c] [2s]
+hastermaster: checks 
+Towinso: bets $0.41
+hastermaster: calls $0.41
+*** RIVER *** [Js Qh 9c 2s] [3d]
+hastermaster: checks 
+Towinso: bets $1.61
+hastermaster: folds 
+Uncalled bet ($1.61) returned to Towinso
+Towinso collected $1.34 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.40 | Rake $0.06 
+Board [Js Qh 9c 2s 3d]
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso (button) collected ($1.34)
+Seat 4: hastermaster (small blind) folded on the River
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247178992049:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:58:21 WET [2023/11/18 10:58:21 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 2: EngineerRoma ($11.46 in chips) 
+Seat 3: Towinso ($10.69 in chips) 
+Seat 4: hastermaster ($14.19 in chips) 
+Seat 6: bonbona32 ($8.50 in chips) 
+bonbona32: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Qh 8h]
+Towinso: folds 
+hastermaster: raises $0.25 to $0.35
+bonbona32: folds 
+EngineerRoma: folds 
+Uncalled bet ($0.25) returned to hastermaster
+hastermaster collected $0.25 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) collected ($0.25)
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247178996063:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:58:41 WET [2023/11/18 10:58:41 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 2: EngineerRoma ($11.36 in chips) 
+Seat 3: Towinso ($10.69 in chips) 
+Seat 4: hastermaster ($14.34 in chips) 
+Seat 6: bonbona32 ($8.45 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [4s 3h]
+Muhlen9 joins the table at seat #1 
+hastermaster: folds 
+bonbona32: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: raises $0.60 to $0.90
+EngineerRoma: folds 
+Uncalled bet ($0.60) returned to Towinso
+Towinso collected $0.60 from pot
+Towinso: doesn't show hand 
+Demo071 joins the table at seat #5 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) collected ($0.60)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179002462:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:59:13 WET [2023/11/18 10:59:13 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Muhlen9 ($10 in chips) is sitting out
+Seat 5: Demo071 ($10 in chips) is sitting out
+Seat 2: EngineerRoma ($11.06 in chips) 
+Seat 3: Towinso ($10.99 in chips) 
+Seat 4: hastermaster ($14.34 in chips) 
+Seat 6: bonbona32 ($8.45 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+Demo071: sits out 
+Muhlen9: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [2s Ad]
+bonbona32: raises $0.10 to $0.20
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: calls $0.10
+*** FLOP *** [4s Tc 2h]
+hastermaster: checks 
+bonbona32: bets $0.22
+hastermaster: folds 
+Uncalled bet ($0.22) returned to bonbona32
+bonbona32 collected $0.43 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [4s Tc 2h]
+Seat 1: Muhlen9
+Seat 5: Demo071
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded on the Flop
+Seat 6: bonbona32 collected ($0.43)
+
+
+
+PokerStars Hand #247179007631:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:59:38 WET [2023/11/18 10:59:38 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Muhlen9 ($10 in chips) is sitting out
+Seat 2: EngineerRoma ($11.06 in chips) 
+Seat 3: Towinso ($10.94 in chips) 
+Seat 4: hastermaster ($14.14 in chips) 
+Seat 5: Demo071 ($10 in chips) 
+Seat 6: bonbona32 ($8.68 in chips) 
+hastermaster: posts small blind $0.05
+Demo071: posts big blind $0.10
+Muhlen9: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Ah 7s]
+bonbona32: raises $0.25 to $0.35
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+Demo071: folds 
+Uncalled bet ($0.25) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Muhlen9
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Demo071 (big blind) folded before Flop
+Seat 6: bonbona32 collected ($0.25)
+
+
+
+PokerStars Hand #247179011212:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 15:59:56 WET [2023/11/18 10:59:56 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Muhlen9 ($10 in chips) is sitting out
+Seat 2: EngineerRoma ($11.06 in chips) 
+Seat 3: Towinso ($10.94 in chips) 
+Seat 4: hastermaster ($14.09 in chips) 
+Seat 5: Demo071 ($9.90 in chips) 
+Seat 6: bonbona32 ($8.83 in chips) 
+Demo071: posts small blind $0.05
+bonbona32: posts big blind $0.10
+Muhlen9: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [As Td]
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: raises $0.75 to $1.05
+Demo071: folds 
+bonbona32: folds 
+EngineerRoma: folds 
+Uncalled bet ($0.75) returned to hastermaster
+hastermaster collected $0.75 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Muhlen9
+Seat 2: EngineerRoma folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) collected ($0.75)
+Seat 5: Demo071 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247179013975:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:00:10 WET [2023/11/18 11:00:10 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Muhlen9 ($10 in chips) 
+Seat 2: EngineerRoma ($10.76 in chips) 
+Seat 3: Towinso ($10.94 in chips) 
+Seat 4: hastermaster ($14.54 in chips) 
+Seat 5: Demo071 ($9.85 in chips) 
+Seat 6: bonbona32 ($8.73 in chips) 
+bonbona32: posts small blind $0.05
+Muhlen9: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Qd Ad]
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: raises $0.20 to $0.30
+Demo071: folds 
+bonbona32: calls $0.25
+Muhlen9: folds 
+*** FLOP *** [4d 2s 8s]
+bonbona32: checks 
+hastermaster: checks 
+*** TURN *** [4d 2s 8s] [Js]
+bonbona32: checks 
+hastermaster: bets $0.20
+bonbona32: calls $0.20
+*** RIVER *** [4d 2s 8s Js] [8d]
+bonbona32: bets $0.53
+hastermaster: folds 
+Uncalled bet ($0.53) returned to bonbona32
+bonbona32 collected $1.05 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [4d 2s 8s Js 8d]
+Seat 1: Muhlen9 (big blind) folded before Flop
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded on the River
+Seat 5: Demo071 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) collected ($1.05)
+
+
+
+PokerStars Hand #247179025575:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:01:02 WET [2023/11/18 11:01:02 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Muhlen9 ($10 in chips) 
+Seat 2: EngineerRoma ($10.76 in chips) 
+Seat 3: Towinso ($10.94 in chips) 
+Seat 4: hastermaster ($14.04 in chips) 
+Seat 5: Demo071 ($9.85 in chips) 
+Seat 6: bonbona32 ($9.28 in chips) 
+Muhlen9: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [2s 8h]
+Towinso: folds 
+hastermaster: folds 
+Demo071: folds 
+bonbona32: folds 
+Muhlen9: raises $0.20 to $0.30
+EngineerRoma: folds 
+Uncalled bet ($0.20) returned to Muhlen9
+Muhlen9 collected $0.20 from pot
+Muhlen9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Muhlen9 (small blind) collected ($0.20)
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Demo071 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179028624:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:01:14 WET [2023/11/18 11:01:14 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Muhlen9 ($10.10 in chips) 
+Seat 2: EngineerRoma ($10.66 in chips) 
+Seat 3: Towinso ($10.94 in chips) 
+Seat 4: hastermaster ($14.04 in chips) 
+Seat 5: Demo071 ($9.85 in chips) 
+Seat 6: bonbona32 ($9.28 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Td Kc]
+hastermaster: raises $0.20 to $0.30
+Demo071: folds 
+bonbona32: calls $0.30
+Muhlen9: folds 
+EngineerRoma: folds 
+Towinso: folds 
+*** FLOP *** [Qd 8c 2c]
+hastermaster: bets $0.50
+bonbona32: folds 
+Uncalled bet ($0.50) returned to hastermaster
+hastermaster collected $0.72 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Qd 8c 2c]
+Seat 1: Muhlen9 (button) folded before Flop (didn't bet)
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster collected ($0.72)
+Seat 5: Demo071 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded on the Flop
+
+
+
+PokerStars Hand #247179036182:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:01:43 WET [2023/11/18 11:01:43 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Muhlen9 ($10.10 in chips) 
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($10.84 in chips) 
+Seat 4: hastermaster ($14.46 in chips) 
+Seat 5: Demo071 ($9.85 in chips) 
+Seat 6: bonbona32 ($8.98 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Qc 3d]
+Demo071: folds 
+bonbona32: folds 
+Muhlen9: raises $0.15 to $0.25
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+Uncalled bet ($0.15) returned to Muhlen9
+Muhlen9 collected $0.25 from pot
+Muhlen9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Muhlen9 collected ($0.25)
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded before Flop
+Seat 5: Demo071 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179040637:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:01:59 WET [2023/11/18 11:01:59 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Muhlen9 ($10.25 in chips) 
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($10.79 in chips) 
+Seat 4: hastermaster ($14.36 in chips) 
+Seat 5: Demo071 ($9.85 in chips) 
+Seat 6: bonbona32 ($8.98 in chips) 
+hastermaster: posts small blind $0.05
+Demo071: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Qc 2h]
+bonbona32: folds 
+Muhlen9: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+Demo071: folds 
+Uncalled bet ($0.20) returned to EngineerRoma
+EngineerRoma collected $0.25 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Muhlen9 folded before Flop (didn't bet)
+Seat 2: EngineerRoma collected ($0.25)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Demo071 (big blind) folded before Flop
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179045090:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:02:16 WET [2023/11/18 11:02:16 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Muhlen9 ($10.25 in chips) 
+Seat 2: EngineerRoma ($10.76 in chips) 
+Seat 3: Towinso ($10.79 in chips) 
+Seat 4: hastermaster ($14.31 in chips) 
+Seat 5: Demo071 ($9.75 in chips) 
+Seat 6: bonbona32 ($8.98 in chips) 
+Demo071: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [As 9c]
+Muhlen9: folds 
+EngineerRoma: folds 
+Towinso: raises $0.12 to $0.22
+hastermaster: raises $0.59 to $0.81
+Demo071: folds 
+bonbona32: folds 
+Towinso: calls $0.59
+*** FLOP *** [7h 8s 6h]
+Towinso: checks 
+hastermaster: bets $0.60
+Towinso: raises $1.40 to $2
+hastermaster: calls $1.40
+*** TURN *** [7h 8s 6h] [7c]
+Towinso: bets $7.98 and is all-in
+hastermaster: folds 
+Uncalled bet ($7.98) returned to Towinso
+Towinso collected $5.51 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.77 | Rake $0.26 
+Board [7h 8s 6h 7c]
+Seat 1: Muhlen9 folded before Flop (didn't bet)
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso collected ($5.51)
+Seat 4: hastermaster (button) folded on the Turn
+Seat 5: Demo071 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247179060920:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:03:14 WET [2023/11/18 11:03:14 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Muhlen9 ($10.25 in chips) is sitting out
+Seat 2: EngineerRoma ($10.76 in chips) 
+Seat 3: Towinso ($13.49 in chips) 
+Seat 4: hastermaster ($11.50 in chips) 
+Seat 5: Demo071 ($9.70 in chips) 
+Seat 6: bonbona32 ($8.88 in chips) 
+bonbona32: posts small blind $0.05
+Muhlen9: is sitting out 
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [6s 5c]
+Towinso: folds 
+hastermaster: folds 
+Demo071: folds 
+Muhlen9 leaves the table
+bonbona32: raises $0.20 to $0.30
+Avskum2010 joins the table at seat #1 
+EngineerRoma: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.20 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Muhlen9
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Demo071 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #247179064989:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:03:30 WET [2023/11/18 11:03:30 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Avskum2010 ($13.23 in chips) is sitting out
+Seat 2: EngineerRoma ($10.66 in chips) 
+Seat 3: Towinso ($13.49 in chips) 
+Seat 4: hastermaster ($11.50 in chips) 
+Seat 5: Demo071 ($9.70 in chips) 
+Seat 6: bonbona32 ($8.98 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9c Kh]
+hastermaster: folds 
+Demo071: folds 
+bonbona32: raises $0.20 to $0.30
+EngineerRoma: folds 
+Towinso: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Avskum2010
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Demo071 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) collected ($0.25)
+
+
+
+PokerStars Hand #247179070769:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:03:51 WET [2023/11/18 11:03:51 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Avskum2010 ($13.23 in chips) is sitting out
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($13.39 in chips) 
+Seat 4: hastermaster ($11.50 in chips) 
+Seat 5: Demo071 ($9.70 in chips) 
+Seat 6: bonbona32 ($9.13 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+Avskum2010: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Jd 8s]
+Demo071: raises $0.17 to $0.27
+bonbona32: folds 
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: calls $0.17
+*** FLOP *** [8d 9c 6h]
+hastermaster: checks 
+Demo071: checks 
+*** TURN *** [8d 9c 6h] [As]
+hastermaster: checks 
+Demo071: bets $0.31
+hastermaster: raises $0.59 to $0.90
+Demo071: calls $0.59
+*** RIVER *** [8d 9c 6h As] [4d]
+hastermaster: checks 
+Demo071: checks 
+*** SHOW DOWN ***
+hastermaster: shows [Jd 8s] (a pair of Eights)
+Demo071: shows [Kh Ac] (a pair of Aces)
+Demo071 collected $2.28 from pot
+*** SUMMARY ***
+Total pot $2.39 | Rake $0.11 
+Board [8d 9c 6h As 4d]
+Seat 1: Avskum2010
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) showed [Jd 8s] and lost with a pair of Eights
+Seat 5: Demo071 showed [Kh Ac] and won ($2.28) with a pair of Aces
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179083830:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:04:39 WET [2023/11/18 11:04:39 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Avskum2010 ($13.23 in chips) is sitting out
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($13.34 in chips) 
+Seat 4: hastermaster ($10.33 in chips) 
+Seat 5: Demo071 ($10.81 in chips) 
+Seat 6: bonbona32 ($9.13 in chips) 
+hastermaster: posts small blind $0.05
+Demo071: posts big blind $0.10
+Avskum2010: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Kh 3h]
+bonbona32: folds 
+EngineerRoma: folds 
+Towinso: raises $0.14 to $0.24
+hastermaster: folds 
+Demo071: calls $0.14
+*** FLOP *** [Qc Kd 2c]
+Demo071: checks 
+Towinso: bets $0.17
+Demo071: folds 
+Uncalled bet ($0.17) returned to Towinso
+Towinso collected $0.51 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0.02 
+Board [Qc Kd 2c]
+Seat 1: Avskum2010
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso (button) collected ($0.51)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Demo071 (big blind) folded on the Flop
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179094423:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:05:17 WET [2023/11/18 11:05:17 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Avskum2010 ($13.23 in chips) is sitting out
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($13.61 in chips) 
+Seat 4: hastermaster ($10.28 in chips) 
+Seat 5: Demo071 ($10.57 in chips) 
+Seat 6: bonbona32 ($9.13 in chips) 
+Demo071: posts small blind $0.05
+bonbona32: posts big blind $0.10
+Avskum2010: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [5h 8h]
+EngineerRoma: folds 
+Towinso: raises $0.12 to $0.22
+hastermaster: folds 
+Demo071: folds 
+bonbona32: calls $0.12
+*** FLOP *** [6c 5s Qs]
+bonbona32: checks 
+Towinso: bets $0.16
+bonbona32: calls $0.16
+*** TURN *** [6c 5s Qs] [3h]
+bonbona32: checks 
+Towinso: checks 
+*** RIVER *** [6c 5s Qs 3h] [6s]
+bonbona32: bets $0.39
+Towinso: calls $0.39
+*** SHOW DOWN ***
+bonbona32: shows [9s Ad] (a pair of Sixes)
+Towinso: shows [Ts Th] (two pair, Tens and Sixes)
+Towinso collected $1.52 from pot
+*** SUMMARY ***
+Total pot $1.59 | Rake $0.07 
+Board [6c 5s Qs 3h 6s]
+Seat 1: Avskum2010
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso showed [Ts Th] and won ($1.52) with two pair, Tens and Sixes
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: Demo071 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) showed [9s Ad] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #247179112406:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:06:21 WET [2023/11/18 11:06:21 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Avskum2010 ($13.23 in chips) 
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($14.36 in chips) 
+Seat 4: hastermaster ($10.28 in chips) 
+Seat 5: Demo071 ($10.52 in chips) 
+Seat 6: bonbona32 ($8.36 in chips) 
+bonbona32: posts small blind $0.05
+Avskum2010: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ah 3d]
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+Demo071: raises $0.17 to $0.27
+bonbona32: folds 
+Avskum2010: calls $0.17
+*** FLOP *** [Tc 3c 4d]
+Avskum2010: checks 
+Demo071: checks 
+*** TURN *** [Tc 3c 4d] [6d]
+Avskum2010: checks 
+Demo071: checks 
+*** RIVER *** [Tc 3c 4d 6d] [3s]
+Avskum2010: checks 
+Demo071: checks 
+*** SHOW DOWN ***
+Avskum2010: shows [As 8s] (a pair of Threes)
+Demo071: shows [Ac 9h] (a pair of Threes - Ace+Ten+Nine kicker)
+Demo071 collected $0.56 from pot
+*** SUMMARY ***
+Total pot $0.59 | Rake $0.03 
+Board [Tc 3c 4d 6d 3s]
+Seat 1: Avskum2010 (big blind) showed [As 8s] and lost with a pair of Threes
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Demo071 (button) showed [Ac 9h] and won ($0.56) with a pair of Threes
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247179128825:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:07:20 WET [2023/11/18 11:07:20 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Avskum2010 ($12.96 in chips) 
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($14.36 in chips) 
+Seat 4: hastermaster ($10.28 in chips) 
+Seat 5: Demo071 ($10.81 in chips) 
+Seat 6: bonbona32 ($8.31 in chips) 
+Avskum2010: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [7c 8s]
+Towinso: folds 
+hastermaster: folds 
+Demo071: folds 
+bonbona32: raises $0.20 to $0.30
+Avskum2010: folds 
+EngineerRoma: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Avskum2010 (small blind) folded before Flop
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Demo071 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) collected ($0.25)
+
+
+
+PokerStars Hand #247179134497:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:07:40 WET [2023/11/18 11:07:40 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Avskum2010 ($12.91 in chips) 
+Seat 2: EngineerRoma ($10.51 in chips) 
+Seat 3: Towinso ($14.36 in chips) 
+Seat 4: hastermaster ($10.28 in chips) 
+Seat 5: Demo071 ($10.81 in chips) 
+Seat 6: bonbona32 ($8.46 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9s Td]
+hastermaster: folds 
+Demo071: folds 
+bonbona32: raises $0.20 to $0.30
+Avskum2010: folds 
+EngineerRoma: folds 
+Towinso: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Avskum2010 (button) folded before Flop (didn't bet)
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: Demo071 folded before Flop (didn't bet)
+Seat 6: bonbona32 collected ($0.25)
+
+
+
+PokerStars Hand #247179139421:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:07:57 WET [2023/11/18 11:07:57 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Avskum2010 ($12.91 in chips) 
+Seat 2: EngineerRoma ($10.46 in chips) 
+Seat 3: Towinso ($14.26 in chips) 
+Seat 4: hastermaster ($10.28 in chips) 
+Seat 5: Demo071 ($10.81 in chips) 
+Seat 6: bonbona32 ($8.61 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [4s Ad]
+Demo071: folds 
+bonbona32: calls $0.10
+Avskum2010: folds 
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: raises $0.25 to $0.35
+bonbona32: calls $0.25
+*** FLOP *** [6h 8d 8s]
+hastermaster: bets $0.20
+bonbona32: calls $0.20
+*** TURN *** [6h 8d 8s] [3d]
+hastermaster: checks 
+bonbona32: bets $0.55
+hastermaster: folds 
+Uncalled bet ($0.55) returned to bonbona32
+bonbona32 collected $1.10 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [6h 8d 8s 3d]
+Seat 1: Avskum2010 folded before Flop (didn't bet)
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded on the Turn
+Seat 5: Demo071 folded before Flop (didn't bet)
+Seat 6: bonbona32 collected ($1.10)
+
+
+
+PokerStars Hand #247179154128:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:08:50 WET [2023/11/18 11:08:50 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Avskum2010 ($12.91 in chips) 
+Seat 2: EngineerRoma ($10.46 in chips) 
+Seat 3: Towinso ($14.21 in chips) 
+Seat 4: hastermaster ($9.73 in chips) 
+Seat 5: Demo071 ($10.81 in chips) 
+Seat 6: bonbona32 ($9.16 in chips) 
+hastermaster: posts small blind $0.05
+Demo071: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [6d 5c]
+bonbona32: folds 
+Avskum2010: raises $0.20 to $0.30
+EngineerRoma: folds 
+Towinso: raises $0.60 to $0.90
+hastermaster: folds 
+Demo071: folds 
+Avskum2010: raises $1.35 to $2.25
+Towinso: raises $11.96 to $14.21 and is all-in
+Avskum2010: folds 
+Uncalled bet ($11.96) returned to Towinso
+Towinso collected $4.65 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.65 | Rake $0 
+Seat 1: Avskum2010 folded before Flop
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso (button) collected ($4.65)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: Demo071 (big blind) folded before Flop
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179165364:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:09:31 WET [2023/11/18 11:09:31 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Avskum2010 ($10.66 in chips) 
+Seat 2: EngineerRoma ($10.46 in chips) 
+Seat 3: Towinso ($16.61 in chips) 
+Seat 4: hastermaster ($9.68 in chips) 
+Seat 5: Demo071 ($10.71 in chips) 
+Seat 6: bonbona32 ($9.16 in chips) 
+Demo071: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [4s 6c]
+Avskum2010 has timed out
+Avskum2010: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+Demo071 has timed out
+Demo071: folds 
+bonbona32: folds 
+Uncalled bet ($0.20) returned to EngineerRoma
+EngineerRoma collected $0.25 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Avskum2010 folded before Flop (didn't bet)
+Seat 2: EngineerRoma collected ($0.25)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: Demo071 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247179184438:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:10:40 WET [2023/11/18 11:10:40 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Avskum2010 ($10.66 in chips) is sitting out
+Seat 5: Demo071 ($10.66 in chips) is sitting out
+Seat 2: EngineerRoma ($10.61 in chips) 
+Seat 3: Towinso ($16.61 in chips) 
+Seat 4: hastermaster ($9.68 in chips) 
+Seat 6: bonbona32 ($9.06 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Tc 8d]
+Avskum2010 leaves the table
+hastermaster: folds 
+Demo071 leaves the table
+bonbona32: raises $0.25 to $0.35
+andregers72 joins the table at seat #5 
+EngineerRoma: folds 
+Djentx joins the table at seat #1 
+Towinso: folds 
+Uncalled bet ($0.25) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Avskum2010
+Seat 5: Demo071
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) collected ($0.25)
+
+
+
+PokerStars Hand #247179191842:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:11:07 WET [2023/11/18 11:11:07 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($10 in chips) is sitting out
+Seat 2: EngineerRoma ($10.56 in chips) 
+Seat 3: Towinso ($16.51 in chips) 
+Seat 4: hastermaster ($9.68 in chips) 
+Seat 5: andregers72 ($8 in chips) 
+Seat 6: bonbona32 ($9.21 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+andregers72: posts big blind $0.10
+Djentx: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Qh 5h]
+andregers72: raises $0.10 to $0.20
+bonbona32: folds 
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: calls $0.10
+*** FLOP *** [Tc 7c As]
+hastermaster: checks 
+andregers72: checks 
+*** TURN *** [Tc 7c As] [2c]
+hastermaster: checks 
+andregers72: checks 
+*** RIVER *** [Tc 7c As 2c] [5s]
+hastermaster: checks 
+andregers72: checks 
+*** SHOW DOWN ***
+hastermaster: shows [Qh 5h] (a pair of Fives)
+andregers72: shows [6d Qd] (high card Ace)
+hastermaster collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Tc 7c As 2c 5s]
+Seat 1: Djentx
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) showed [Qh 5h] and won ($0.43) with a pair of Fives
+Seat 5: andregers72 showed [6d Qd] and lost with high card Ace
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179199261:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:11:34 WET [2023/11/18 11:11:34 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Djentx ($10 in chips) is sitting out
+Seat 2: EngineerRoma ($10.56 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($9.91 in chips) 
+Seat 5: andregers72 ($7.80 in chips) 
+Seat 6: bonbona32 ($9.21 in chips) 
+hastermaster: posts small blind $0.05
+andregers72: posts big blind $0.10
+Djentx: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Qd 2d]
+bonbona32: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+andregers72: calls $0.20
+*** FLOP *** [Ah 3s Js]
+andregers72: checks 
+EngineerRoma: bets $0.21
+andregers72: calls $0.21
+*** TURN *** [Ah 3s Js] [2s]
+andregers72: checks 
+EngineerRoma: bets $0.77
+andregers72: calls $0.77
+*** RIVER *** [Ah 3s Js 2s] [7d]
+andregers72: bets $6.52 and is all-in
+EngineerRoma: folds 
+Uncalled bet ($6.52) returned to andregers72
+andregers72 collected $2.49 from pot
+*** SUMMARY ***
+Total pot $2.61 | Rake $0.12 
+Board [Ah 3s Js 2s 7d]
+Seat 1: Djentx
+Seat 2: EngineerRoma folded on the River
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: andregers72 (big blind) collected ($2.49)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179211000:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:12:16 WET [2023/11/18 11:12:16 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($10 in chips) is sitting out
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($9.86 in chips) 
+Seat 5: andregers72 ($9.01 in chips) 
+Seat 6: bonbona32 ($9.21 in chips) 
+andregers72: posts small blind $0.05
+bonbona32: posts big blind $0.10
+Djentx: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [8c Tc]
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: raises $0.25 to $0.35
+andregers72: folds 
+bonbona32: calls $0.25
+*** FLOP *** [Qd Td Qh]
+bonbona32: checks 
+hastermaster: bets $0.20
+bonbona32: raises $0.50 to $0.70
+hastermaster: calls $0.50
+*** TURN *** [Qd Td Qh] [Js]
+bonbona32: checks 
+hastermaster: checks 
+*** RIVER *** [Qd Td Qh Js] [6d]
+bonbona32: checks 
+hastermaster: checks 
+*** SHOW DOWN ***
+bonbona32: shows [6s Ah] (two pair, Queens and Sixes)
+hastermaster: shows [8c Tc] (two pair, Queens and Tens)
+hastermaster collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [Qd Td Qh Js 6d]
+Seat 1: Djentx
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) showed [8c Tc] and won ($2.05) with two pair, Queens and Tens
+Seat 5: andregers72 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) showed [6s Ah] and lost with two pair, Queens and Sixes
+
+
+
+PokerStars Hand #247179228594:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:13:19 WET [2023/11/18 11:13:19 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Djentx ($10 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($10.86 in chips) 
+Seat 5: andregers72 ($8.96 in chips) 
+Seat 6: bonbona32 ($8.16 in chips) 
+bonbona32: posts small blind $0.05
+Djentx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [8s Jh]
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+andregers72: folds 
+bonbona32: raises $0.20 to $0.30
+Djentx: calls $0.20
+*** FLOP *** [Qd Kd 5s]
+bonbona32: bets $0.29
+Djentx: calls $0.29
+*** TURN *** [Qd Kd 5s] [Qc]
+bonbona32: bets $0.57
+Djentx: calls $0.57
+*** RIVER *** [Qd Kd 5s Qc] [2c]
+bonbona32: bets $0.90
+Djentx: calls $0.90
+*** SHOW DOWN ***
+bonbona32: shows [As 3d] (a pair of Queens)
+Djentx: shows [Kc Ts] (two pair, Kings and Queens)
+Djentx collected $3.93 from pot
+*** SUMMARY ***
+Total pot $4.12 | Rake $0.19 
+Board [Qd Kd 5s Qc 2c]
+Seat 1: Djentx (big blind) showed [Kc Ts] and won ($3.93) with two pair, Kings and Queens
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) showed [As 3d] and lost with a pair of Queens
+
+
+
+PokerStars Hand #247179252972:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:14:46 WET [2023/11/18 11:14:46 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Djentx ($11.87 in chips) 
+Seat 2: EngineerRoma ($10 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($10.86 in chips) 
+Seat 5: andregers72 ($8.96 in chips) 
+Seat 6: bonbona32 ($6.10 in chips) 
+Djentx: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ks 9d]
+Towinso: folds 
+hastermaster: raises $0.25 to $0.35
+andregers72: folds 
+bonbona32: folds 
+Djentx: folds 
+EngineerRoma: raises $0.95 to $1.30
+hastermaster: folds 
+Uncalled bet ($0.95) returned to EngineerRoma
+EngineerRoma collected $0.75 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: Djentx (small blind) folded before Flop
+Seat 2: EngineerRoma (big blind) collected ($0.75)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop
+Seat 5: andregers72 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179261080:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:15:15 WET [2023/11/18 11:15:15 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($11.82 in chips) 
+Seat 2: EngineerRoma ($10.40 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($10.51 in chips) 
+Seat 5: andregers72 ($8.96 in chips) 
+Seat 6: bonbona32 ($6.10 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Tc 7d]
+hastermaster: folds 
+andregers72: folds 
+bonbona32: folds 
+Djentx: folds 
+EngineerRoma: folds 
+Uncalled bet ($0.05) returned to Towinso
+Towinso collected $0.10 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Djentx (button) folded before Flop (didn't bet)
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) collected ($0.10)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179267505:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:15:38 WET [2023/11/18 11:15:38 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($11.82 in chips) 
+Seat 2: EngineerRoma ($10.35 in chips) 
+Seat 3: Towinso ($16.51 in chips) 
+Seat 4: hastermaster ($10.51 in chips) 
+Seat 5: andregers72 ($8.96 in chips) 
+Seat 6: bonbona32 ($6.10 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ks 3s]
+andregers72: raises $0.10 to $0.20
+bonbona32: folds 
+Djentx: folds 
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: calls $0.10
+*** FLOP *** [9h Qh Ts]
+hastermaster: checks 
+andregers72: bets $0.30
+hastermaster: calls $0.30
+*** TURN *** [9h Qh Ts] [Th]
+hastermaster: checks 
+andregers72: bets $0.40
+hastermaster: calls $0.40
+*** RIVER *** [9h Qh Ts Th] [As]
+hastermaster: checks 
+andregers72: bets $0.50
+hastermaster: folds 
+Uncalled bet ($0.50) returned to andregers72
+andregers72 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [9h Qh Ts Th As]
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: EngineerRoma (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded on the River
+Seat 5: andregers72 collected ($1.77)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179282612:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:16:33 WET [2023/11/18 11:16:33 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Djentx ($11.82 in chips) 
+Seat 2: EngineerRoma ($10.35 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($9.61 in chips) 
+Seat 5: andregers72 ($9.83 in chips) 
+Seat 6: bonbona32 ($6.10 in chips) 
+hastermaster: posts small blind $0.05
+andregers72: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [7h 7c]
+bonbona32: raises $0.10 to $0.20
+Djentx: folds 
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: raises $0.50 to $0.70
+andregers72: folds 
+bonbona32: raises $5.20 to $5.90
+hastermaster: folds 
+Uncalled bet ($5.20) returned to bonbona32
+bonbona32 collected $1.50 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: andregers72 (big blind) folded before Flop
+Seat 6: bonbona32 collected ($1.50)
+
+
+
+PokerStars Hand #247179292074:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:17:07 WET [2023/11/18 11:17:07 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($11.82 in chips) 
+Seat 2: EngineerRoma ($10.35 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($8.91 in chips) 
+Seat 5: andregers72 ($9.73 in chips) 
+Seat 6: bonbona32 ($6.90 in chips) 
+andregers72: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [2c Ac]
+Djentx: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+andregers72: calls $0.25
+bonbona32: raises $0.90 to $1.20
+EngineerRoma: folds 
+andregers72: folds 
+Uncalled bet ($0.90) returned to bonbona32
+bonbona32 collected $0.90 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: EngineerRoma folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: andregers72 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) collected ($0.90)
+
+
+
+PokerStars Hand #247179303151:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:17:47 WET [2023/11/18 11:17:47 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Djentx ($11.82 in chips) 
+Seat 2: EngineerRoma ($10.05 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($8.91 in chips) 
+Seat 5: andregers72 ($9.43 in chips) 
+Seat 6: bonbona32 ($7.50 in chips) 
+bonbona32: posts small blind $0.05
+Djentx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Kh 5h]
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+andregers72: folds 
+bonbona32: folds 
+Djentx: folds 
+Uncalled bet ($0.20) returned to EngineerRoma
+EngineerRoma collected $0.25 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx (big blind) folded before Flop
+Seat 2: EngineerRoma collected ($0.25)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247179308186:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:18:05 WET [2023/11/18 11:18:05 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Djentx ($11.72 in chips) 
+Seat 2: EngineerRoma ($10.20 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($8.91 in chips) 
+Seat 5: andregers72 ($9.43 in chips) 
+Seat 6: bonbona32 ($7.45 in chips) 
+Djentx: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9s 2s]
+Towinso: folds 
+hastermaster: folds 
+andregers72: raises $0.10 to $0.20
+bonbona32: raises $0.55 to $0.75
+Djentx: folds 
+EngineerRoma: folds 
+andregers72: calls $0.55
+*** FLOP *** [Kd 8h Ts]
+andregers72: checks 
+bonbona32: bets $0.79
+andregers72: folds 
+Uncalled bet ($0.79) returned to bonbona32
+bonbona32 collected $1.58 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [Kd 8h Ts]
+Seat 1: Djentx (small blind) folded before Flop
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 folded on the Flop
+Seat 6: bonbona32 (button) collected ($1.58)
+
+
+
+PokerStars Hand #247179317626:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:18:39 WET [2023/11/18 11:18:39 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: EngineerRoma ($10.10 in chips) 
+Seat 3: Towinso ($16.46 in chips) 
+Seat 4: hastermaster ($8.91 in chips) 
+Seat 5: andregers72 ($8.68 in chips) 
+Seat 6: bonbona32 ($8.28 in chips) 
+EngineerRoma: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9h 7c]
+hastermaster: folds 
+andregers72: raises $0.10 to $0.20
+bonbona32: folds 
+Djentx: folds 
+EngineerRoma: folds 
+Towinso: folds 
+Uncalled bet ($0.10) returned to andregers72
+andregers72 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx (button) folded before Flop (didn't bet)
+Seat 2: EngineerRoma (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 collected ($0.25)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179325037:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:19:06 WET [2023/11/18 11:19:06 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: EngineerRoma ($10.05 in chips) 
+Seat 3: Towinso ($16.36 in chips) 
+Seat 4: hastermaster ($8.91 in chips) 
+Seat 5: andregers72 ($8.83 in chips) 
+Seat 6: bonbona32 ($8.28 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Kd 5s]
+andregers72: folds 
+bonbona32: folds 
+Djentx: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: calls $0.20
+*** FLOP *** [9c Jc Td]
+hastermaster: checks 
+EngineerRoma: bets $0.47
+hastermaster: folds 
+Uncalled bet ($0.47) returned to EngineerRoma
+EngineerRoma collected $0.62 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [9c Jc Td]
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: EngineerRoma (button) collected ($0.62)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded on the Flop
+Seat 5: andregers72 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179332717:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:19:33 WET [2023/11/18 11:19:33 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: EngineerRoma ($10.37 in chips) 
+Seat 3: Towinso ($16.31 in chips) 
+Seat 4: hastermaster ($8.61 in chips) 
+Seat 5: andregers72 ($8.83 in chips) 
+Seat 6: bonbona32 ($8.28 in chips) 
+hastermaster: posts small blind $0.05
+andregers72: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [4s 4d]
+bonbona32: calls $0.10
+Djentx: folds 
+EngineerRoma: raises $0.40 to $0.50
+Towinso: folds 
+hastermaster: folds 
+andregers72: folds 
+bonbona32: folds 
+Uncalled bet ($0.40) returned to EngineerRoma
+EngineerRoma collected $0.35 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.35 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: EngineerRoma collected ($0.35)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: andregers72 (big blind) folded before Flop
+Seat 6: bonbona32 folded before Flop
+
+
+
+PokerStars Hand #247179339422:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:19:57 WET [2023/11/18 11:19:57 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: EngineerRoma ($10.62 in chips) 
+Seat 3: Towinso ($16.31 in chips) 
+Seat 4: hastermaster ($8.56 in chips) 
+Seat 5: andregers72 ($8.73 in chips) 
+Seat 6: bonbona32 ($8.18 in chips) 
+andregers72: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Jd 2h]
+Djentx: folds 
+EngineerRoma: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: folds 
+andregers72: folds 
+bonbona32: folds 
+Uncalled bet ($0.20) returned to EngineerRoma
+EngineerRoma collected $0.25 from pot
+EngineerRoma: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: EngineerRoma collected ($0.25)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: andregers72 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247179346012:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:20:21 WET [2023/11/18 11:20:21 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: EngineerRoma ($10.77 in chips) 
+Seat 3: Towinso ($16.31 in chips) 
+Seat 4: hastermaster ($8.56 in chips) 
+Seat 5: andregers72 ($8.68 in chips) 
+Seat 6: bonbona32 ($8.08 in chips) 
+bonbona32: posts small blind $0.05
+Djentx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9c Ts]
+EngineerRoma: folds 
+Towinso: folds 
+hastermaster: folds 
+andregers72: raises $0.10 to $0.20
+bonbona32: calls $0.15
+Djentx: folds 
+*** FLOP *** [Qs 8c Th]
+bonbona32: bets $0.24
+andregers72: raises $0.24 to $0.48
+bonbona32: folds 
+Uncalled bet ($0.24) returned to andregers72
+andregers72 collected $0.94 from pot
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [Qs 8c Th]
+Seat 1: Djentx (big blind) folded before Flop
+Seat 2: EngineerRoma folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 (button) collected ($0.94)
+Seat 6: bonbona32 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #247179361784:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:21:18 WET [2023/11/18 11:21:18 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Djentx ($11.57 in chips) 
+Seat 2: EngineerRoma ($10.77 in chips) 
+Seat 3: Towinso ($16.31 in chips) 
+Seat 4: hastermaster ($8.56 in chips) 
+Seat 5: andregers72 ($9.18 in chips) 
+Seat 6: bonbona32 ($7.64 in chips) 
+Djentx: posts small blind $0.05
+EngineerRoma: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [6s Td]
+Towinso: folds 
+hastermaster: folds 
+andregers72: folds 
+bonbona32: folds 
+Djentx: raises $0.20 to $0.30
+EngineerRoma: folds 
+Uncalled bet ($0.20) returned to Djentx
+EngineerRoma leaves the table
+Djentx collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Djentx (small blind) collected ($0.20)
+Seat 2: EngineerRoma (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179369335:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:21:44 WET [2023/11/18 11:21:44 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 3: Towinso ($16.31 in chips) 
+Seat 4: hastermaster ($8.56 in chips) 
+Seat 5: andregers72 ($9.18 in chips) 
+Seat 6: bonbona32 ($7.64 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ac 9s]
+andregers72: raises $0.10 to $0.20
+bonbona32: folds 
+Cyprian-Jones joins the table at seat #2 
+Djentx: folds 
+Towinso: folds 
+hastermaster: calls $0.10
+*** FLOP *** [Qc 7c 7d]
+hastermaster: checks 
+andregers72: checks 
+*** TURN *** [Qc 7c 7d] [4d]
+hastermaster: checks 
+andregers72: checks 
+*** RIVER *** [Qc 7c 7d 4d] [As]
+hastermaster: bets $0.20
+andregers72: folds 
+Uncalled bet ($0.20) returned to hastermaster
+hastermaster collected $0.43 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Qc 7c 7d 4d As]
+Seat 1: Djentx (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) collected ($0.43)
+Seat 5: andregers72 folded on the River
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179378735:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:22:18 WET [2023/11/18 11:22:18 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 2: Cyprian-Jones ($5.10 in chips) is sitting out
+Seat 1: Djentx ($11.67 in chips) 
+Seat 3: Towinso ($16.26 in chips) 
+Seat 4: hastermaster ($8.79 in chips) 
+Seat 5: andregers72 ($8.98 in chips) 
+Seat 6: bonbona32 ($7.64 in chips) 
+hastermaster: posts small blind $0.05
+andregers72: posts big blind $0.10
+Cyprian-Jones: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Td Js]
+bonbona32: raises $0.20 to $0.30
+Djentx: folds 
+Towinso: folds 
+hastermaster: folds 
+andregers72: calls $0.20
+*** FLOP *** [8d Kh 3d]
+andregers72: checks 
+bonbona32: bets $0.62
+andregers72: calls $0.62
+*** TURN *** [8d Kh 3d] [6s]
+andregers72: checks 
+bonbona32: checks 
+*** RIVER *** [8d Kh 3d 6s] [5h]
+andregers72: checks 
+bonbona32: checks 
+*** SHOW DOWN ***
+andregers72: shows [7d Jd] (high card King)
+bonbona32: shows [8s Ac] (a pair of Eights)
+bonbona32 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [8d Kh 3d 6s 5h]
+Seat 2: Cyprian-Jones
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: andregers72 (big blind) showed [7d Jd] and lost with high card King
+Seat 6: bonbona32 showed [8s Ac] and won ($1.80) with a pair of Eights
+
+
+
+PokerStars Hand #247179389745:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:22:57 WET [2023/11/18 11:22:57 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 2: Cyprian-Jones ($5.10 in chips) is sitting out
+Seat 1: Djentx ($11.67 in chips) 
+Seat 3: Towinso ($16.26 in chips) 
+Seat 4: hastermaster ($8.74 in chips) 
+Seat 5: andregers72 ($8.06 in chips) 
+Seat 6: bonbona32 ($8.52 in chips) 
+andregers72: posts small blind $0.05
+bonbona32: posts big blind $0.10
+Cyprian-Jones: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [6c 9s]
+Djentx: folds 
+Towinso: folds 
+hastermaster: folds 
+andregers72: calls $0.05
+bonbona32: checks 
+*** FLOP *** [Jd Kc 9d]
+andregers72: checks 
+bonbona32: checks 
+*** TURN *** [Jd Kc 9d] [7d]
+andregers72: checks 
+bonbona32: checks 
+*** RIVER *** [Jd Kc 9d 7d] [As]
+andregers72: bets $0.19
+bonbona32: folds 
+Uncalled bet ($0.19) returned to andregers72
+andregers72 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Jd Kc 9d 7d As]
+Seat 2: Cyprian-Jones
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: andregers72 (small blind) collected ($0.19)
+Seat 6: bonbona32 (big blind) folded on the River
+
+
+
+PokerStars Hand #247179399881:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:23:33 WET [2023/11/18 11:23:33 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 2: Cyprian-Jones ($5.10 in chips) is sitting out
+Seat 1: Djentx ($11.67 in chips) 
+Seat 3: Towinso ($16.26 in chips) 
+Seat 4: hastermaster ($8.74 in chips) 
+Seat 5: andregers72 ($8.15 in chips) 
+Seat 6: bonbona32 ($8.42 in chips) 
+bonbona32: posts small blind $0.05
+Djentx: posts big blind $0.10
+Cyprian-Jones: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [7h Jd]
+Towinso: folds 
+hastermaster: folds 
+andregers72: folds 
+bonbona32: folds 
+Uncalled bet ($0.05) returned to Djentx
+Djentx collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: Cyprian-Jones
+Seat 1: Djentx (big blind) collected ($0.10)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247179404108:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:23:48 WET [2023/11/18 11:23:48 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Djentx ($11.72 in chips) 
+Seat 2: Cyprian-Jones ($5.10 in chips) 
+Seat 3: Towinso ($16.26 in chips) 
+Seat 4: hastermaster ($8.74 in chips) 
+Seat 5: andregers72 ($8.15 in chips) 
+Seat 6: bonbona32 ($8.37 in chips) 
+Djentx: posts small blind $0.05
+Cyprian-Jones: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Qd Kh]
+Towinso: folds 
+hastermaster: raises $0.20 to $0.30
+andregers72: folds 
+bonbona32: folds 
+Djentx: folds 
+Cyprian-Jones: calls $0.20
+*** FLOP *** [7h 7d 2d]
+Cyprian-Jones: checks 
+hastermaster: checks 
+*** TURN *** [7h 7d 2d] [4h]
+Cyprian-Jones: bets $0.31
+hastermaster: folds 
+Uncalled bet ($0.31) returned to Cyprian-Jones
+Cyprian-Jones collected $0.62 from pot
+Cyprian-Jones: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [7h 7d 2d 4h]
+Seat 1: Djentx (small blind) folded before Flop
+Seat 2: Cyprian-Jones (big blind) collected ($0.62)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded on the Turn
+Seat 5: andregers72 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179413516:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:24:21 WET [2023/11/18 11:24:21 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: Cyprian-Jones ($5.42 in chips) 
+Seat 3: Towinso ($16.26 in chips) 
+Seat 4: hastermaster ($8.44 in chips) 
+Seat 5: andregers72 ($8.15 in chips) 
+Seat 6: bonbona32 ($8.37 in chips) 
+Cyprian-Jones: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [3d 5s]
+hastermaster: folds 
+andregers72: folds 
+bonbona32: raises $0.20 to $0.30
+Djentx: folds 
+Cyprian-Jones: raises $0.50 to $0.80
+Towinso: folds 
+bonbona32: folds 
+Uncalled bet ($0.50) returned to Cyprian-Jones
+Cyprian-Jones collected $0.70 from pot
+Cyprian-Jones: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0 
+Seat 1: Djentx (button) folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (small blind) collected ($0.70)
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop
+
+
+
+PokerStars Hand #247179421615:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:24:50 WET [2023/11/18 11:24:50 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: Cyprian-Jones ($5.82 in chips) 
+Seat 3: Towinso ($16.16 in chips) 
+Seat 4: hastermaster ($8.44 in chips) 
+Seat 5: andregers72 ($8.15 in chips) 
+Seat 6: bonbona32 ($8.07 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ts 6s]
+andregers72: raises $0.10 to $0.20
+bonbona32: folds 
+Djentx: folds 
+Cyprian-Jones: calls $0.20
+Towinso: folds 
+hastermaster: calls $0.10
+*** FLOP *** [5s Ah 8c]
+hastermaster: checks 
+andregers72: checks 
+Cyprian-Jones: checks 
+*** TURN *** [5s Ah 8c] [6d]
+hastermaster: checks 
+andregers72: checks 
+Cyprian-Jones: checks 
+*** RIVER *** [5s Ah 8c 6d] [Jh]
+hastermaster: checks 
+andregers72: bets $0.62
+Cyprian-Jones: calls $0.62
+hastermaster: folds 
+*** SHOW DOWN ***
+andregers72: shows [As Ac] (three of a kind, Aces)
+Cyprian-Jones: mucks hand 
+andregers72 collected $1.80 from pot
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [5s Ah 8c 6d Jh]
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (button) mucked [Js 4s]
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded on the River
+Seat 5: andregers72 showed [As Ac] and won ($1.80) with three of a kind, Aces
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179436050:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:25:42 WET [2023/11/18 11:25:42 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Djentx ($11.67 in chips) 
+Seat 2: Cyprian-Jones ($5 in chips) 
+Seat 3: Towinso ($16.11 in chips) 
+Seat 4: hastermaster ($8.24 in chips) 
+Seat 5: andregers72 ($9.13 in chips) 
+Seat 6: bonbona32 ($8.07 in chips) 
+hastermaster: posts small blind $0.05
+andregers72: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Td 4d]
+bonbona32: folds 
+Djentx: raises $0.20 to $0.30
+Cyprian-Jones: folds 
+Towinso: raises $0.60 to $0.90
+hastermaster: folds 
+andregers72: calls $0.80
+Djentx: calls $0.60
+*** FLOP *** [3c Qs Tc]
+andregers72: bets $8.23 and is all-in
+Djentx: folds 
+Towinso: calls $8.23
+*** TURN *** [3c Qs Tc] [9h]
+*** RIVER *** [3c Qs Tc 9h] [2s]
+*** SHOW DOWN ***
+andregers72: shows [Ad Qd] (a pair of Queens)
+Towinso: shows [Jc Jd] (a pair of Jacks)
+andregers72 collected $18.35 from pot
+*** SUMMARY ***
+Total pot $19.21 | Rake $0.86 
+Board [3c Qs Tc 9h 2s]
+Seat 1: Djentx folded on the Flop
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso (button) showed [Jc Jd] and lost with a pair of Jacks
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: andregers72 (big blind) showed [Ad Qd] and won ($18.35) with a pair of Queens
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179450861:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:26:34 WET [2023/11/18 11:26:34 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($10.77 in chips) 
+Seat 2: Cyprian-Jones ($5 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: andregers72 ($18.35 in chips) 
+Seat 6: bonbona32 ($8.07 in chips) 
+andregers72: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9c 8s]
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+andregers72: folds 
+Uncalled bet ($0.05) returned to bonbona32
+bonbona32 collected $0.10 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: andregers72 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #247179457273:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:26:57 WET [2023/11/18 11:26:57 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Djentx ($10.77 in chips) 
+Seat 2: Cyprian-Jones ($5 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: andregers72 ($18.30 in chips) 
+Seat 6: bonbona32 ($8.12 in chips) 
+bonbona32: posts small blind $0.05
+Djentx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [2c 2s]
+Cyprian-Jones has timed out
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+andregers72: raises $0.10 to $0.20
+bonbona32: folds 
+Djentx: folds 
+Uncalled bet ($0.10) returned to andregers72
+andregers72 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx (big blind) folded before Flop
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 (button) collected ($0.25)
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247179465303:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:27:25 WET [2023/11/18 11:27:25 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Djentx ($10.67 in chips) 
+Seat 2: Cyprian-Jones ($5 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: andregers72 ($18.45 in chips) 
+Seat 6: bonbona32 ($8.07 in chips) 
+Djentx: posts small blind $0.05
+Cyprian-Jones: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9c 7c]
+Towinso: folds 
+hastermaster: folds 
+andregers72: raises $0.10 to $0.20
+bonbona32: folds 
+Djentx: folds 
+Cyprian-Jones: calls $0.10
+*** FLOP *** [7d Qs Kh]
+Cyprian-Jones: checks 
+andregers72: checks 
+*** TURN *** [7d Qs Kh] [Qc]
+Cyprian-Jones: bets $0.22
+andregers72: folds 
+Uncalled bet ($0.22) returned to Cyprian-Jones
+Cyprian-Jones collected $0.43 from pot
+Cyprian-Jones: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [7d Qs Kh Qc]
+Seat 1: Djentx (small blind) folded before Flop
+Seat 2: Cyprian-Jones (big blind) collected ($0.43)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 folded on the Turn
+Seat 6: bonbona32 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179476430:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:28:05 WET [2023/11/18 11:28:05 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($10.62 in chips) 
+Seat 2: Cyprian-Jones ($5.23 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: andregers72 ($18.25 in chips) 
+Seat 6: bonbona32 ($8.07 in chips) 
+Cyprian-Jones: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [8d Ks]
+hastermaster: folds 
+andregers72: raises $0.10 to $0.20
+bonbona32: raises $0.55 to $0.75
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+andregers72: calls $0.55
+*** FLOP *** [Kh Kc 9d]
+andregers72: checks 
+bonbona32: bets $0.79
+andregers72: folds 
+Uncalled bet ($0.79) returned to bonbona32
+andregers72 leaves the table
+bonbona32 collected $1.58 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.65 | Rake $0.07 
+Board [Kh Kc 9d]
+Seat 1: Djentx (button) folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: andregers72 folded on the Flop
+Seat 6: bonbona32 collected ($1.58)
+
+
+
+PokerStars Hand #247179487194:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:28:44 WET [2023/11/18 11:28:44 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($10.62 in chips) 
+Seat 2: Cyprian-Jones ($5.18 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 6: bonbona32 ($8.90 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [8h 7d]
+bonbona32: folds 
+Djentx: folds 
+cooperjak88 joins the table at seat #5 
+Cyprian-Jones: folds 
+Towinso: folds 
+Uncalled bet ($0.05) returned to hastermaster
+hastermaster collected $0.10 from pot
+hastermaster: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) collected ($0.10)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179493179:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:29:05 WET [2023/11/18 11:29:05 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Djentx ($10.62 in chips) 
+Seat 2: Cyprian-Jones ($5.18 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.24 in chips) 
+Seat 5: cooperjak88 ($10 in chips) 
+Seat 6: bonbona32 ($8.90 in chips) 
+hastermaster: posts small blind $0.05
+cooperjak88: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [4c Td]
+bonbona32: folds 
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+Uncalled bet ($0.05) returned to cooperjak88
+cooperjak88 collected $0.10 from pot
+cooperjak88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: cooperjak88 (big blind) collected ($0.10)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179497828:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:29:22 WET [2023/11/18 11:29:22 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($10.62 in chips) 
+Seat 2: Cyprian-Jones ($5.18 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: cooperjak88 ($10.05 in chips) 
+Seat 6: bonbona32 ($8.90 in chips) 
+cooperjak88: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [7s Qh]
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+Uncalled bet ($0.05) returned to bonbona32
+bonbona32 collected $0.10 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: cooperjak88 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #247179502324:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:29:38 WET [2023/11/18 11:29:38 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Djentx ($10.62 in chips) 
+Seat 2: Cyprian-Jones ($5.18 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: cooperjak88 ($10 in chips) 
+Seat 6: bonbona32 ($8.95 in chips) 
+bonbona32: posts small blind $0.05
+Djentx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ts 6s]
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+bonbona32: folds 
+Uncalled bet ($0.05) returned to Djentx
+Djentx collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Djentx (big blind) collected ($0.10)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) folded before Flop
+
+
+
+PokerStars Hand #247179506382:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:29:53 WET [2023/11/18 11:29:53 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Djentx ($10.67 in chips) 
+Seat 2: Cyprian-Jones ($5.18 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: cooperjak88 ($10 in chips) 
+Seat 6: bonbona32 ($8.90 in chips) 
+Djentx: posts small blind $0.05
+Cyprian-Jones: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9c Ks]
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+bonbona32: raises $0.20 to $0.30
+Djentx: folds 
+Cyprian-Jones: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx (small blind) folded before Flop
+Seat 2: Cyprian-Jones (big blind) folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) collected ($0.25)
+
+
+
+PokerStars Hand #247179513320:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:30:17 WET [2023/11/18 11:30:17 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($10.62 in chips) 
+Seat 2: Cyprian-Jones ($5.08 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: cooperjak88 ($10 in chips) 
+Seat 6: bonbona32 ($9.05 in chips) 
+Cyprian-Jones: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [4d 9d]
+hastermaster: folds 
+cooperjak88: folds 
+bonbona32: folds 
+Djentx: raises $0.15 to $0.25
+Cyprian-Jones: folds 
+Towinso: folds 
+Uncalled bet ($0.15) returned to Djentx
+Djentx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx (button) collected ($0.25)
+Seat 2: Cyprian-Jones (small blind) folded before Flop
+Seat 3: Towinso (big blind) folded before Flop
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179523091:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:30:51 WET [2023/11/18 11:30:51 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($10.77 in chips) 
+Seat 2: Cyprian-Jones ($5.03 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.19 in chips) 
+Seat 5: cooperjak88 ($10 in chips) 
+Seat 6: bonbona32 ($9.05 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [6d 8s]
+cooperjak88: folds 
+bonbona32: folds 
+Djentx: raises $0.15 to $0.25
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+Uncalled bet ($0.15) returned to Djentx
+Djentx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx collected ($0.25)
+Seat 2: Cyprian-Jones (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded before Flop
+Seat 5: cooperjak88 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179531352:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:31:20 WET [2023/11/18 11:31:20 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Djentx ($10.92 in chips) 
+Seat 2: Cyprian-Jones ($5.03 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.09 in chips) 
+Seat 5: cooperjak88 ($10 in chips) 
+Seat 6: bonbona32 ($9.05 in chips) 
+hastermaster: posts small blind $0.05
+cooperjak88: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [6c 3h]
+bonbona32: raises $0.20 to $0.30
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.25 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: cooperjak88 (big blind) folded before Flop
+Seat 6: bonbona32 collected ($0.25)
+
+
+
+PokerStars Hand #247179536171:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:31:37 WET [2023/11/18 11:31:37 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($10.92 in chips) 
+Seat 2: Cyprian-Jones ($5.03 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($8.04 in chips) 
+Seat 5: cooperjak88 ($9.90 in chips) 
+Seat 6: bonbona32 ($9.20 in chips) 
+cooperjak88: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Js Qd]
+Djentx: folds 
+Cyprian-Jones: calls $0.10
+Towinso: folds 
+hastermaster: raises $0.35 to $0.45
+cooperjak88: folds 
+bonbona32: calls $0.35
+Cyprian-Jones: folds 
+*** FLOP *** [6c 4c Kc]
+bonbona32: bets $0.50
+hastermaster: raises $1 to $1.50
+bonbona32: calls $1
+*** TURN *** [6c 4c Kc] [Jd]
+bonbona32: checks 
+hastermaster: checks 
+*** RIVER *** [6c 4c Kc Jd] [Qh]
+bonbona32: bets $1.94
+hastermaster: calls $1.94
+*** SHOW DOWN ***
+bonbona32: shows [Jh Ac] (a pair of Jacks)
+hastermaster: shows [Js Qd] (two pair, Queens and Jacks)
+hastermaster collected $7.57 from pot
+*** SUMMARY ***
+Total pot $7.93 | Rake $0.36 
+Board [6c 4c Kc Jd Qh]
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded before Flop
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) showed [Js Qd] and won ($7.57) with two pair, Queens and Jacks
+Seat 5: cooperjak88 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) showed [Jh Ac] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #247179555350:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:32:43 WET [2023/11/18 11:32:43 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Djentx ($10.92 in chips) 
+Seat 2: Cyprian-Jones ($4.93 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.72 in chips) 
+Seat 5: cooperjak88 ($9.85 in chips) 
+Seat 6: bonbona32 ($5.31 in chips) 
+bonbona32: posts small blind $0.05
+Djentx: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [As 5d]
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+bonbona32: raises $0.20 to $0.30
+Djentx: folds 
+Uncalled bet ($0.20) returned to bonbona32
+bonbona32 collected $0.20 from pot
+bonbona32: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Djentx (big blind) folded before Flop
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 (button) folded before Flop (didn't bet)
+Seat 6: bonbona32 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #247179563697:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:33:12 WET [2023/11/18 11:33:12 ET]
+Table 'Aigyptios' 6-max Seat #6 is the button
+Seat 1: Djentx ($10.82 in chips) 
+Seat 2: Cyprian-Jones ($4.93 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.72 in chips) 
+Seat 5: cooperjak88 ($9.85 in chips) 
+Seat 6: bonbona32 ($5.41 in chips) 
+Djentx: posts small blind $0.05
+Cyprian-Jones: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Jc 4h]
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+bonbona32: raises $0.20 to $0.30
+Djentx: folds 
+Cyprian-Jones: calls $0.20
+*** FLOP *** [Qd 4c Qs]
+Cyprian-Jones: checks 
+bonbona32: bets $0.31
+Cyprian-Jones: raises $0.31 to $0.62
+bonbona32: calls $0.31
+*** TURN *** [Qd 4c Qs] [Tc]
+Cyprian-Jones: bets $0.90
+bonbona32: folds 
+Uncalled bet ($0.90) returned to Cyprian-Jones
+Cyprian-Jones collected $1.80 from pot
+Cyprian-Jones: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.89 | Rake $0.09 
+Board [Qd 4c Qs Tc]
+Seat 1: Djentx (small blind) folded before Flop
+Seat 2: Cyprian-Jones (big blind) collected ($1.80)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 folded before Flop (didn't bet)
+Seat 6: bonbona32 (button) folded on the Turn
+
+
+
+PokerStars Hand #247179577507:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:34:00 WET [2023/11/18 11:34:00 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($10.77 in chips) 
+Seat 2: Cyprian-Jones ($5.81 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.72 in chips) 
+Seat 5: cooperjak88 ($9.85 in chips) 
+Seat 6: bonbona32 ($4.49 in chips) 
+Cyprian-Jones: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [2c 9d]
+hastermaster: folds 
+cooperjak88: folds 
+bonbona32: folds 
+Djentx: folds 
+Cyprian-Jones: calls $0.05
+Towinso: checks 
+*** FLOP *** [4h Qh Th]
+Cyprian-Jones: checks 
+Towinso: checks 
+*** TURN *** [4h Qh Th] [Jc]
+Cyprian-Jones: checks 
+Towinso: bets $0.14
+Cyprian-Jones: calls $0.14
+*** RIVER *** [4h Qh Th Jc] [8h]
+Cyprian-Jones: checks 
+Towinso: checks 
+*** SHOW DOWN ***
+Cyprian-Jones: shows [4s 3h] (a flush, Queen high)
+Towinso: mucks hand 
+Cyprian-Jones collected $0.46 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0.02 
+Board [4h Qh Th Jc 8h]
+Seat 1: Djentx (button) folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (small blind) showed [4s 3h] and won ($0.46) with a flush, Queen high
+Seat 3: Towinso (big blind) mucked [Qd 7c]
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 folded before Flop (didn't bet)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179592437:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:34:52 WET [2023/11/18 11:34:52 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($10.77 in chips) 
+Seat 2: Cyprian-Jones ($6.03 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.72 in chips) 
+Seat 5: cooperjak88 ($9.85 in chips) 
+Seat 6: bonbona32 ($4.49 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [5d 7s]
+cooperjak88: raises $0.10 to $0.20
+bonbona32: folds 
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+Uncalled bet ($0.10) returned to cooperjak88
+cooperjak88 collected $0.25 from pot
+cooperjak88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (button) folded before Flop (didn't bet)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded before Flop
+Seat 5: cooperjak88 collected ($0.25)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179599074:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:35:15 WET [2023/11/18 11:35:15 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 1: Djentx ($10.77 in chips) 
+Seat 2: Cyprian-Jones ($6.03 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.62 in chips) 
+Seat 5: cooperjak88 ($10 in chips) 
+Seat 6: bonbona32 ($4.49 in chips) 
+hastermaster: posts small blind $0.05
+cooperjak88: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Kh Jd]
+bonbona32: folds 
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: calls $0.05
+cooperjak88: checks 
+*** FLOP *** [3d Ad 8h]
+hastermaster: checks 
+cooperjak88: checks 
+*** TURN *** [3d Ad 8h] [7s]
+hastermaster: checks 
+cooperjak88: bets $0.30
+hastermaster: folds 
+Uncalled bet ($0.30) returned to cooperjak88
+cooperjak88 collected $0.19 from pot
+cooperjak88: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [3d Ad 8h 7s]
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso (button) folded before Flop (didn't bet)
+Seat 4: hastermaster (small blind) folded on the Turn
+Seat 5: cooperjak88 (big blind) collected ($0.19)
+Seat 6: bonbona32 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179610710:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:35:55 WET [2023/11/18 11:35:55 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($10.77 in chips) 
+Seat 2: Cyprian-Jones ($6.03 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.52 in chips) 
+Seat 5: cooperjak88 ($10.09 in chips) 
+Seat 6: bonbona32 ($4.49 in chips) 
+cooperjak88: posts small blind $0.05
+bonbona32: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [7s 8d]
+Djentx: raises $0.20 to $0.30
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+bonbona32: folds 
+Uncalled bet ($0.20) returned to Djentx
+bonbona32 leaves the table
+Djentx collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Djentx collected ($0.25)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded before Flop (didn't bet)
+Seat 5: cooperjak88 (small blind) folded before Flop
+Seat 6: bonbona32 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247179614157:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:36:07 WET [2023/11/18 11:36:07 ET]
+Table 'Aigyptios' 6-max Seat #5 is the button
+Seat 1: Djentx ($10.92 in chips) 
+Seat 2: Cyprian-Jones ($6.03 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.52 in chips) 
+Seat 5: cooperjak88 ($10.04 in chips) 
+Djentx: posts small blind $0.05
+Cyprian-Jones: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [9d 2s]
+Towinso: folds 
+hastermaster: folds 
+cooperjak88: folds 
+Djentx: folds 
+Uncalled bet ($0.05) returned to Cyprian-Jones
+Cyprian-Jones collected $0.10 from pot
+Cyprian-Jones: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Djentx (small blind) folded before Flop
+Seat 2: Cyprian-Jones (big blind) collected ($0.10)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179618581:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:36:23 WET [2023/11/18 11:36:23 ET]
+Table 'Aigyptios' 6-max Seat #1 is the button
+Seat 1: Djentx ($10.87 in chips) 
+Seat 2: Cyprian-Jones ($6.08 in chips) 
+Seat 3: Towinso ($10 in chips) 
+Seat 4: hastermaster ($11.52 in chips) 
+Seat 5: cooperjak88 ($10.04 in chips) 
+Cyprian-Jones: posts small blind $0.05
+Towinso: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [2c 9s]
+hastermaster: folds 
+cooperjak88: folds 
+Djentx: folds 
+Cyprian-Jones: calls $0.05
+Towinso: raises $0.40 to $0.50
+Cyprian-Jones: folds 
+Uncalled bet ($0.40) returned to Towinso
+Towinso collected $0.20 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Djentx (button) folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (small blind) folded before Flop
+Seat 3: Towinso (big blind) collected ($0.20)
+Seat 4: hastermaster folded before Flop (didn't bet)
+Seat 5: cooperjak88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179624394:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:36:43 WET [2023/11/18 11:36:43 ET]
+Table 'Aigyptios' 6-max Seat #2 is the button
+Seat 1: Djentx ($10.87 in chips) 
+Seat 2: Cyprian-Jones ($5.98 in chips) 
+Seat 3: Towinso ($10.10 in chips) 
+Seat 4: hastermaster ($11.52 in chips) 
+Seat 5: cooperjak88 ($10.04 in chips) 
+Towinso: posts small blind $0.05
+hastermaster: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [Ah 5h]
+cooperjak88: folds 
+Djentx: folds 
+Cyprian-Jones: raises $0.20 to $0.30
+Towinso: folds 
+hastermaster: calls $0.20
+*** FLOP *** [Ac 7h Qc]
+NickSolo96 joins the table at seat #6 
+hastermaster: checks 
+Cyprian-Jones: bets $0.62
+hastermaster: raises $1.78 to $2.40
+Cyprian-Jones: raises $1.78 to $4.18
+hastermaster: folds 
+Uncalled bet ($1.78) returned to Cyprian-Jones
+Cyprian-Jones collected $5.20 from pot
+Cyprian-Jones: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.45 | Rake $0.25 
+Board [Ac 7h Qc]
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones (button) collected ($5.20)
+Seat 3: Towinso (small blind) folded before Flop
+Seat 4: hastermaster (big blind) folded on the Flop
+Seat 5: cooperjak88 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #247179643013:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:37:47 WET [2023/11/18 11:37:47 ET]
+Table 'Aigyptios' 6-max Seat #3 is the button
+Seat 6: NickSolo96 ($10 in chips) is sitting out
+Seat 1: Djentx ($10.87 in chips) 
+Seat 2: Cyprian-Jones ($8.48 in chips) 
+Seat 3: Towinso ($10.05 in chips) 
+Seat 4: hastermaster ($8.82 in chips) 
+Seat 5: cooperjak88 ($10.04 in chips) 
+hastermaster: posts small blind $0.05
+cooperjak88: posts big blind $0.10
+NickSolo96: sits out 
+*** HOLE CARDS ***
+Dealt to hastermaster [Kd 7d]
+Djentx: folds 
+Cyprian-Jones: calls $0.10
+Towinso: raises $0.40 to $0.50
+hastermaster: folds 
+cooperjak88: folds 
+Cyprian-Jones: calls $0.40
+*** FLOP *** [2s Qd 3d]
+Cyprian-Jones: checks 
+Towinso: bets $0.55
+Cyprian-Jones: calls $0.55
+*** TURN *** [2s Qd 3d] [9s]
+Cyprian-Jones: checks 
+Towinso: bets $1.61
+Cyprian-Jones: folds 
+Uncalled bet ($1.61) returned to Towinso
+Towinso collected $2.15 from pot
+Towinso: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [2s Qd 3d 9s]
+Seat 6: NickSolo96
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded on the Turn
+Seat 3: Towinso (button) collected ($2.15)
+Seat 4: hastermaster (small blind) folded before Flop
+Seat 5: cooperjak88 (big blind) folded before Flop
+
+
+
+PokerStars Hand #247179652069:  Hold'em No Limit ($0.05/$0.10 USD) - 2023/11/18 16:38:19 WET [2023/11/18 11:38:19 ET]
+Table 'Aigyptios' 6-max Seat #4 is the button
+Seat 1: Djentx ($10.87 in chips) 
+Seat 2: Cyprian-Jones ($7.43 in chips) 
+Seat 3: Towinso ($11.15 in chips) 
+Seat 4: hastermaster ($8.77 in chips) 
+Seat 5: cooperjak88 ($9.94 in chips) 
+Seat 6: NickSolo96 ($10 in chips) 
+cooperjak88: posts small blind $0.05
+NickSolo96: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to hastermaster [7c Jh]
+Djentx: folds 
+Cyprian-Jones: folds 
+Towinso: folds 
+hastermaster: raises $0.20 to $0.30
+cooperjak88: folds 
+NickSolo96: calls $0.20
+*** FLOP *** [Ts 6s 3h]
+NickSolo96: checks 
+hastermaster: checks 
+*** TURN *** [Ts 6s 3h] [Ks]
+NickSolo96: bets $0.31
+hastermaster: folds 
+Uncalled bet ($0.31) returned to NickSolo96
+NickSolo96 collected $0.62 from pot
+NickSolo96: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ts 6s 3h Ks]
+Seat 1: Djentx folded before Flop (didn't bet)
+Seat 2: Cyprian-Jones folded before Flop (didn't bet)
+Seat 3: Towinso folded before Flop (didn't bet)
+Seat 4: hastermaster (button) folded on the Turn
+Seat 5: cooperjak88 (small blind) folded before Flop
+Seat 6: NickSolo96 (big blind) collected ($0.62)
+
+
+
