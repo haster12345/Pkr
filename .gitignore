@@ -12,3 +12,4 @@ lib/
 pyvenv.cfg
 table_info.json
 pre_flop.json
+docker/
