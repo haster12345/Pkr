@@ -1,5 +1,6 @@
 from read_file import FileContent
 from pokerstars_parser import PokerStarsParser
+from create_tables import create_hand_info_table
 import os
 from local_db import dynamodb
 
@@ -24,8 +25,8 @@ def populate_table(item_list):
         for item in item_list:
             try:
                 batch.put_item(Item=item)
-            except TypeError as e:
-                print(e)
-                return
+            except:
+                create_hand_info_table()
+                populate_table(item_list)
     return
 

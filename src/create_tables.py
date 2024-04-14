@@ -1,6 +1,5 @@
 from local_db import dynamodb
 
-
 def create_hand_info_table():
     """
     All the stages of a hand are identified with a hand number we just create a table 
@@ -48,5 +47,3 @@ def create_hand_info_table():
 
     return
 
-if __name__ == '__main__':
-    create_hand_info_table()
