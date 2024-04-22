@@ -62,11 +62,8 @@ class PreFlop:
 
     def pot_classification(self, actions):
         """
-        this one is a bit complicated.
         given the action find if the pot was a 3-bet, call , rasie, 4-bet, ...
-        
         go through action, count number of bets, see which player bet what. 
-
         """
         count_number_of_bets = 1
         player_initiating_action = self.table_info['player_positions']['BB'][0]
@@ -188,9 +185,10 @@ class PreFlop:
         players_in_pot = self.get_players_in_pot(action)
         pot_classification = self.pot_classification(action)
 
+
         pre_flop_info = {
             'hand_number': hand_number[0],
-            'hand': hand[1],
+            'hand': f'{hand[1]}#{pot_classification[0]}',
             'hero_position': self.hero_position(),
             'action': self.action(pre_flop),
             'players_in_pot': players_in_pot, 
