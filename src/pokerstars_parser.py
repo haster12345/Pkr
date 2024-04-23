@@ -1,5 +1,6 @@
 from table_info import TableInfo
 from pre_flop_info import PreFlop
+import json
 
 class PokerStarsParser:
     """
@@ -19,3 +20,17 @@ class PokerStarsParser:
             json_pre.append(pre_flop)
             item_list.append(table_info | pre_flop)
         return json_table, json_pre, item_list
+
+    def parse_into_json(self):
+        table_info, pre_flop, _ = self.parse()
+
+        with open('pre_flop.json', 'w') as fp:
+            json_string = json.dumps(pre_flop, default=lambda o: __dict__, indent=2)
+            fp.write(json_string)
+
+        with open('table_info.json', 'w') as fp:
+            json_string = json.dumps(table_info, default=lambda o: __dict__, indent=2)
+            fp.write(json_string)
+        
+        return 
+
