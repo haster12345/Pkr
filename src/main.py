@@ -13,6 +13,8 @@ def main_json(folder_path):
         if filename[-3:]  == 'txt':
             hands = FileContent(folder_name=folder_path,file_name=filename).hands()
             PokerStarsParser(hands).parse_into_json()
+        else:
+            return "incorrect file type"
     return
 
 
